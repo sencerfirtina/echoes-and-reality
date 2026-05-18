@@ -1,0 +1,2501 @@
+﻿Makale_Basligi
+CsvHelper ClassMapper in conjunction with ShouldSkipRecord
+Iterate/Loop through a dynamically built HTML table?
+Creating a Blazor Template With Multiple Projects: Error from vstemplate file
+"In C#, how to inject dependent service with named options based on consumer service and param?"
+WPF returns UnsetValue on RelativeSource to Ancestor
+"Self-contained publish works locally but fails on other machines: ""Failed to update database to latest state"""
+WinUI ItemsRepeater weird behavior
+Aspire with a .NET 9 Blazor App: increasing Polly retry for HttpClientFactory while using a Http Message handler
+How do I get a list of changesets from Azure DevOps API?
+Accessing full native object in OpenCvSharp
+How to remove duplicates before Bind (how to run Distinct on IChangeSet<T>)?
+How can I tell Shouldly to ignore the concrete type of collections when comparing objects?
+How to create an unique index on multiple nested object property?
+What number should I Set to SpriteResolver.m_SpriteHash in a Animationclip by Script
+How can I instantiate and populate nested/complex objects with Select() in Entity Framework 6?
+What is the difference between the Heap size and the Private Bytes size?
+Overlay Window with transparent click-through background
+Allowing debugging in a .NET Framework 4.7.2 async Windows Service that uses Quartz.Net
+Edit autogenerate columns in telerik UI
+Bluetooth LE Device Connects Then Immediately Disconnects on First Attempt
+l have PositionVM in the ViewModels folder; how can I add more to ViewModels - any tips?
+NLog does not archive the file
+Can I send Console.WriteLine() output to a control on a Winform within the same app
+"C#, PowerShell hosting: how to process return variable"
+Porting Xamarin style Android App from VS2017 to VS2026
+Twitching when jumping downhill
+How do I stop Visual Studio 2022 from breaking on CAUGHT exceptions?
+Keyboard input does not reach WebView2 when embedding a C# WinForms window inside Delphi 7 using SetParent
+AccessViolationException in unmanaged function call
+Pomelo version compatible with EF Core 10
+"udp listener is ""batching"" on macos"
+Pass `string[][]` as `InlineData to xUnit Theory?
+Can't debug Javascript in WebView2 in a Windows c# app in VS2022
+Can't build the MAUI project on Mac with Visual Studio
+C# .net cannot run in VS code
+Why the maze i build the left and bottom outer walls are doubled instead single wall? and how to make it a single outer wall like in the right and top
+Why does IKeyedServiceProvider require manual registration in .NET 9 DI container?
+Order an EF Core query from DB1 based on property from DB2
+Is WPF binding correct?
+How do I test a Singleton for thread-safety in a unit test?
+"HttpClient OAuth ""No user found matching username"""
+C# WPF strict MVVM: Basic TreeView SelectedItem ViewModel Problem
+How to add timestamp (date) to BenchmarkDotNet exported HTML or CSV file names?
+Injecting delegates vs object instances in a large complex project
+How to upgrade project to SDK style without changing target framework?
+SocketException after upgrading to C# driver v3.2.0
+user-defined operators in C#14
+How should navigation between views be implemented in WPF using MVVM and ICommand?
+.NET 8 with ModelState validation not returning errors
+Accessing a dynamic property value using a variable when using dapper
+.NET logging without passing an ILogger around
+C# & EF Core nullable type return vs not found or multiple database rows
+Linq2Sql Migration Experience
+"How to dynamically set an HTML header tag (h1, h2, etc.) in a Blazor component?"
+Sorting the List<string> from a data class model field in descending order
+Metalama Diagnostics Not Being Reported Correctly
+Access consts of class defined in derived class
+Is there a way to prevent embedded Nuget packages from being available to consumers of my own package?
+How to write Custom Dimension in CRM 365 Application Insight?
+Command class not working - ICommand implementation
+How to prevent DuplicateKeyException when using MongoDB upsert with optimistic concurrency (versioning)?
+Automapper maps properties with the same name automatically despite the fact that I explicitly ignore them
+How to use DI with Semantic Kernel plugins?
+How to configure model with two principals related to the same child?
+List<T>.ForEach does not invoke the action HashCode.Add<T>
+DOTween animation behaves incorrectly when started in Start() (Unity)
+Accessing member through derived instance
+"Even if it works as HQL, NHibernate linq joining a subquery with grouping and using grouping subquery projections in join key and result causes errors"
+NetworkInterface class differentiate between 5G and Wifi and Ethernet connections
+TransactionScope lost on making TestInitialize async
+Reading a wav file and then writing the wav file to another file
+Prevent Default Scale Behaviour On .NET Maui Android
+GetRequiredKeyService Failing for Unbound Generic
+Is there a way to diagnose connection issues between the Azure OpenAI platform and other services?
+WolverineFx Conventional routing message transfer problem
+Intermittent Issue with App Insights not logging Custom Dimensions
+Uable to get get Azure Keyvault secrets from a C# dotnet-isolated function app
+How to print an image on an ESC/POS thermal printer in .NET MAUI?
+"Azure Web App | Deployment Error - Framework-dependent is an invalid value for the ""SelfContained"" parameter of the ""ProcessFrameworkReferences"""
+Preventing timeout when debugging (stepping through the code) in .NET Azure Function apps
+Password Protected Excel files in C# with open source libraries?
+Firebase Crashlytics and NET9 MAUI errors
+Is there any way to get Swagger document of a project without running it?
+Blazor JSinterop invokeMethodAsync on blur event is affecting js component behavior
+Using StackExchange.StringSetAsync to set multiple keys with the same expiration
+PdfAcroForm doesn't set values with SetValue
+Azure container app crashing while computing hash for large files
+Apparently my code is AI-generated (except it's not)
+Unable to load file or assembly 'Microsoft.Web.WebView2.Wpf'
+How to align a byte array transferred from Blazor to Typescript via interop to a multiple of 2 bytes?
+Wrong runtime selected
+C# Pass null to Generic Method Receiving Nullable Type
+Setting a specific Windows Version in TFM causes reference to Microsoft.Windows.SDK.NET.dll
+How do I define an MSBuild variable for the VSCode C# completion server?
+`dotnet test` is inconsistent when it comes to showing the total number of unit tests at the end
+"Displaying a large image, wildly different memory usage on different PCs"
+Cross-thread mutation with Task - is it allowed?
+How to programmatically insert Plant 3D catalog parts into a drawing using C# API?
+ASP.NET Core 10 extra content returned on JSON result
+Cant create a public class in app.MapGet in Minimal api app
+ExecuteUpdateAsync seems not to be sent to database
+Entity Framework/Linq Get Last Record From List With Condition
+Generating End of Day Forms using the Amazon SP-API
+Elsa Workflows 3 configuration for Entity Framework Core with SQL Server
+C# .NET extension without extension method
+Velocity set; but object not moving unity
+TSC TTP-225 printer label misaligned only on first print from .NET 8 console app
+A callback was made on a garbage collected delegate (error)
+Registration of Views and ViewModels with a parametered constructor in MAUI
+Is projecting directly to nested DTOs using ternary operators to handle nulls a reliable pattern in EF Core 8?
+How do I get nested Hot Chocolate graphql data loaders to batch properly?
+Highlight disposable objects in Visual Studio?
+TSC TE210 Printing extra label when print executed by application
+Android Subscription in MAUI BillingService
+Decrypting data from stream without knowing data size
+Using RenderComponent for templating in DataGrid
+Regex to split on %[A..Za..z]
+What is causing the half-millisecond delays in Unity's code execution?
+Add nullability check for out variable that isn't properly annotated
+"How to fix ""Could not load file or assembly 'System.Threading.Tasks.Extensions`"" exception when using System.Text.Json in .NET Framework?"
+ToolTip.Popup event not firing with ToolTip.Show() in .NET Framework
+Using SSL certificate failed with OpenSSL error - ca md too weak. .NET 9 Docker
+How to make composition ColorShadow control circular?
+Anonymous delegate vs Event handler for getting data from data thread to GUI thread
+PauseUI not appearing because event not subscribed to because Start function not work
+How to lazily load DataTable rows from a large text file using IEnumerable and yield return in C#?
+Basic order of operations question with ++
+How to distribute a .NET 9 application using Microsoft.Office.Interop.Excel?
+Visual Studio create new custom Scaffold Item for Razor WebApp
+Linq sort entity if JSON value exists
+How to remove Hot Reload Service in .NET
+How do I cluster/group duplicate customer objects in my list based on email OR mobile in C#
+ASP.NET Core Web API with repository pattern: how to get User.Identity in the repository class?
+Linq to XML counter based on current XElement ToList row entry
+WinForms / .NETFramework: Format DataGridViewCell according to ValidationResult
+Korean Text word breaking problem in WinUI project
+How come Azure Developer CLI says my Aspire bicep is invalid when running in pipelines?
+.NET DataViewGrid displays both date and time in a column unless it's midnight then you only see the date
+How to convert to string an 'allows ref struct' generic argument?
+Visual Studio: Prioritize System.Collections over Nunit.Framework for Lists
+How do I implement C# 14 extension block on a generic?
+How to implement Parquet legacy 2-Level List Structure in C#
+how to use wpf datagrid in c# with autocomplete datagrid inside a cell
+Custom Calendar Date Picker in Avalonia in JetBrains Rider
+keywords used in conditional checks
+Deserialize complex JSON with data in keys
+"Handling silently-returning methods: overloads, parameters, or other?"
+How can I manage duplicate shared schema declarations from an OpenAPI spec for shared libraries?
+How do I make it so that the user only enters numbers in Console.ReadLine?
+Best way to store accessToken and refreshToken in cookies
+Common DLL for Entity Framework Core
+"Get all implementations of an interface for a class, including for base"
+File upload (multipart/form-data) not working using Chilkat
+How can I retrieve extended information for a Branch in Acumatica from Bills and Adjustments (AP301000)?
+Using JsonSchema.Net to validate JSON when the JSON schema references other schemas
+Prefab not aligning with grid quads when rotated in grid-based building system
+How to Track Full Update History of TPT Entities in EF Core with MySQL
+IIS time-taken shows multi-second latency while ASP.NET webforms → WCF → SQL timings are sub-second (intermittent)
+Cancel multiple tasks after a period of time
+DevExpress ASPxGridView reloads data on every group row expand - how to cache/prevent?
+How can I connect to an Epson printer in a .NET 8 class library?
+How do you implement reader/writer task synchronization using C# async programming?
+SupplyParameterFromQuery vs Parameter in Blazor
+Setting value on dropdownlist with Razor on ASP.NET 4.8
+Is there a difference between the C# Volatile.ReadBarrier vs Volatile.Read?
+Is there a better way to validate user input in C# then using a do-while loop
+HttpIOException: The response ended prematurely
+MSBuild on macOS can't find NuGet DLLs due to Windows-style paths created during restore
+How to stop Default behaviour of Blazored.TextEditor
+IConfiguration and Azure KeyVault
+How to move a certain file to another directory?
+What is the difference between these two methods of returning new instance value?
+504 Gateway Timeout Error While Downloading Folder with Multiple Files
+How to get DataContext from PlacementTarget parent in ContextMenu WPF
+Display directly on screen. Work on Windows 10 not on Windows 11
+When should I use PowerShell.AddCommand() and when should I use PowerShell.AddScript()?
+Grpc bidirectional stream not throwing exception when not implemented
+How can I make a customized RadioButton fill up available space horizontally in .NET Maui
+"Install software as admin, but perform updates without admin rights"
+How to accurately measure time difference between audio and video RTP packets coming from different clients?
+WPF MVVM: View XAML throws runtime exception when instantiating inventory management window
+ASP.NET Core web app with EntraId: the signin-oidc url
+Unity build failed; CommandInvokationFailure: Gradle build failed
+Disposing FileStream in .NET
+How to accept incoming Teams call in ACS Call Automation SDK and transfer to SIP without Teams Phone license?
+System.Net.Http.MutlipartFormDataContent error in client running in .NET Framework 4.8 when connecting to Apache Tomcat server
+Trouble fetching thumbnails for hydrated files in a Cloud File API folder
+Is it safe to use NativeMemory.Copy for overlapping regions of memory?
+"Firebase version 3.4.0 not support GoogleCredential.FromFile("""")"
+How to setup a Remote PowerShell using WSManConnectionInfo in C# using Certificate Authentication?
+How to achieve PCM playback on .NET Android using AudioTrack
+How to use Autofac container for cleaning up on application shutdown?
+Designing PhilHealth (Philippine Health Insurance) integration before official SOAP APIs are available (.NET)
+Merging FHIR patients using Firely .NET
+C# How to securely call an API server from a Client App with OpenIDConnect / OAuth 2 and OpenIDDict
+"Does the finally block run when returning inside try, and what happens if finally also returns?"
+Why C# compiler does not see that variable is not null before exiting constructor?
+Microsoft Feature Management custom provider DI error in VS Code
+What kind of DateTimeOffset does TriggerBuilder.StartAt expect?
+Change Button.Text property to a custom value in C#
+System.Text.Json.Serialization.JsonConverter<T> which globally omits properties with a given attribute on writing?
+Weird invalid signature exception on second try
+Await and data integrity in concurrent scenarios
+Why ReadManyItemsAsync<T> uses very high RU and does essentially full table scan?
+Generating custom appearance for signature field using iText 9.0.5
+MudBlazor Login Dialog: Enter key needs to be pressed twice before login works
+How can I Set Focus to an item property in a TreeView
+Dataverse plugin ExecutionContextId shows different GUID each execution - instances not cached?
+"How to prevent ""Operation not supported"" exception when making HTTP request from Cloud Run web instance?"
+DevExpress WinForms: Ribbon BarButtonGroup loses visual grouping when AllowAllUp = true is set for SpreadsheetControl alignment buttons
+What could cause requests sent from C# to trigger a firewall 403 response from Azure Application Gateway/v2 WAF
+"I'm able to get the Quill delta content, but I cannot pass it to string through IJSRuntime.InvokeVoidAsync"
+Add header parameter to endpoint OpenAPI definition
+Need to call ConfigureAwait for tasks only once or after all awaits?
+XmlSerializer: how to ignore derived class
+C# GDI+ questionable font rendering on Win 7
+Entity Framework Core generates unnecessary SELECT after INSERT with Informix - How to disable?
+Correct way to create mcp client?
+How to bind to a listbox item's automation ID?
+C# Entity Framework use value from joined object and only return main object
+Moq: how to create a HttpRequest object containing a HttpPostedFile?
+C# The library 'hostpolicy.dll' required to execute the application was not found in
+Running a .NET Framework 4.7.2 Windows Service on Windows 10/11 ARM64
+Polymorphic deserialize JSON using DI container to create instances
+Cannot authenticate to email account with MailKit
+How does WinForms manage to display ⅓ for the Verdana font when it doesn't exist in that font? And why does it not work for Windows 11?
+ASP.NET Web API - Model binder validation property name
+My mine game can't generate its mines on the borders of a 10x10 grid
+System.InvalidOperationException : Sequence contains more than one element for DotNet Testcontainer
+How do I show output from C# code in Visual Studio Code?
+Making an array that accepts only a string and instances of a class?
+.NET Minimal APIs built-in validation stops working when endpoint mapping is in different assembly than validatable DTO
+C# System.IO.FileNotFoundException Loading Dll
+How to package windows specific executable in nupkg with Net Core 8 SDK style project
+PowerShell hosting in C#: implicit remoting
+Root provider injected into service resolved from provider of new scope
+Move HTTP request with cert file from nodeJs to .NET not working
+Disable Revocation in Client Certificate Authentication
+Customizing MSBuild to only include files where there isn't another with a specific path segment
+.NET MAUI 9 ZXing.Net.Maui doesn’t scan 26-character Code128 barcodes (not detected or decoded incorrectly)
+UseFunctionInvocation returns nonsense output
+Statically generated XML parsing code using `Microsoft.XmlSerializer.Generator` and `sgen` is not called breaking AOT compatibility
+MAUI Behavior doesn't change the result
+How to Clean Ugly Extension Methods
+".NET IHttpClientFactory + Microsoft Resilience retry: same HttpRequestMessage resent, delegating handler not re-running?"
+Set-Cookie header disappears after some time when using HttpClient with DelegatingHandler in ASP.NET Core
+The auto-completion for await changes the method's signature - how do I prevent that?
+Unable to reload a C# dll from C#
+"Publish Failed, but able to build successfully, and run"
+.NET Minimal API app.MapFallback doesn't complete the request
+Multiplayer programming advice for new game (C# & Mono)
+Define Style for element in a custom component
+Upgrading project to .NET 10 breaks Scalar support when using document transformers
+`Common Language Runtime detected an invalid program` error generating simple dynamic method
+WinDbg Connects to Remote Debugger But Cannot Load Module
+How to correctly configure the MapperConfiguration?
+How to get the list of attribute codes for each item?
+Why does my player randomly move backwards?
+ASP.NET Core 10 integration tests using multiple web projects/entry points
+Connecting DB from godaddy to Azure web app
+WPF Custom Control VisualState affecting other instances when using StaticResource for themed colors
+How to create a custom ListBox in C# WinForms (Visual Studio 2022)
+Add JsonObject to JsonArray with AOT
+Singleton using Lazy<T> vs Singleton using static field initializer
+"Apache.Avro.Tools (avrogen) fails to resolve referenced schema in .NET: ""Undefined name"""
+Convert Month/Day/Year columns to date to check date in a SQL Query
+Digital Persona SDK for 1:n verification
+AWS S3 .NET SDK download fails for .mp4 and .mp3 files with IOException: “An existing connection was forcibly closed by the remote host”
+mongodb delete nested grandchild query in C#
+Data redaction: How to avoid logging of a record property?
+Telerik Report Generation Fails in IIS on Azure VM with OperationCanceledException
+C# (.NET 4.8) HTTP/s Proxy Checking Accuracy
+Tablelayoutpanel winforms cellpainting event draw a outside curve at first column
+Where in this ASP.Net identity source code is the auth cookie removed?
+Outlook E-Mail Drag and Drop in C# Application
+Can a Composite Component class inherit from another abstract base class without breaking the Composite pattern?
+Instancing in Godot
+Is it fine to use IQueryable in BLL?
+"When is it appropriate to use the ""Async"" suffix when naming a function? Yield, or non-blocking, or both?"
+How to adjust placement/alignment of menuitem popup in a menubar?
+How can I render the plaintext first before the image in Blazor?
+FontAwesome icon not displaying when reloading Blazor component
+"Wix 5 - Installer BootstrapperApplicationRun() Runtime Error ""value does not fall within expected range"""
+Maui Popup - Message does not fill entire popup area on iOS
+Which design pattern should be used for the backend of a web application?
+"Am I safe to merge Entity Framework Core migrations added by ""feature branches""?"
+Reflection access to static extension methods and extension properties
+CoreWCF soap12 authentication
+Spectre Console 'System.NotSupportedException: Cannot show selection prompt since the current terminal isn't interactive' in Win11 console
+My Player is still in climbing mode when player runs off the ladder
+How to pass command line args from ASP.NET Core integration test to tested app
+Azure Function cache misses - In Memory Cache .NET
+What are the kinds of practical difficulties you've run into when implementing Microfrontends?
+Clear text using Console.Clear
+Declaring SqlConnection fails service to start
+"Proper management of Database transactions across services - ASP.NET Core, EF Core"
+"Authentication Flow between .cshtml and ,jsx"
+Call CreateUserComand handler in Filter
+"Authorize filter attribute is returning signing key error, whereas it is 100% correct"
+Unity crashes after I run my save file script
+C# XML Serialization: Merging multiple lists before saving
+How can I create and use a custom shared framework with <FrameworkReference> in .NET?
+How can I make UI template Javascript work each time a page is loaded in Blazor SSR Application .NET 9?
+C# SOAP Call for Kelio Service Authentication issue
+"""break"" function doesn't work correct within ""while"" cycle"
+Trying to seamlessly run a test site and its unit tests at the same time
+Entity Framework Core is using literal values instead of parameters. Do I need to worry for SQL injection
+C# Dependency Injection Without Objects?
+Counteracting recoil without moving return vector
+Loop through tags based on IgnoreCase attribute value
+Best way to conver HTML content in to PDF
+.NET 10 benchmark oddities (comparing to .NET 9)
+Check if a server is part of an Azure cluster using C# and PowerShell
+AutoMapper. ForAllMembers except some members
+process.WaitForExit() does not always work
+MSTest not properly discovering DataTestMethods when adding new folder to project
+How to disable the pink Razor feature warnings in Visual Studio?
+Bot Framework - using TeamsSSOTokenExchangeMiddleware prevents OnTeamsSigninVerifyStateAsync from being called
+"Why when I place I/O task before CPU-bound task, runs faster than place I/O task after CPU-bound task?"
+Having issues with passing an object to be displayed between two view models in .NET Maui using Community Toolkit
+How to prevent Visual Studio 2022 from adding random using statements? I get namespace could not be found errors on code I didn't write (CS0246)
+Why is my scene not rotating smoothly with Slerp?
+How does .NET ensure memory safety of the compiler generated state machine for async/await?
+WebView in .NET MAUI can not access a webpage that is served on a VM using Fiddler (a proxy)
+Ideal way to write an ObservableCollection<customtype> to a text file?
+.NET 9.0 No interactivity until the WASM switch on the Counter page with InteractiveAuto
+Is there an altgr modifier for SendKeys.Send
+Ignore boolean property = true in JSON serialization
+Download ICS from outlook.com using HttpClient
+"C#, VS2022, Monitor DPI scaling inconsistent on a single monitor"
+"Blazor - running method in program.cs throws an error ""An unhandled error occurred"""
+MAUI WebAuthenticator with Microsoft SSO doesn't return IdToken / AccessToken is not JWT
+How to define the data model as a SQL variable not a table or view in EF Core?
+Are MSIX installers suitable for Windows services with complex dependencies?
+Using overload and virtual correctly
+How to allow large file uploads (>50 MB) in ASP.NET Core 6/7 Web API hosted on Azure App Service
+Project EnvironmentName is not correct when building with debug
+How do I get the destination page and rect of an internal link (GoTo action) in a PDF document?
+Add event to style WinUI like css
+Response not received at Bot service
+RibbonComboBox not showing initial selected value
+Creating a C# Windows or Worker service to monitor Syslog network traffic
+Is it possible to use generic argument of a type for its attribute parameter (JsonConverter)?
+How to handle Disposing of CryptoStream after exception occurs during decrypt
+Difference between await and .ConfigureAwait(true)
+Server Side pages in Blazor WASM project
+Best way to make a camera controller in Unity (New input system)
+Hierarchical Directory.Packages.props with GlobalPackageReference doesn't resolve for tests
+Word Interop Find.Execute() modifies the source Range object to a undesired value
+In xunit test catch block not executing after mocking
+.NET Aspire: Overriding Kafka configuration in a container with a forced --environment ENTRYPOINT
+Cannot access the specified file or folder (UNABLE_TO_MASK_PATH). Verify that the item is not marked with system or hidden file attributes
+Is it possible to prevent only a single row from being excluded and edited in a DataGrid?
+C# LINQ - Splitting a List into two variables by a condition
+How to disable binary log generation using Microsoft Testing Platform and xUnit v3?
+Use MouseDoubleClick event trigger in every datagrid row
+How to add addin in test centric beta 7
+Creating a DLL called from C#
+Reading AB PLC Tags using libplctag and C#
+Access to XMLHttpRequest blocked by CORS policy
+Microsoft Graph Page Iterator async/ non-async lambda function
+Which exceptions are able to be thrown by S3 in the .NET SDK?
+"If I specify the capacity of a dictionary through the constructor, should I use a prime?"
+Making sure Enum prints as a number
+Create an open delegate via MethodInfo of a Value Type instance method with out parameters
+C# array[i] where i is IBinaryInteger<T>?
+How can I clone objects without retrieving them in MongoDb?
+How to get email address of Matter owner?
+"In unity an IL2CPP build, is the “.NET semantic runtime” implemented in C++ or still in C#?"
+Why is the Client drop down list in my .razor file showing the integer value instead of the text value?
+How to prevent popup reopen
+How does RaycastHit2D.fraction work in relation to CircleCasts?
+Handling open switches in SpiceSharp simulation
+"How to handle empty string textbox bound to an int property validation error in WPF? Value """" could be not converted MVVM"
+MudBlazor MudTable OnRowClick Event - examples in documentation don't work
+DO-WHILE loop challenge
+.NET 9 equivalent for System.Runtime.Remoting.Lifetime
+Which methods to use to bind SyntaxNodes to Symbols and which SyntaxNode types can be bound?
+Load Custom Controls into ToolBox in .NET 8
+How to convert T to INumber
+JSON Deserialization of Custom HashSet
+How to get entire Ydoc state in byte[] in c# using YDotNet package?
+Visual Studio Extension - UI Context Rule Not Applying
+How can I get BLE to work with Windows 10?
+VS Code doesn't Recognize Unity Classes
+MAUI MacCatalyst doesn't support RefreshView. Any workaround?
+Is there a way to await a Console.ReadLineAsync and another Task in parallel with WaitAny()?
+"Generate a request with a collection parameter suffixed by [] (request?ages[]=10&ages[]=20&ages[]=30"")"
+Microservices transactions with saga orchestrator
+Unable to call private method for System.Security.Cryptography.X509Certificates.SubjectAlternativeNameBuilder
+"how would I skew a Windows Forms texture/image so that one side is smaller/bigger than the other side to have a ""pinched"" look to it"
+Expose a status endpoint from a C# Windows Service
+CultureInfo.DefaultThreadCurrentCulture doesn't affect threads of Task.Run in C#?
+Resolving conflicts between attributes and relationships in JsonApiSerializer
+How to handle errors in Blazor WebAssembly?
+OnGUI label not staying centered above GameObject when viewed from different distances
+Items on canvas are out of position until zoom/pan/item added
+WPF TabControl: Hiding tab headers leaves a border line on top
+Draw a straight line between two visual elements in MAUI app. .NET 9
+How to update Maui from .NET 8 to .NET 9?
+Pdf Background Color changing for each row
+How do I return extra properties in abp framework's autocomplete select?
+How do I convert this Visual Foxpro DLL call to .NET Core
+Azure function app parameters required to be displayed
+"System.Text.Json source generation calling GetTypeInfo excessively, slower than Newtonsoft.Json in Unity 6"
+Angular login request stays pending when authenticating using token
+Adding modifiers to System.Text.Json serialization when using source generation
+Can auto-mapper transform the record into the single string value?
+Managed exceptions in MAUI Windows app logged as CoreMessagingXP.dll crashes
+How do I get values from a DataGrid Column?
+IConfiguration Bind doesn't work with arrays
+DataGridView cell painting issue on horizontal scroll
+Simple number analyzer application
+Creating projects
+"How to log ""who did what"" without adding userId in every method?"
+How to properly wait for second player before starting simulation?
+PeriodicWorkRequest is not being scheduled in my MAUI App
+ASP.NET mobile page not redirecting for customErrors
+AWS SDK v4 and S3 GetObject - System.Net.WebException: The underlying connection was closed: An unexpected error occurred on a send
+Pause menu not appearing when pressing ESC
+"What is the deal with CA1070 ""Do not declare event fields as virtual""?"
+Why hasn’t C# evolved null into a fully target-typed literal like default or []?
+"What does it mean when Project.deps.json shows ""fileVersion"": ""0.0.0.0""?"
+Is there anyway I can change a M:N table dependency into a 1:N dependency
+JWT claims in Blazor web app do not get taken over
+Can muli-inheritance be simulated with generic class in C#
+How do I add custom IChatClient middleware to chat client registered with a Semantic Kernel?
+Blazor Server Side Windows impersonation to update Active Directory fails
+Microsoft.Web.Administration.ServerManager can't access Sites due to UnauthorizedAccessException
+.NET Sporadic FormatException: Cannot deserialize a 'String' from BsonType 'ObjectId'
+"Refused to apply inline style because it violates the following Content Security Policy directive: ""style-src 'self'"""
+Regex character range excluding one character
+Programatically written (Maui) UraniumUI TabItem does not inherit Xaml style override for TabView
+EventCallback handling not working as intended
+Populate a DataTable row with the primary key after an Insert into a SQL Server table
+Typing into an input field and tabbing to the next loses focus on the next input field
+What free/open-source OCR libraries work well with C#/.NET?
+Revoking Connected Devices: How to Invalidate IMemoryCache Immediately to Prevent 2-Minute Access Window?
+AIMAC System Development
+How can I set the height and font of a MenuBarItems in the content page?
+Could not load file or assembly 'System.Threading.Tasks.Extensions' even though binding in web.config appears correct?
+Treat every line of my code as a breakpoint
+Decorator Pattern with DI
+MaterialSkin2 Font Size and Style
+Signing a PDF with a signature returned from an API
+What is the recommended way to override the default bootstrapper for unpacked Winui3 apps?
+Netcode with custom PlayFab Party transport
+“The type initializer threw an exception” even though static fields are initialized
+Visual Studio silently reverts mstest package versions
+Managing async Tasks when shutdown occurs in .NET apps
+Procedural animation using PID regulators is framerate dependent and jittery
+asp.net tilde ~ paths not resolving on pages with a master page
+Why after updating .NET core extension in vscode do all my builds want to use .NET 8 and how do I rollback?
+"What's the recommended way to handle situations where references are possibly null, but if they're null the program is fundamentally flawed anyway?"
+Saving Movement Data as a CSV File in VR Headset (C#/Unity)
+Cinemachine follow camera stuttering if the target object to follow rigidbody gravity is disabled. how to make the camera follow smooth?
+MRUK Mixed Reality - Having trouble with Editing EffectMesh of device (Meta Unity)
+Is there a way to have an implicit conversion operator from `null` without specifying the type of `null`?
+C# Maui UraniumUI TabView how to set a global override to current selected tab?
+HeaderSettings / FooterSettings not working
+Enable hot reload in a Blazor project
+WPF ListView: AutoScroll to last item when new messages arrive (chat-like behavior)
+"Why am I getting a different HTTP response for a seemingly same request between curl, C# HttpClient Win10 and C# HttpClient Win11"
+How to solve System.IO.FileNotFoundException error for System.ClientModel
+How to send a Conversation message with multiple media files?
+Dotnet Restore cannot find .NET 9 packages (NU1102) even though they exist in internal Artifactory NuGet
+CollectionView crashes with long list of data or refresh ItemsSource
+JSchemaValidatingReader - OOM when handling large tokens
+How to display Openstreetmap map on C# & WPF ? I only get black screen
+Xero Api Webhook Intent to Receive C#
+Change service StartupType of an UWP app takes long time
+"EF Core, Work locally, save/update entire tree of data"
+"How do I Register Open Generics in ServiceCollection when they aren't ""equal"""
+I'm trying to record audio from my computers speakers and microphone and save it into a single file
+Is it possible to implicitly convert 'method group' to Delegate?
+Azure AD login returning unauthorize (401) inspite of having up-to-date configs
+How to release a file written with JsonSerializer.Serialize(Utf8JsonWriter)?
+Remove grey code suggestions overlays in VSCode for C#
+ASP.NET Core background service and queue processing behaves weird
+Problem with Content-Type in a (.net) StringContent
+Advice for aspiring developer?
+Is there a way to debug xaml file in Visual Studio?
+"Polymorphic routing in NServiceBus's Azure Service Bus Transport version 6, how to do without enumerating all concrete types?"
+How to send model and some other parameters from javascript to controller using jquery.ajax?
+Getting started with MYOB .NET SDK (Not API)
+Solve Vendor and Device Ids to Names in C#
+IHttpActivityFeature or System.Diagnostics.Activity?
+Code coverage reports uncovered branch on method returning IAsyncEnumerable<T>
+How can I dispose of the DbContext in a Blazor Web App to avoid resource leaks?
+Performance comparison of where methods are called from
+Is this the new proper way to detect AllowAnonymous with .net 10 and OpenApi?
+Azure function not launched by Aspire when running test in normal test mode
+Mock with sequence and verifyable does not fail when it should
+How to dynamically enumerate all event-fields in a class and nullify them?
+Avoid browser's download file dialog box in selenium/C# automation
+ASP.NET Core Identity with IdentityServer and problems with IsAuthenticated == false
+Removing frame/outside of the text from red LED dotted display
+How do I make a rigidbody move in the direction the camera is facing?
+How can I project an entity in such a way that it remains filterable on the database?
+Two projects with same launchsettings.json load with different port numbers
+Issue in UDT custom mapping in C# while calling stored procedure from Oracle DB
+VS Setup Project Change to Non-advertised Shortcut
+.NET 10 behavior change - Configuration binding an IEnumerable record has missing entries when nullable parameters are null
+Regular Expression (C#) - Can't figure out how to handle missing field
+ILGPU kernel silently not compiling
+"MimeKit, us-ascii text body instead of UTF-8 with BodyBuilder"
+Azure API Management delegation signature fails for ChangeProfile operation
+WCF - Remove wrapper from XML
+Does reading one stream that is a copy of another stream affect the original stream position
+How to log and return in one statement?
+How to test if expression contains specific value with NSubstitute
+AutoFac: How to select a service required by consumer with an intermediate handler class (consumer>handler>IService
+in windows/C# how to open pipe and get an IOChannel from them?
+ASP.NET Core 8.0 Web API makes endpoint call but response has an error
+X500DistinguishedName doesn't work with escaped commas
+"How to Assert if the instance is of type, and use the instance casted to the type in the next assertions?"
+Porting Xero API Google Apps script code to C# not working
+Conflict between Microsoft.AspNetCore and System.Security.Cryptography.Pkcs
+FontAwesome icons not displaying correctly on Android devices when used on XAML components in Maui Blazor Hybrid
+Errors while compiling Razor content
+Create folder structure in Fabric Lakehouse
+How to load types from SIEMENS OPC interface XML into an Opc.Ua.NetStandard C# server?
+Why is a simplified version of Max(decimal) slower than Linq's implementation?
+How does IDesignTimeDbContextFactory work?
+.NET RSA.ImportRSAPrivateKey: issues importing private key
+"In C#, how to define a property that accept parameters or a function that return reference as in C++?"
+How can i correctly change the LLAMA3 default maxtoken=256 in Blazor app on .NET 10.0?
+ASP.NET Core How to build a class diagram in Razor Pages project type
+Per user installation: get software version per user
+"How to build auto suggestion in text editor, similar to gmail or copilot"
+AutoFac DependencyResolutionException when using hybrid cache with redis
+Blazor Maui Hybrid app showing main window but not the login route?
+Why isn't Whisper returning text from an audio file?
+How can a mixed .NET 9 process both initialize tbbmalloc_proxy and have a valid AppDomain.BaseDirectory?
+How can I bind sets of columns to collection items?
+Delay in control and involuntary clamping of Wheels Collider
+"Cannot pass configuration when integration testing in ASP.NET Core, AddInMemoryCollection() not working"
+How do I implement an Event based trigger?
+Can I build something that works the same way as the ObsoleteAttribute?
+How do I unpack the exact data type in a GroupValue in KNX Falcon SDK?
+Onnx cannot be read with Microsoft.ML on Windows 10 (19045.5854)
+Handling expired or invalid token in Dynamics CRM SDK
+Unable to play audio once audioStreamer.StartAsync() has been created and started
+Allocation Squashing by returning ReadOnlySpan over member variables via MemoryMarshal
+I am attempting to bind a WPF TreeViewItem to a TreeView and I'm getting an empty TreeView and two binding failures
+C# on Linux searches current directory with Process.Start?
+"How to resolve Npgsql Exception: ""bad protocol version"" during SSL handshake on macOS with .NET 6 and Let's Encrypt?"
+How to implement async task version of function
+"When copying a level from a prefab, the changes that occurred during the game are copied"
+How to Configure Azure AD and Azure AD B2C Together as JWT Authentication Providers in ASP.NET Core?
+How to dynamically create tenants?
+OnMouseEnter() function cause unintended interactions with overlapping colliders
+Can I dynamically alter the IsPassword property of the Entry control so it will remain a certain way based on a user's selection?
+Configure .NET Core 9 with OpenIddict in Docker
+How to bind the property change in my window when the change happens in another class?
+I can't set the background colour on my My HalconDotNet window
+Does invoking a possibly-null event create an EventArgs?
+Blazor 9.0 Two-Way Databinding not working with Custom Component
+"How to adapt @onblur=""MethodBlur"" behavior and integrate it with QuillJS editor?"
+Problem with UI to using multiple provider of authenticate
+How to Move References to Subfolder and Not Break References
+Virtualization using VirtualizingStackPanel inside custom ControlTemplates
+"Wcf, problems after recent windows update"
+How to Set Custom Capabilities in NTwain?
+Can't Target OpenAPI 3.x After Upgrading Swashbuckle.AspNetCore to v9.x
+"WPF (.NET 8) XAML cannot resolve namespaces, converters, ViewModels despite classes being public"
+"The specified path, file name, or both are too long to install Plugin.Firebase"
+".NET CopyToFileAsync reciving ""Safe handle has been closed."" exception"
+Why does ISymbol.ContainingNamespace always return System for nullable structs?
+How do i make sure that 'this' is not null inside OnDisable() when stopping the game?
+How do I include encrypted reasoning items when using C# OpenAIClient Responses API and Microsoft.Extensions.AI and doing a stateless session?
+How To set image from Database into Stimulsoft Report
+ASP.NET gridview AutoGenerateColumns = true using C#
+Logging long running API or other call
+WMI: How to read Win32_OperatingSystem properties in .NET Framework 4.8?
+How to get an xUnit test to work with a simple console application
+OLEDB Provider seemingly disappears during program execution
+Visual Studio Code C# Test Explorer: configuration of Run and Debug mode in dev container?
+How do I read a file in Android
+asp-for is not generating name or id for input form
+"Should equality operators be implemented on the type itself, or is it acceptable to implement them once using C# 14 extension operators?"
+Does the build configuration change the .NET Framework behavior dynamically?
+Implement timeout in WebClient.UploadFileAsync()
+c# windows form passport size photo image background change
+"Localization in "".NET MAUI Blazor Hybrid and Web App"" not working"
+Drawing metafile to Graphics with unit conversion ignores boundaries
+Conditionally handle multiple ValidationMessages with a ValidateComplexType model in an EditForm
+How can I optimize my C# code for capturing a window to use as a texture in Godot?
+Am I using the lock statement correctly?
+Word.Document Close ComException
+.NET 9 x86 interop BadImageFormatException on Azure VM but works fine locally
+Vr meta Quest streaming vision to another application real time display problem
+How to request permission to read/write to an %AppData% folder?
+How to register an C# class for COM?
+Avoid boxing of generic enum type
+Nuget packages are automatically changed to range version with CPM
+Correct Report not selecting date on Calendar change
+Restrict results by a sublinked table that it's parent has multiple results on EF Core
+"When the configured values in my config are changed by my program, how to update them?"
+GoogleAuthenticator (2FA) fails validation on mobile browsers but works on desktop in C# & ASP.NET MVC
+GetIsNetworkAvailable() behaves differently depending on .NET version
+Where is the flaw in this greedy approach?
+Can the TextBox portion of a ComboBox be made resizeable on all sides?
+How can I force iterator blocks to validate parameters before packing up and returning as a continuation?
+HotChocolate [UseSorting] / [UseFiltering] LinQ conflict with ValueObject
+MassTransit throws errors in log
+"How can I force EF6 to create a test database from the current model, bypassing migrations?"
+How to cause an unhandled exception in ASP.NET Core 8 server app
+Syncfusion SfCartesianChart (MAUI Toolkit): Axis labels jitter 1–2 px during frequent updates despite fixed Min/Max/Interval
+Can't locate IWebDriver even though Selenium.WebDriver package installed
+Windows 11: private key not usable when protected vbs + high security (password)
+Can't use x:bind to ListView in UWP
+C# MessagePack serialization/deserialisation while maintaining object reference
+How to reset child object local position after moving parent prefab? (FPSEngine setup)
+How to find the least value that is greater than or equal to a value in a set in truly O(log N) time?
+Connection is closed when accessing Minimal Web API
+Using Span<T> with BitmapData.Scan0 without unsafe code
+How to build complex queries with Contentstack Management C# SDK v0.5.0 without using JObject or raw JSON strings
+Why does dotnet restore on a .sln ignore `DownloadContentFiles` tasks in .csproj projects?
+First item in SettingsExpander gets loaded and immediately unloaded
+"Can't listen to 'http://127.0.0.100:50001/' with HttpListener on my machine, even though the port does not appear to be in use"
+C# external http request response as streaming API-response
+Serilog PushProperty with additional properties
+How to detect access failures when DirectorySearcher.FindAll() (System.DirectoryServices NuGet) silently skips OUs with insufficient permissions?
+Adaptive Performance DirectoryNotFoundException unity
+async tests never finish after upgrade to MSTest 4.0.2
+Does C# .NET AES GenerateKey (RandomNumberGenerator) truly use /dev/urandom on Linux
+How to use RabbitMQ in a windows service
+Can I implement an ASP.NET Core single file app on SOMEE?
+Is there a way to edit the size of the titlebar of a ribbonwindow menu bar in WPF?
+How to properly set a launch URL that is hosted using IIS?
+AWS SDK C# - 'Access denied to head index' error during Creation of a vector index for a collection
+"How to cancel a gRPC client streaming call cleanly without triggering RpcException, ObjectDisposedException, or InvalidOperationException?"
+.NET 10 app can't load depending dll from subdirectory
+How to capture errors from WebView?
+MAUI Android target to version 16
+How to call Postgres function from .NET?
+Trying to get totals on a gridview
+Representing 4 types of Card Templates Adhering to DDD
+Robot for Websites
+Multiple buttons which act independently on click
+MAUI Disable Soft keyboard for Entry
+Why does this code return a null reference exception without warning?
+Check if current .NET version is still supported in C#
+How do I kill any hanging instances of safaridriver
+Draw *thin* border between cells in TableLayoutPanel
+Getting 404 error when trying to access custom classification model in new Document Intelligence Studio
+Migrating NEST to Elastic.Clients.Elasticsearch no mapping found
+Creating an additional package for the WinUI3 Class Library
+Getting full object including navigations before and after save
+Combining multiple unknown queries using Union
+Approach for Handling CRUD Operations with Two Related DataGridViews and Save Changes Button
+.NET Core localization: Web API controller can't resolve IStringLocalizer<T> from another project
+MAUI Hybrid issue with HTTP GET request from BlazorWebView
+CManagerApi not recognized in C# project using MetaTrader 5 Manager API
+Why aren't my benchmark results faster in Release compared to Debug?
+Re-inserting references to System.Windows.Forms in Visual Studio
+"Setting `SDL_calloc` to `NativeMemory.Alloc(nuint, nuint)` leads to memory corruption"
+Empty value HTTP POST Multipart/form-data field using RestSharp
+Getting Microsoft.Azure.WebJobs.Host: Can't bind parameter 'data' to type 'System.String'
+Get current context from within node deserializer
+Text alignment in esc pos thermal printer
+XML signature validation failing using SignedXML
+Troubles displaying MS Graph Draft Message in Outlook New in C#
+Threading deadlocks in method but not direct code
+Fluent Validation working in Create but not Edit
+Integrating ASP.NET Core Identity with WebServices and a Custom Identity Provider
+Does closure variable capture introduce thread safety risks due to field implementation?
+How to make player jump when on top ladder
+C# WPF Filtering DataGrid ObservableCollection items based on text Input
+Unsure about Weapon System Scope
+VS Code disable suggestion to replace C# var keyword with explicit type
+HangFire ASP.NET Core 8 MVC the UseMySqlStorage is not working?
+Wrapping a method in a try-catch block but unsure where to declare a char variable
+"Why C# program (MySQL Connector/NET, .NET 8.0) compile on command prompt with csc, but not in Visual Studio 2022?"
+Run code in a MonoBehaviour whenever another component is added
+Documents folder path discrepancy between Android version (9 et 15)
+How to get sub list in C#
+Unable to delete a file from Azure Blob storage
+Are these unit tests using Moq testing anything?
+What is the correct use of the 'DwmSetIconicThumbnail' function?
+Ninjatrader Drop Down box to fill TextBox value or button text value (c# with WPF available)
+C# Winforms treeview auto sort crashes my app
+Create Intune App Protection Policy with Microsoft.Graph 5.91.0 fails for id is null
+Why is `JArray.ToObject<List<T>>` faster than `JArray.ToObject<T[]>`
+Customized tooltip for TreeView nodes fails due to the Popup event not firing
+Blazor .NET 10 dependency injected service call is not even firing
+ESSL/device communication SDK not triggering face camera for enrollment on AI FaceMars device
+Embedded Views in ASP.NET Core 10
+Cannot find how to skip authentication middleware for specifics paths
+Cake script fails when importing Octopus Tools
+Determine what ClassMap CsvHelper should use based on Type being mapped
+UDP C# communication dummy model
+Blazor auto render mode prerender flicker problem even though pages use persistence
+How to refer in the XAML to the BindableProperty?
+"Code signing external logging libraries (Nlog, Serilog)"
+Error executing child request for handler: not finding the controller
+What is the best reference to reach advanced stages in .NET?
+How do I remove warning 'Possible null reference argument for parameter'
+Poxing a mocked generic method with Moq
+SWIG interface for a function that outputs a C# string
+"The reference assemblies for .NETFramework,Version=v0.0 were not found, good practice to target ""net-9.0-android"" when building MAUI project?"
+Storing JWT token in protected local storage returns null due to prerender issue and giving 401 error when calling API endpoint
+Can someone please assist with a C# LINQ question? Sorting is not working
+Can you remove empty elements from XML by configuring the MvcBuilder?
+Outlook classic (vsto): Identifier of context menu of appointment in reminder window
+Issue drawing svg on skcanvas with SkiaSharp & Svg.Skia
+How to update Hangfire Recurring Jobs at runtime using IOptionsMonitor and appsettings.json in ASP.NET Core?
+Why does C#'s XmlWriter change a \n to a \r\n inside a text element?
+How do you guys create DTOs?
+Using HttpClient in CustomApiClient
+"WPF freezing, related to ICommand.CanExecuteChanged?"
+C# WinUI3 Is it possible to use ffmpeg to decode using hardware and then render using win2d?
+OData $orderby on complex property in projected DTO
+Can't use of custom user data added to identity user
+"Blazor web app .NET 9: I can open and manage SQLite database in debug mode, but not in the hosted web app in IIS"
+Unity Android: AudioSource.Play() works in Editor but no sound until first screen tap on device
+CefSharp initialisation problem in my WPF project
+SqlDependency not firing after some time
+How can I drag the column width of a DataGridView on the designer page when using a custom designer with DesignSurface in a Windows Forms application?
+Adding package reference System.Linq.AsyncEnumerable cause CS0518/CS0656 compile error
+Is there a way to preview and print reports in .NET WinUI 3?
+How can I prevent CS7036 error when initializing a record object?
+Question about google autentification v2. Status: canceled
+C# - lock multiple methods or entire class to single thread execution
+Copying DLLs from transitive nuget dependency that uses non-standard folder layout
+How to use App.Config codebase tag with .NET assembly relative path?
+Best practice regarding formating code in visual studio
+How can I completely and totally prevent retries using MassTransit and RabbitMQ?
+Bind TabControl content to child properties when ItemsSource contains view and view model pair properties
+NSubstitute - Accept any argument that has been built with a specific parameter
+IDX10500: Signature validation failed. No security keys were provided - OpenIddict Identity API integration with API
+Comparing two pdf files byte by byte for integration testing fails
+How to dynamically add a GridForeignColumn to a Syncfusion Blazor Grid?
+ASP.NET cannot add AutoMapper service
+How to Access Active Page Filters in Excel PivotTable using C# Excel Interop (VSTO)?
+"Why does OnAudioFilterRead(float[], int) not work when I try to override the data parameter with a float[] of the same length?"
+Generate classes from .xsd fails
+AccessViolationException when creating MIPContext after upgrade to v1.17
+Grpc.Core.RpcException: Error starting gRPC call in Azure Functions isolated worker after upgrading to Visual Studio 2022 17.14.x
+How does the local Nuget folder work in C#?
+Can I tie a Profiler sample to a method to avoid multiple Profiler.EndSample() calls?
+"IIOP.NET SSLPlugin fails with omniORB SSL/mTLS (TCP works) — certificates imported, OpenSSL succeeds"
+"ASP.NET Core 8 grpc Import ""annotations.proto"" not found"
+ASP.NET Core Identity seed data not creating admin user or roles
+Can I deserialize a nested JSON property in place of its object
+System.Net.WebSockets is missing messages/notifications
+How to handle large data in Azure Functions?
+Using IOpenApiSchemaTransformer to generate XML example only in specific cases
+How to delete external fiscalized payment with Iiko?
+Applying relief (emboss) effect to bitmap using GetPixel/SetPixel in C# WinForms
+MVVM best practice for data bindings and community toolkit
+How to allow a Generic class to have itself as a type and required property
+ASP.NET Core dependency inject (Generic) error
+C# Maui Secondary window/contentpage opens the same size as MainPage
+How do I optimize my C# method to replace exact matching data in a string?
+How to resolve nested Avro schema references in C# using Apache.Avro NuGet package
+How do I get a Minimal API to return a bool?
+Using the same DbContext class definition for both a DbContext object and an IDbContextFactory object
+Using one gameobject to control other randomly picked gameobjects
+CREATE DATABASE permission denied in database 'master'.... migrating a database with EF Core
+Why add ConfigureAwait(false) again when the library code already use ConfigureAwait(false)?
+Learning C# (Day 2): Recommendations on my code + what to learn next
+InvalidCastException: Unable to cast object of type 'System.String' to type 'System.Int32'. ASP.NET Core
+Ideas For Tracking the Best Outcomes By Multiple Criteria
+"WireMock.Net is throwing an exception: ""An error occurred while sending the request"""
+How to properly call a Nethereum smart contract overloaded function
+How to change the tab bar background color from a content page?
+How to detect nested groups in PowerPoint using VSTO (C#)?
+"LINQ SingleOrDefault, but without throwing exceptions"
+List<Info> Sorting Issue
+How to test .NET Core Console application which uses Dependency Injection using xUnit?
+Puppeteer Sharp not logging in to correct Chrome profile
+Serilog Date Format using appsettings.json
+How to find and read files with malformed names in .NET?
+How to suppress TickerQ logs while using Serilog?
+Unity 3D Player movement works but Jump keybind does not
+Unity Input System doesn't trigger OnNext in custom InputAction setup (Easy Cutscene Asset)
+VSCode CSharp Project won't launch AND attach
+Terminating a hung thread in a C# .NET desktop app
+"Data validation error text appears inside TemplatedControl, but inner TextBox does not get a border"
+ElasticSearch's ConnectionSettings is disposable or not?
+ADFS WS-Federation ignores wreply on signout — redirects to default logout page instead of my app
+Sending Messages between Applications using Azure Signal R in Default Mode
+http://localhost:5053/ not opening from Rider IDE on Linux Ubuntu
+Node JS AXIOS Client fail to send request to Internet
+How to check for possible collisions using gizmos
+AsNoTracking when selecting Non-Entities
+C# Visual Studio 2022 build action does not copy file in subdirectory to output directory
+.NET performance is not scaling linearly with core count
+"NUMBER(1,0) mapped to bool instead of int causes conversion and mapping errors"
+Inconsistency between abstract method and interface method return type checking (CS0738)
+"In my Blazor Server application, how can I setup a control property like angular's ""ng-if"" that I can apply to any html tag?"
+I cannot list the font-family names in Quill editor font selection
+What causes Blazor Bootstrap Tooltip not to include newline?
+How to validate the image dimension in Blazor?
+Getting syntax highlighting on string argument
+"Tmds.DBus query works in a console app, but throws exception in my AvaloniaUI application"
+User policy works but [Authorize(Roles=User)] does not
+Memory leak: ObjectEqualityComparer<CustomColumn> retained after LINQ Operations
+The object is not rendered on top of the panel in the canvas
+How to replace default IJobActivator in Azure Function
+How to return the geo distance when NOT sorting with _geo_distance in c# NEST code
+Serialising and Deserialising a System.Data.DataSet to XML with SQL Server UniqueIdentifier using different .NET versions
+How to get CallerArgumentExpression from Blazor component Parameter
+Best approach for server-side license key verification with HWID binding in C#
+How to query Firebase Realtime Database for top N users and current user’s rank
+.razor code not recognized (even in new blazor project)
+CS9230 Cannot perform a dynamic invocation on an expression with type 'DefaultInterpolatedStringHandler'
+System.IO.IOException Error 121 on Raspberry Pi I²C with PCF8574 LCD using .NET
+EF Core 10 cold start after idle — is using a hosted service for keep-alive acceptable?
+Model binding fails silently when using Razor pages (HTTP 400)
+"How should I avoid ""CS0642: Possible mistaken empty statement"" in this code segment"
+How to create a custom json Deserializer that returns the fields name and the values from a dynamic json
+SMTP gmail GeneralFailure - The operation has timed out
+Is there a better way to continually write strings to console while checking for user input at the same time?
+Deserializing array of objects to concrete .NET types using Newtonsoft
+Get ROWSET prop WHEREID from OleDbDataReader
+"Generate a .NET .exe file that doesn't include IL, JIT, metadata in it"
+How do I parse multipart content from an HttpResponseMessage?
+Expression compiler for .NET
+My server works in windows but inside container using docker I get issues
+Calculating DigestValue of SignedProperties in XAdES
+How to dynamically create a C# class that inherits from a generic base class referencing itself (T : Base<T>)?
+File.Create throws FileNotFoundException
+How can I create tcp client for simple chat system in .NET?
+Issue highlighting selection in Windows.UI WinUI GridView
+Remote process code injection with dynamic addresses
+CollectionView causes crash in Maui App on iOS only
+Why is Markdig parsing my PipelineTables as Paragraphs?
+MAUI how to access the view model inside a command where x:DataType is set
+How can I work parallel in unity with my friend?
+Depending DataSeeding in Abp framework
+How to draw a scalable checkmark inside a custom WinForms Button using OnPaint?
+ListView in selected cell background color
+InAppBillingPlugin returns an error when calling GetProductInfoAsync
+"""MonoGame.Templates.CSharp could not be installed, the package does not exist"". How to fix in VS Code?"
+How can I use Service Discovery and Flurl together?
+"ASP.NET Core MVC : where in the controller to put the calculation of day difference, and how to then show in Index View"
+How to move the pacman in unity2d automatic through the path?
+How to enable Razor/Blazor LSP support in Neovim using lazy.nvim?
+How can I change a property of multiple objects in a collection
+How to handle error during customized scoped dependency injection
+Azure Container App - Container pull image failed with reason: ImagePullFailure. Revert by terminate
+Microsoft.AspNetCore.OpenApi does not generate type reference for identical lists in same class
+Cannot assign void to an implicitly-typed variable in Visual Studio 2026
+Should I remove async/await in repository methods if I'm just returning a Task?
+xUnit tests fail when launched from Solution Explorer
+Microsoft Recognizer : Extracting individual date text from a date range
+SwapChainPanel does not receive KeyDown events
+How to distinguish my own styles for light and dark theme
+Simultaneous access to a table in a shared folder
+".NET MAUI .NET 10 – project.assets.json missing targets for Android, iOS, Windows and Mac Catalyst (NETSDK1005)"
+Is there ever utility in assigning an IDbParameter's `.Value` to null after comparing its .Value to null with `is`?
+Implementing Dynamic/Matching Hyperlink win Excel with Epplus
+How to send HTTP POST request with multipart/form-data with the form-data in initial request in .NET Framework?
+Google Firestore DB always returns database not found
+How to effectively use ASP.NET core Hybrid Cache with Result<T> type
+"How to add format, pattern and maxlength?"
+How to have a repository-type table without FKs?
+Can I declare an intersection type in C#
+Entity with compound primary key also create index on single column
+Unity 2D how to spawn platforms and ropes together?
+How to use custom functions on LINQ statement?
+"NotNullIfNotNull, but using the return value instead of a parameter"
+"Is it possible to have a complex request type that combines FromHeader, FromRoute, FromQuery and FromBody?"
+"Azure Functions with Event Hubs Trigger - ""Desired target worker count"" seemingly endless loop"
+Shorthand for True False like T F for arrays in C#?
+"""Resource not found for the segment"" error reading email from Graph API"
+How to extend .net smartcard IDPrime 510 support to javacard in c# application
+Authentication failing from Azure app service to Azure Key Vault even though access policies are set
+How can I safely close the SqlDataReader when retrieving SQL BLOB-data via Stream?
+How can I mark parameter for a custom EF Core function to be encoded as column name
+Maui QueryParameters not set in OnNavigatedTo
+Filling Winforms datagrid using Postgres stored procedure
+Internal and external profiling in live/functional tests
+How to generate PKCS #7 signature in C# equivalent to openssl smime -sign -binary -noattr -nosmimecap -outform DER
+Is it possible in WinForms to set to Bold Forms Header text?
+Prevent Winforms function from returning until Async calls have completed (without blocking)
+.NET 10.0 integration tests error with xunit v3 assembly fixture and WebApplicationFactory
+Is there anyway to get physical disk Idle time without 1 second wait needed for PerformanceCounter.NextValue function?
+Difference between passing to a delegate constructor a method group vs instance of another delegate
+Enforcing a 2 second delay on Web API call?
+Repository Interface to perform database bulk update with Entity Framework Core 8.0.6
+How do I send a string to this unmanaged C++ function?
+Spinner not closing/hiding
+Packaging native DLLs alongside CPP/CLI .NET8 project for consumption in .NET8 C# Project
+How to configure Visual Studio Code in MacOS for Android?
+How to display rounded corners to the DataGrid in WPF?
+"Having problem, implementing basic rate limiting properly in an ASP.NET Core 8 Web API"
+"How to read Azure AD (Entra ID) groups and users with Microsoft Graph SDK in C#, if I only have a user account (no admin rights)?"
+Debugging C# project reports module metadata is invalid
+Cannot publish a document in sharepoint which has a minor verson of 511
+c# client server certificate is not configured properly with HTTP.SYS in the HTTPS case - Server 2016
+Highlighting the datagridview rows
+Invalid directory left when CreateDirectory fails on bad path
+Calculating a complex equation in C# and JavaScript
+Getting private key from a local certificate I've created
+"Strings in C# has 2,147,483,647 characters as maximum?"
+MS Graph add calendar event using C#
+ASP.NET Core migrating database issue
+docker-compose dependency on one .NET service ruins its healthcheck
+(Ab)using ASP.NET Core for non-http message processing?
+Angular + .NET (Azure AD BFF): Handling 401 due to token expiry without losing unsaved form data (auto-save to DB only)
+What would be the best way to extract letters from a game board image?
+Errors using Hot Reload (Alt-F10) in Visual Studio after making some changes to the code
+Error message when doing Update-Database in Blazor using VIsual Studio
+"How to identify cause of ""Cannot convert from type '<null>' to type 'System.Uri' in WPF"
+Logic App Standard Inline C# action fails to decrypt AES CBC with PKCS7 (works in function app)
+StackExchange.Redis timeout when moving from Azure Premium Redis to Azure Managed (non Enterprise to Enterprise)
+How to encapsulate a for clause?
+How to bind DataGridColumnHeader to its own viewmodel ObservableCollection in WPF
+Custom login from external database with ASP .NET Core identity
+Stuck on callback URL after Google login in WebView; authentication does not redirect
+Razor Pages is not showing the ErrorMessage on asp-validation-for tag helper
+C# turn-based combat system - code review and best practices?
+C# calling new methods instead of overriding methods
+How to filter a list of objects in an ASP.NET Core MVC controller using search parameters?
+Why does Azure Search return null for the calling method?
+Recreate real software animation (Lingo)
+"Visual Studio Test Explorer hangs indefinitely on .NET 10 xUnit project, but dotnet test passes"
+How to auto login in Swagger API in development mode?
+C# list of object search multiple time dynamically
+Point Inside Polygon or On An Edge
+Why does C# encounter errors when calling .py files?
+How to apply a two-levels' SelectMany using expressions in a generic way in C#
+SignalR doesn't connect when [Authorize] attribute added to hub
+Assembly loading at runtime for .NET and .NET Framework
+Word Range.Find gets stuck in same table cell when searching hidden text and adding comments
+How to use ThreadContext in Log4Net?
+Debugging a c# xunit project with netcoredbg in neovim is skipping the breakpoints
+Running C# code directly from the terminal
+Draft Issue After setting RichText Value in Block List (Umbraco 16)
+"Using @attribute [Authorize(Policy = ""..."")] throws IAuthenticationService error in Blazor Server app"
+"Blazor web app Server .NET 9 throws error: ""A valid antiforgery token was not provided with the request"""
+Update ChatMessageContent value in Semantic Kernel response
+Difference between Expression.Return and Expression.Goto in C# Expression Trees
+PdfPig Outer border edge missing in last row
+How to set the default texture for a reuseable shader?
+C# advanced features - Book?
+UDP multicast stream suddenly stops for 1-30 secs and automatically starts again
+Cannot create event in Windows C# Runtime Component
+Where should SaveChanges() reside- in Unit of Work or in Generic repository?
+Multiple SUM issue with EF SQL
+Access .editorconfig File from Roslyn CodeFixProvider
+Dapper query with parameter not holding temp table in subsequent query
+C# Entity Framework issue when working with SQL Server in blog project
+I've made a JWT service and I yet have to solve the authorization issue with my attendance controller in the Web API layer what's the solution?
+How to prevent Entity Framework Core from using Table-Per-Hierarchy (TPH) mapping
+How to differentiate context for a clipboard button in a dynamic DataTemplate?
+Creating two pole oscillator in cTrader to use on my charts
+Bindable layout not binding in .NET MAUI
+C# TimeZoneInfo.ConvertTimeToUtc() not working for pre-transition times
+BadRequest is not returned when null is sent
+Can't set breakpoint in cshtml file in Visual Studio Community 2022
+C# Parallel.ForEach alternative that doesn't allocate (for gamedev)?
+C# NativeAOT - Embed file into .exe and access it in code
+"Casting Func<T1, T2> to Func<T1, object> doesn't work with double but works with classes"
+How can I make a Serilog filter match against any member of a set of EventIds?
+Is there a way to do Physics.CheckSphere() but to check for all masks that ARENT the provided one?
+Is there any point to my using user secrets when I already gitignore my development config file?
+How to install a package service as user using C#
+Design Automation for Revit: failedInstructions
+ComboBox using C# Microsoft Visual Studio appears empty when I run the .exe
+OutputCache but still going into code in Minimal API
+Deserialize with XmlSerializer an XML File that may or may not have the xmlns set
+Download from Azure Blob in C# vs Rust
+Submit on Enter requires pressing twice to login successfully
+async function not executing via Word dynamic menu ribbon button
+Async or sync functions in unit tests?
+How to figure out which module in Blazor Webassembly client causes the exception
+Custom Model Binder resulting in Response 400 Bad Request
+"WPF ""View Source"" in Live Visual Tree stopped working - can't open XAML or code-behind"
+"How do you set up binding in MAUI using MVVM with a CheckBox, CollectionView, DataTemplate and EventToCommandBehavior?"
+Listing metadata for sharepoint files using Microsoft.Graph - breaking changes between version 4 and 5
+"Even with call to exec immediately following fork, child process dies with SIGSEGV"
+How to report identity fields when comparing collections
+Right way to do HttpClient that can be injected and used in Blazor server
+Replace multiple spaces with single space using Word Find Replace with track changes on
+Halcon GenImageInterleaved coming out grayscale
+Microsoft.ML C#: GPU not found in K8s/Docker container
+ASP.NET Core app in docker container not accessible
+Sign in with Apple in .Net Framework desktop app
+Protobuf and multiple layers of inheritence
+"ASP.NET Core HealthCheck wants a database migration, but I can't figure out what migration it wants"
+How to get remaining ASP.NET Core session expiry time to return it to the client?
+"How can .NET know my environment - staging, development, production?"
+Try/catch on firing an event
+"After fork(), parent process terminates when child calls exec()"
+Highsoft.Highcharts .NET wrapper v11.4.6.3 silently drops ChartEvents.Load string handler — worked in v11.0.1.1
+ItextSharp C# : combine multiple PDFs with AcroFields specified
+How to properly implement target requirements in game?
+ASP.NET MVC pasting document path into a textbox to read recipe XML file by button click
+Is there a cross-platform way to terminate all child (and grandchild) processes when the main process ends abnormally?
+Rider program arguments does not include \r and \n
+ASP.NET Core 8.0 Web API not allowing me to get session objects when set from a fetch call using React
+Can't get PNG resource to show up in Visual Studio WPF designer
+MongoDb .NET to replace string in array using ElemMatch()
+Add data for many to many by reusing the same data from table
+Release mode for a NET9 MAUI failed to find entry classes.dex
+OnCreateContextMenu never called Android .NET VS 2022
+Interlocked.* code section guard with minimal inter-core interference?
+Teams bot not getting Meeting Info/
+GHAS for Azure DevOps does not scan contents of wwwroot folder in .Net
+C# ASP.NET Core 9 Web API running additional TCP Server
+How to prevent queue from being deleted?
+How to make a WPF program launched by a background process gain focus?
+ASP.NET Core 9 Identity - sign out not working
+.NET MAUI binding Label value with text from an List with specified index displays nothing
+JS snippet works in browser console but not in selenium
+Calculate rotation of a point around another point on earth (or sphere)
+c# LINQ Select the last element from several identical ones
+Why is insert failing in .net Web Api
+"MAUI black screen on iOS when ""Linker behaviour"" set to ""SDKs Only"""
+WiX Toolset bootstrapper hangs after installing VCRedist
+How to send HttpOnly cookies (refresh token) to ASP.NET Core backend on localhost?
+Blazor image streaming - Chrome out of memory
+Parallel.ForEach Returning Values
+How can i convert a negative binary number to sbyte(c#)
+C# Memory not released unless GC.Collect() is called after Redis data fetch
+Are Claude's advices good practices that I should use?
+How do I get my aim cursor to stay near the border of the circle?
+DataGridCells not updating when Multibinding and MultiValueConverter change underlying value
+Regex - basic string replacement
+Should I use async to ensure data is returned from db call
+Why am I getting BAD_NET_NAME error from WNetUseConnection with IP Address?
+Is Caching With Async Call Possible using DispatchProxy
+How to convert (SQL) VARBINARY hashed password and salt columns to String for ASP.NET Core Web API
+ASP.NET Core ignores path I set for serving static files
+Blazor: bind-Xxx is not mapped to XxxChanged
+How to properly set the background color of the TabControl header area?
+"In dependency property pattern in WPF, automatically cast the result of GetValue() to expected return type"
+Is changing an abstract method to virtual a breaking change?
+Serializing and deserializing inherited class
+ironPDF TextHeaderFooter Center two lines
+TreeView HierarchicalDataTemplate ItemsSource binding to self without a property path
+C# not installing properly in VS Code on Mac
+Built-in validation support for Minimal APIs
+Grid row will not grow expand when nested component grows
+Why does DirectoryInfo.GetFiles() get the FileInfo of a file without user permission?
+C# instantiating class with two generic parameters question - type T cannot be used
+.NET 8 console application slower after publish
+WPF custom window (WindowStyle=None) on Windows 11 — how do I get native rounded corners and the OS drop shadow (like Teams)?
+Problem with COM login (IBSesja) in Comarch ERP Optima – error 8007000E
+Using DataGrid Class (CommunityToolkit.WinUI.UI.Controls) in a XAML island from a C# Class Library
+JSON column mapping – navigation property throws NullReferenceException
+"MongoDB C# Driver: Update only provided fields, including setting some fields to null"
+"Shared AR Target Image Not Detected on Device, But Works in Playback"
+Could not load file or assembly 'System.Runtime.Serialization.formatters' in .NET 8 WinForms application
+Can dotnet-cake collect leftover arguments?
+Implement a feature to Activate/Deactivate employee from two Entities : User Profile and User Status in ABP Framework
+Why let with where clause can't translate to SQL?
+System.Text.Json deserialization not deserializing the Json string
+Serilog not writing to file when hosted on IIS (ASP.NET Core 8 Web API)
+looking for specific api call using titanium web proxy in my c# app doesn't work but when i use fiddler classic it works
+Why is try/catch within nested for loops substantially slowing down execution time?
+"While generating PDF using puppeteer sharp, the content under canvas tag for map is not displaying, instead displaying empty"
+Does Anyone Have a 3D C# UNITY Movement Code I Can Steal?
+Dynamically parsing a string as the name of an object
+"Could not load file or assembly 'Microsoft.Data.Sqlite, Version=9.0.7.0'"
+Force explicit BLE disconnect with Windows.Devices.Bluetooth BluetoothLEDevice
+Creating an FPS controller based on Rigidbody
+Replacing IServiceProvider in ASP.NET Core minimal API
+List.Enumerator does not advance when MoveNext is called
+Calling MessageBox in a mouse event handler disables the ToggleButton toggle
+Trying to populate very similar relations through same property
+Opc ua client subscription does not trigger notification
+DevOps build errors referencing old package version no longer used
+"how to pass a WinRT array_view<> object to other WinRT class by reference, without creating a copy?"
+"Jira Cloud API: {""errorMessages"":[""You do not have permission to create issues in this project.""]} even though I am Space Administrator"
+"Define a Regex Expression in C# to parse TCL syntax, allowing multiple strings in the token stream including """", ""\"""", and ""\{"". TCL is very string"
+System.AccessViolationException occurs when running a C# Godot unit test for Node2D object
+What is the best approach to dependency inject viewmodels that require parameters other than services? (like int id)
+High CPU usage in MongoDB C# Driver due to JIT compilation of BsonMemberMap.GetPropertySetter during projection
+Always getting Exception thrown: 'System.Windows.Markup.XamlParseException' in PresentationFramework.dll
+How to set HatchStyle to Winforms Teechart ColorGrid series?
+Unit Testing Roslyn Diagnostic with External Project Reference
+AutoFixture customization to link foreign key relationships
+How do I optimize my 2D Array Point Searcher
+ComboBox with SelectedValuePath and DisplayMemberPath does not show initial value
+Microsoft Bot Framework's OAuthPrompt returns 401 Unauthorized
+Capturing a photo with CameraCaptureUI opens post-capture editor popup on some Windows 10 devices
+Locally running API and web app: no 'Access-Control-Allow-Origin' header is present on the requested resource
+ASP.NET Core OpenAPI - how to add request examples?
+LoadFrom doesn't load from Module: C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App
+Noda Time reporting incorrect timezone (Unity - iOS/Android)
+"Organize the mapping of class properties to render the list of plain text first, and embed the corresponding image in the existing list"
+Avalonia library DataGrid not showing rows
+I am attempting to update an Oracle VARRAY type column from c#
+How to access XML attribute with namespace using XPath
+Using OSDP.Net library how to poll PD (card reader) for presence of card
+How to run an application through WSL in Rider?
+How can I Kill Child Excel Process
+How to free memory in cpp that is allocated in c# on linux
+Entity type cannot be tracked error - Entity Framework
+Aspire publish not creating dockerfile
+Would This be correct my Teacher said we could only use her solution but here is mine
+Blazor InteractiveAutoRender Mode Connection Lost Message
+Problem with textbox validation and next control focus
+Aspose word nested bullet list
+How can I get unbound functions with complex return types to work in a RESTier web service?
+How to connect .NET application to IBM MQ using Server Side SSL/TLS authentication with username and password (X.509 certificate-based auth)?
+unsure how to debug Unhandled exception MAUI
+Issue with getting MultiSplitter pane to work
+Blazor Server (Interactive Render Mode) Custom Login Page with IdentityCore and Cookie Authentication
+How do I set up automatic class generation from a contract using protobuf-net?
+How to preload a TrayIcon's NativeMenu instance in Avalonia
+"Tracking a button works once, but when I click it a second time, nothing happens"
+.NET MAUI & Web API - How to authenticate users
+Replace strings in files when using a .NET item template
+How to deserialize JSON in C#? Is the input format data correct?
+When would it be better to use nint over int?
+Rigidbody not moving on start even though capsulecast not detecting anything
+How to get the HWND handle of elements in .Net MAUI
+Prevent Visual Studio from autocorrecting (in this case quotes don't overwrite)
+Bind/sync DataGridView.Rows with List
+Why can't Entity Framework soft-delete via SaveChanges? (and an alternative solution)
+"Unable to load JavaScript module dynamically from a local assembly using JavaScript Isolation (""Failed to fetch dynamically imported module"" error)"
+Where is /login handled in ASP.Net Core Web API?
+Unity TCP client works on Windows but not on Android (same Wi-Fi network)
+Azure Function Service Bus trigger
+XmlTextAttribute Breaks Formatting When Serializing
+Inline declare of delegate won't match like the dedicated delegate
+How do I lock the size and position of an external application?
+RulesEngine type external not found error
+Selenium opens page in the Chrome footer
+How to retrieve the logs of the init containers which are still initializing?
+WPF ComboBox equivalent of VB6 ComboBox.Click event
+Is it good practice to pass IRibbonUI into service classes to refresh Ribbon after async work in a VSTO Word add‑in?
+Is there a way to make AddUserSecrets take precedence over Configuration.AddAzureKeyVault?
+Sudden change to Reverse extension method causing build errors
+How does C# determine the end of a string without a null terminator?
+Resolve ambiguous reference in C# file
+Required data annotations returning namespace rather than error message value?
+How do I link to the Ebay API from Azure Functions
+Referenced project error referencing package that doesn't exist
+How to avoid that a user control changes its size when placed in tab page?
+Changing a variable to a property produces an error
+"MONO_WASM: WebAssembly resource does not have the expected content type ""application/wasm"", so falling back to slower ArrayBuffer instantiation"
+What is the !! operator after a parameter name in C#?
+Localization works locally but not in Docker container (ASP.NET Core)
+Render Texture Triangle From Vertexes and Uvs
+DPI awareness in Winforms app with TabControl and DataGridView - layout messes up when the window is moved between screens
+MudFileUpload not opening file upload dialog
+CollectionView with RemainingItemsThreshold and groups
+EF Migration not working: Unable to find SQL Server Connection String when using AddDbContextPool instead of AddSqlServerDbContext
+LINQ to SQL mapping a SQL Server uniqueidentifier to a Guid
+Console.ReadLine in a Task causing side effects
+ASP.NET Web API Publish Fails with Build failed. Check the Output window for more details
+nea game doesn't allow me to present and click on sprites
+Centralized assembly versioning by using Directory.Build.props file
+Why does EF Core create a new shadow foreign key instead of using an existing property?
+How to retain the pointer cursor on a custom button in a sub-classed / restyled TextBox?
+How to receive an array of objects (with IFormFile) using [FromForm] in ASP.NET Core Web API?
+"Please help me with c# interfaces, windows, etc"
+APS Design Automation: PackageContents.xml not being read from AppBundle in AutoCAD+25_1
+Playing audio independently of audio volume
+Visual Studio 2026 does not load my AsyncPackage marked with ProvideAutoLoad
+"How can I write a 'set' property that modifies, if required, before assignment?"
+Defining many-to-many with join table foreign key names without concrete c# domain table (shadow join)
+How to pass custom IDataObject format via Drag & Drop from Host to VMware Guest?
+How to unit test a pipeline in BizTalk 2020? Option to create a New Test is unavailable in VS2019
+How do I enable contour labels in OxyPlot
+C# Setting MessageContractAttribute WrapperNamespace from appsettings
+AX 2012 exception while adding inventory movement by C# WCF service
+"How to suppress writing empty string value to JSON (C#, .NET 8, System.Text.Json)"
+Conflicting assets with the same target path in ASP.NET Core 10 static web asset compression
+Usage of Uri.ToString() in JsonHttpClient in ServiceStack
+"In .NET MAUI, ScrollView with nested CollectionView adds unexpected bottom whitespace on iOS – why?"
+API Endpoint with Request Body
+Error when creating EDMX from LocalDB .mdf in Visual Studio 2022
+System.IO.FileNotFoundException using another assembly in ComInterop project
+How to consume COM events with C# dynamic without COM registration
+LiveCharts 2 for WPF (.NET 8) – Axis and labels cut off in real-time plot
+Character randomly looks up or down in a jerky motion 90 degrees
+Migrate MSTest v3 to v4 breaks Playwright Tests
+Issue with Zooming when projecting 3D on to a 2D surface
+Excel VSTO List Object Binding with User Formulas
+C# : overriding listview view property
+"WPF ListView items not displaying data from Binding (showing blank or wrong values)"""
+C# project within LabVIEW
+Using Polly retry with dapper
+What are the best settings for Farseer Physics 3.5 when I have fast gameplay so that Farseer Physics is very responsive during collision detection?
+"mousePad app, issue calculating the right postions diff between mobile app and PC"
+Encrypting and decrypting with AES returns System.Byte[]
+How to cast `ICollection` to `IEnumerable<T>` without knowing T?
+A combobox as new property for a usercontrol to show in the designer crashes VS
+Winui 3 app runs perfectly using F5 but fails to deploy as a single .exe file
+Refactoring minimal web application pattern into classic full Program.cs with main
+Pass item group elements to custom task array parameter in msbuild
+Func<T>.BeginInvoke() not supported in C# on .NET 8 or higher
+DB creation fails through the Azure web app with Azure Postgres Flexible Server
+Null exception in XAML
+Player does not resume movement after re-enabling input
+Error reading resource file after deleting my form
+Azure Static Web App - “Deployment Failure Reason: Failed to deploy the Azure Functions.” caused by missing environment variable
+Use relative paths with URL-rewrite with additional path segments
+Need Help to solve a scenario
+CS8765 - Nullability of type of parameter doesn't match overridden member (possibly because of nullability attributes)
+How to create a folder in Fabric Lakehouse /Files via OneLake API (400 Bad Request / IncomingOperationUntrusted)?
+Update an ObservableCollection in MAUI Windows raises an unmanaged error
+Validator access to database
+Masstransit not created _error queue for activity from routing slip
+how to go about changing displayed XAML file on a WPF program
+JsonSchema.net doesnt contain errors when evaluating an invalid document against CycloneDX schema
+Set content of button in WinUI 3 to a StackPanel
+C# libcurl find which TLS version was negotiated
+Unexpected behavior with overloads
+access deny C# class in Unity packages from script in sub Folder
+Error building a .NET MAUI project on a Mac Catalyst
+C# Dev Kit on an Air Gapped Network
+Externally cause ASP.NET web application to throw customError?
+How to get csharp-ls language server in neovim to find the root of my project?
+MongoDB .NET update subdocument using ID within ArrayFilter
+Dotnet Aspire > Failed to debug this project because no SQL Server has been installed on the local machine
+QuestPDF doesn't render text in Azure Functions
+Assembly-CSharp not loading when I open my Unity scripts written with C# in Visual Studio 2022
+Proper way to align this avalonia drawing image:
+create dictionary from json
+Jump in Unity using Rigidbody Force
+How to exclude subtotal lines from result
+Winform loading WebUrl not determine whether is Browser or WinForm
+Blazor wasm Authentication with Roles
+What do Unity’s two CursorModes actually do?
+Confused about Brushes
+C# mongo driver with multiple mongo client instance
+Why can’t threads freed by Task.Run in ASP.NET Core be immediately reused to handle new HTTP requests?
+Initializing a property in a method called from the constructor
+How to configure LLRP connection to ignore duplicates?
+How do you add WebAssembly render mode to an app created with the Blazorise Visual Studio Template?
+"Custom ""OAuth2"" in .NET"
+SAP b1 production order Batch Quantity Update Issue
+SSDP devices network discovery: never receive an answer
+Recursive function to create and populate dynamic-depth nested dictionary
+Should I reorder triangle vertices depending on their position to ensure correct winding (CW/CCW)?
+Is hiding an inherited property a good pratice?
+how is the ref-safe-context determined in c# when ref assigning to local variables
+"CosmosDb ExpressionVisitor (SubtreeEvaluator) fails on Azure, works on local machine"
+Why is my screenhandler not handling click-drags correctly?
+Cross database querying of large dataset within .NET Console application
+Adding Authorization Middleware to Blazor App causes errors when hosted in IIS
+AnyNull extension method - is there a way to assert nullability?
+"Using .NET `IOptions`, can I bind an array or a simple type instead of a class?"
+"C# Package ""ScreenRecorderLib"" Not Working"
+shouldly prints include extra unwanted logs
+Populating generic object that is known to be an array at runtime
+NPOI fails to load assembly in Mount and Blade 2 mod project
+How do I use TPC to generate a sequence for each inherited entity in EF Core?
+How do I remove text after a certain character in a text file?
+"""Serializable"" transactions vs guarded atomic UPDATE, concurrency racing conditions"
+iText SVG Converter keeps trimming whitespaces from tspan elements when the spaces are significant
+"Being too reliant on AI, roast the crap out of my coding please"
+Should one service call another service or use the repository directly?
+Compile binding for an ordinary content page
+Make Unity skip one level of depth when clicking a debug message in the console to find it in the IDE
+Set dotnet version to use for debugging
+Converting JSON from API call to C# classes and pass between Blazor components
+Transfer Big Query dataset data to SQL Server using C#
+MAUI project greys out Publish for Windows
+.NET 9 -> .NET 10: MongoDB query using array.Contains throws NotSupportedException
+When using Url.Page method how can I avoid that current parameters are automatically added to the generated URL?
+How to connect to Remote PC to read Task Scheduler Status for each job?
+PowerShell.Create() New-LocalUser not recognized as the name of a cmdlet
+Filling the `entityIds` property in EF Core
+Tesseract OCR cannot read dotted LED digits on MAUI/Xamarin
+Callback in ASP.NET Core with auth cookies
+Unsafe.AsPointer<T> and blittable value types passed by ref
+MAUI Sharpnado.Tabs SelectedIndex wrong
+MAUI MVVM partial method being called twice
+Modbus TCP Gateway returns successful '0' for non-existent Slave IDs instead of Timeout. How to reliably detect offline devices?
+'Generic' enum mapper with Mapster
+Avoid CS8618 warning when local member is instantiated via different method called within constructor
+Conditional Merge in Protobuf-Net
+QuickGrid not showing any rows
+RabbitMQ received bytes are invalid
+Where does BluetoothLEDevice.FromBluetoothAddressAsync() get the device info from?
+Request.Querystring shows HTTP Error 404.19 - Not Found
+"When is it appropriate to define method=""post"" in Blazor?"
+Is this a Google.Cloud.Speech.V2 client package bug related to PhraseSets or am I using it wrong?
+"I can't send email from .NET application using Google SMTP client, application passwords"
+Non-standard header in HttpClient
+C# Winforms Datagridview with BindingSource is not filled at startup
+Getting Device Name Through IIS
+Override value from data binding through attached property
+"How to add ""static"" polygon shapes to a cartesian chart?"
+How can I enable dark mode for the Windows Forms Designer in JetBrains Rider?
+.NET and EF Core - is it fine to do conversions in a .select() query?
+How to call var scope = ScopeFactory.CreateScope(); and still have one depency resolved from rootProvider
+PDFSharp and Edge 137 - 138
+On a PdfTable changing a single cells borders width
+How to map OData to correct endpoint in .NET 8.0 OData - Wrong Endpoint Called
+Azure Function with RabbitMQ Trigger - Queue not found in localhost
+Velopack is not updating version of WPF application
+System.ArrayTypeMismatchException when using System.Text.Json with .NET Framework 4.7 in MSTest
+Refactoring a method returning an IAsyncEnumerable<T>
+Azure Functions: The annotation for nullable reference types should only be used in code within a '#nullable' annotations context
+Reverse a LINQ to Entities query?
+Entry Focus Issue Inside a HorizontalScrollView on Android
+Cannot compile C# function DLL with Microsoft.Azure.Workflows.Webjobs.Sdk in Visual Studio 2022
+"Create CSR, get certificate from CA, install it with private key"
+Custom error message for failed model binding with FluentValidation
+Build error after adding a TypeScript file to a Razor Class Library project
+Are there standard C# formatting conventions recommended for Unity development?
+Why does modifying a List<T> inside a foreach loop throw an exception in C#?
+How to handle certificate revocation behind a firewall which blocks revocation checks
+Nested table inside a TableObject cell ignores assigned width in FastReport
+Destroying area targets is laggy
+Issue with Template.Json not excluding files
+System.Text.Json is not handling Quaternions - is there some Json settings we need to set/support?
+"Should I await a single line ""pass through"" method?"
+Net.Pkcs11Interop.Common.Pkcs11Exception: 'Method C_Sign returned CKR_DEVICE_ERROR'
+Confusion resolving NuGet package vulnerabilities
+HttpClient.GetStreamAsync hangs when consuming .NET 10 Server-Sent Events from Blazor WebAssembly
+"Get top 10 with the highest sum of column A, While the sum of column B does not exceed 625"
+IServiceScopeFactory vs IServiceProvider injecting into a singleton to call the CreateScope method
+C# interactive console: how to fix error CS0234: The type or namespace name 'RSA' does not exist in the namespace 'System.Security.Cryptography'?
+Not able to connect to SignalR from Postman
+"when user clicks the close box of a form from a textbox, how to skip the that textbox validating event"
+"Custom wheel collider not turning as it should, but works forward"
+Dapper returning Nulls for KeyValuePair
+Skip Take performance issue
+How to add a project to an existing solution (in Visual Studio) AND name that project with Dynamic Name
+User control wouldn't inherit events any more
+Is there a way to write a previously read and updated DataSet back to Excel?
+How to add comments before JSON property?
+Azure function calling protected API using Azure AD App Registration (Client Credentials Flow not working)
+How to modify ASP.NET Core Identity cookie name after initialization?
+OpenIddict 4.x ID2043 — Is it possible to support dynamic tenant subdomain redirect_uri?
+Record's read-only Property not getting recalculated when using `with`?
+RabbitMQ consumer not called in ASP.NET Core
+Will Microsoft Graph authentication to Windows authentication work?
+Why is a 1 byte bool returns from reverse p/invoke incorrectly evaluated on iOS ARM64?
+Issues with C# extension with VS-Code on Arch Linux
+CRC16 mismatch when validating custom .pbs file header (Expected vs Actual CRC difference)
+Why is Resharper showing an error whose inspection is disabled and whose format style is different?
+"C# internal modifier, obfuscation and unit tests"
+LDAP server is unavailable on port 636
+Why is my code not refreshing properly when calling StateHasChanged?
+How to specify target framework for Microsoft.CodeAnalysis.CSharp.Scripting.CSharpScript?
+Prevent trace exports for the Metrics endpoint with OpenTelemetry
+Set env variables before running/debugging a single C# integration test in VS Code
+Revit 2024 API: Family cannot be loaded from fixed file path (Truss Hole Add-in)
+FastReport.NET – PageHeaderBand not repeated on multipage TableObject
+Use Microsoft Graph 5.0 SDK to get display name from listitem's LookupId field
+"Blazor Server <AuthorizeView> Policy Failing with ""The trust relationship between the primary domain and the trusted domain failed."""
+Strategy to manage multiple apps with common features
+Appxsym does not contain pdb of exe
+Load additional columns to in-memory collection
+.NET 8 Blazor issue in Release with CSS isolation
+"When adding nuget packages, why do dependencies also get referenced in the parent project?"
+Is it possible to create a new C# console app using C# code instead of CLI or Visual Studio UI
+"Callback methods with ProtoBeforeSerialization/ProtoAfterDeserialization donot work in protobuf-net 3.2.26, even when assigned explicitly to MetaType"
+Displaying a coordinate grid and markers on the globe in Unity
+Unable to undistort image with chessboard pattern
+Problem displaying a message on a ajaxToolkit:ModalPopupExtender
+How do I check for whether a raycast is hitting a surface normal or if it's hitting the inside of a collider?
+Visual Studio doesn't import custom templates
+Creating Scoped Service for User Initialization In Blazor United (Hybrid WebApp)
+ASP.NET Core embedded Blazor
+No background available for pasting a root node
+Remove unneeded margin
+Enable module in IIS location tag via Microsoft.Web.Administration or AppCmd
+Unity 2022 HDRP – Code inside #if GS_ENABLE_HDRP is grayed out in Visual Studio 2022
+Deserialize XML List into FrozenSet
+Get installation dir in Visual Studio setup within bootstrapper
+Linq to SQL Queries using CONTAINS with list of anonymous types
+MissingMethodException when setting init-only property from another assembly in netstandard2.1 lib running on .NET 6
+How to create a static extension method for all Enum types?
+"""Response Content-Length mismatch: too few bytes written (0 of 152295)"" When copying pages from a PDF to another using iText"
+Creating EzApi for SQL Server 2022
+Cannot see the Solution Explorer in VS Code
+Performance and thread‑safety ASP.NET Core MVC
+How to insert into a join table with a payload without causing an infinite loop?
+FOP.NetCore exception on SVG
+"I'm trying to access some values from a class, to assign it and show it when selected"
+Unity NGO NetworkList of struct that contains an array of struct
+Get ID of string element created using PdfSharp XGraphics.DrawString
+Is it possible to use Buttons while keeping the dropdown List of a ComboBox open?
+Call to a method inside HostingEnvironment.QueueBackgroundWorkItem() failing to complete the execution sometimes
+How to mimick the compiler type cast in runtime
+Azure function warning message as We've noticed that your function app (**func-xyz**) is running on an older version of the Azure Functions host
+"In my Blazor SSR app., my service method is failing when calling an Azure HTTP trigger"
+How to set the Backcolor in a DataGridViewComboBoxCell?
+Convert WMF file to C# bitmap without quality loss
+An null reference exception occurs when editing WPF styles and templates in MetroWindow
+Why do I get a nullability error with this static extension?
+How to Pass ACR_VALUES to auth and token endpoint
+Is there a way to ignore specific subfolders when using DirectoryInfo.EnumerateFiles without manual recursion?
+Best Practices for try-catch blocks inside the Get part of an indexer
+Register an HKCU key with CustomAction in a Visual Setup Project?
+VS Code automatically putting brackets on a new line
+Return value on SharpSnmp GetRequestMessage unexpected after upgrade to .NET 8
+Get original DataRow from GetChanges()-Table
+How to Extract Individiual Frames From an .ani File?
+PDF Precise checking location letters with different ascents and descents
+How to create a re-useable ContentView as a base view?
+How to adhere to abstraction and asynchrony
+'Member may be null' even though it is set in base constructor
+How do i disable the Slide Over Submenu on Hamburger Menu
+SupportedRuntime options in app.config for C# project that support <targetFrameworks> with multiple values
+Will This C# Generic Method Handle Async Properly?
+Why does calling Thread.Sleep in a loop takes 6 seconds instead of 5?
+Reflect Windows Sound Settings in MMDevice
+VS 2022 Repeatedly props modal window 'Connect to Feed'
+How to catch TaskCanceledException from client disconnect in gRPC (.NET 8)?
+Interface and Implementation in .Net
+DTO Explanation
+Building devcontainers with Rider 2025.2 and ASP.NET Core
+"Azure DevOps Server REST API call returns HTTP 500 on a Windows server machine, but works correctly on a client machine"
+How to remove non uniform background from image
+System.Text.Json Polymorphic Deserialization not binding Type Discriminator property
+Convince System.Text.Json to ignore a property with the `required` modifier
+Why does a simple upload of a binary file fail with a MethodNotAllowed?
+xUnit Testing in Testing Explorer
+Resources for Learning About Services in .NET
+Swap out a low-level dependency
+How to properly dispose of AudioPlayer and memory stream
+Build multiple configurations in one script
+How to get JsonSerializer.Deserialize<> to not leave objects as JsonElement?
+C# vs C++. Which is Better?
+"Visual Studio 2022 WinForms resources ""missing"""
+What is the equivalent of ActionFilter or PageFilter in Blazor Web App?
+"Why in a WinUI3 app, does DataContext binding work when debugging but causes exception when deployed and run"
+How cheats are made in games with kernel level anti cheat?
+Calling the Remove() method on a Newtonsoft.Json.Linq.JObject in IronPython app throws a ' NoneType is not callable' error
+Enabling CORS in ASP.net Core WebAPI not working
+ASP.NET Core Web API keeps exiting with exit code 0 (0x0) when debugging
+What is the proper way to load an assembly in new .NET since GAC went away?
+How to have one view instance per viewmodel in tabcontrol?
+"In Avalonia, using a ListBox's VirtualizingStackPanel causes slow Page loading"
+SQL unquoted identifier validation
+How to tell difference between blob and folder
+Can't escape IF loop even when conditions are false C#
+C# using generic types to represent a partially loaded tree of data
+Potential clickjacking on legacy browsers issue while running checkmarx in an Angular 16 project
+XSLT unparsed-text() URL resolution issued
+Simplify object construction using spread / with common base type
+How to reproduce a list of DateTimeOffset values (using Timer?)
+How to close a popup instead of navigating back when swiping or pressing back?
+Use a Sequence to generate an ID on insert with Oracle and EF Core
+Maui picker not reset properly on iOS
+Why does FluentTreeView only allow toggling the root node?
+How do I change column names for complex properties?
+Cannot execute Puppeteer in IIS
+How can I reduce memory exposure of client secrets when using ClientSecretCredential in Azure SDK?
+"In MudBlazor's DataGrid, how do I change the labels on default filters?"
+System.Text.JsonSerializer does not deserialize object to string correctly
+Setting up ContentType for model binding errors in ASP.NET Core
+I'm having trouble masking my entry control to a phone number mask. Why?
+System.Net.WebException: The remote server returned an error: (426) Connection closed
+"PdfSharpCore - fields that are completed are not being shown their content in Adobe Acrobat but work on Firefox, Edge, etc"
+Validating Hidden Field
+How do I save changes made in a DataGridView back to nomina.DBF table?
+How to filter rows in an Include and ThenInclude statements in LINQ and C#
+ASP.NET WebForms: page data not cleared after redirect when returning with browser back
+.NET MAUI [ObservableProperty] decimal shows fixed decimals in UI — need fully dynamic decimal places (0–10)
+Safely rename table in EF Core
+How to determine correct data extraction for GPUs
+Getting a connection string empty error in a ASP.NET Core 10 Web API project
+Unable to find a function inside dll using pdb
+"How can I disable ""magic"" Azure Blob Open Telemetry Tracing in an Azure Function Project?"
+Should we use ConfigureAwait(false) in ASP.NET Framework 4.8.1?
+Does UDP receive messages in a queue-like format?
+Linq query io.DrpString.Contains(dienstregelpunt) could not be translated
+C# Project using Spinnaker SDK (for win-x64 and linux-arm64)
+How do I fill the rectangle with a color
+MCP server in C# for SQL database structure/schema (in Visual Studio) for Github Copilot
+API testing approach
+How can I call a function from a Linux headless server (build in Unity) using PuTTY?
+How do I use .NET reflection to emit generic interfaces and a class which implements them
+".NET MAUI project gets stuck on ""Executing code cleanup"" for minutes or indefinitely after adding Dependency Injection services"
+Textbox with RequiredFieldValidator requires 2 clicks (have to click twice)
+Unable to roll back CefSharp.WinForms.NETCore
+How to log Headers or Cookies added to outgoing http-request by SocketsHttpHandler
+EF Core startup migrations not applying when deployed to Azure
+Adding Razor pages from another project into primary Blazor web app project
+Can you have a Blazor WebApp in Global InteractiveServer render mode and still have some WebAssembly components
+How to create and run a file-based C# application (.NET 10) in Visual Studio 2026?
+C# WPF: How to set default font/size and disable numbered list in Xceed WPF Toolkit RichTextBoxFormatBar?
+Persistent timeout
+"Visual Studio ""Package Restore Failed"" when scaffolding a WebAPI Controller with EF Actions"
+How to register function delegate with interface that has a generic type?
+Why I am facing with Docker dotnet 401 error during Mysql setup in dotnet test container?
+How to iterate over python dictionary in C#
+How to properly render a 2D outline in Unity?
+Get left-most match instead of right-most
+In case of large number of items Context Menu is slowing down WPF application view rendering
+ASP.NET Core MVC win explorer style web app using jstree + table but I don't know how to update/display the tree & table when selected node changes
+Validation attribute validates but does not show error message
+.NET - Wolverine middleware with return value
+On a PdfTable changing individual cells background color
+C# and VB: How to enable specific version dependency for a project auto generating a NuGet package
+Secure ways to add credentials
+Permission problem in android application with VS 2022
+.NET is not recognized
+Set DataType in xaml to implemented Interface class
+DataTransferManager never requests data
+Selenium: WhatsApp Web file upload works in normal Chrome but fails in headless mode
+Is a .NET Core API dll injection possible for trusted assemblies?
+AWS Lambda Server-Sent Events on .NET with AWS API Gateway
+`Conflicting assets with the same target path` with `bootstrap-table`
+How to stop publishing Fault messages
+Why is Windows Security blocking my Visual Studio 2022 console application from running?
+How do event callbacks and handlers work in Blazor
+TimeTrigger Background Task Fails to Launch in WinUI 3 Using CsWinRT COM Server
+ASP.NET Core 8.0 Razor Pages behind AWS API Gateway returning 400 on login POST and incorrect redirect behavior
+MudTabs throws ArgumentOutOfRangeException when loading page with query parameter
+Signing JWT not working: An exception of type 'System.MethodAccessException' occurred
+Semi-automatic audit trail without polluting the entity's interface
+.NET 9 C# equivalent of Python re.compile to parse Uri strings
+How to correctly create middleware extensions?
+"Want VS Code to stop on any exception in my code, but not in external libraries"
+Variable in Quickwatch window in VS 2022 not showing all its members but only three dots
+How to make web app publishing play nice with build acceleration/FUTDC in VS build?
+MongoDB .NET Update subdocument using Id string with ArrayFilterDefinition
+IWebBrowser2::Quit Do not work on some explorer tabs
+Deserialization to different classes
+How do I make a piece of code run ONLY in the editor?
+Serializing of polymorphic json in ASP.NET Core 10
+"WTelegramClient: Intermittent Auth_SentCode success — code arrives ""via App"" but is missing after periods of inactivity"
+Enable rate limiting via controller convention / custom provider
+How to globally reject null for non-nullable reference types in ASP.NET Core 9 Web API with System.Text.Json?
+Strange GarbageCollector Behavior
+How to map a collection of e-mail addresses as ICollection<EmailAddress> instead of ICollection<string> using FluentNhibernate?
+Windows touchpad single-click
+AppServices `AppUnavailable` when packaging as MSIX - Minimal reproducible example available*
+ASP.NET Core Web API [NULL vs UNDEFINED]
+How to add animation for stack panel when there is a change from a combobox in wpf c#?
+How to make Dockerized ASP.NET Core 9 Web API trust self-signed signing certificate?
+Can MMC 2.0 Automation Object Model run MMC32 in 64-bit Windows?
+WebDAV using SQL storage opens office document in read-only mode
+"mlSerializer: ""Types 'Base.ClassTest' and 'Message1_0.ClassTest' both use the XML type name 'ClassTest'"" when serializing inherited classes"
+AzureClientFactory BlobServiceClient Variables
+"When using lambda expressions with bulk update APIs for EF Core, is the lambda expression evaluated in-memory, or on the DB-side?"
+Not being able to access all available cores on a Google Cloud Windows VM when calling remotely via SSH
+Proper PascalCase for “kubeconfig”
+404/405 results using HttpClient in c# to upload/rename/delete files on a web server
+How to indicate that a C# field is not null by return value from another getter
+Reason for report file loaded in my Windows Forms application being empty?
+Serialization of nullable immutable array
+How to add a stream image to the database using CommunityToolkit MVVM
+WPF manipulating the windows.Left property is not moving my window to the desired location
+Source code generator fails to match attribute declared on class against the actual attribute definition
+Convert a DateTime field from an entity to a string field in a DTO using AutoMapper
+How to create and apply a new layout with _Imports.razor's directives then embed this into existing templated authorization project?
+How to find printed document in image
+How to support Carryless Multiplication operation in .NET 8.0 on various platforms
+How to make Chromium work during automated testing?
+How to add icon before text in CompartmentShape (Domain-specific language VS Tool)
+How to properly deal with IDisposable UserControl on XAML page
+How to create and implement templates that allow for information to be automatically filled in on envelope creation using Docusign API
+Windows App Forms - System.AccessViolationException Error
+Can't disable antiforgery for endpoints
+"Serilog Splunk .NET 8, Splunk stores all messages in one"
+Correct way to handle appsettings.json on console app
+Server access error when building and running Electron.NET application
+Best way to handle Package 'x' x.x.x has a known high severity vulnerability
+Is there any way to make this more neat?
+Removing a JSON element that should be an array
+Cookie / OIDC authentication enters into an infinite redirect loop
+IVI VISA (e.g.: NI VISA) is not setting the TCP Keep Alive correctly for all connections
+Is it possible to create service/GUI to be able to monitor rate of communication and provide evaluation between servers and hardware?
+How to handle EF Core update + Azure Blob upload transactionally in a single request?
+How to find what characters in a string are making it to not match a regex pattern?
+Request to HttpListener times out
+"Why does TKey? resolve to TKey with a notnull constraint, but Nullable<TKey> with a struct constraint?"
+Retrieve previous record to current list for calculation
+How to use Blazor.SubtleCrypto in a non-component related class?
+Deserializing Interface Types in C# projected on records
+MAUI ToolbarItem settings text color
+Need help to escape these special characters in Azure APIM policy
+How do I implement a Cron based trigger?
+Test Coverage Report including foreign namespace MSTest.Analyzers
+Passing an ICollection to a parameter that expects an IEnumerable
+Looking around moves the player
+Hikvision SDK - Callback for Motion Detection Events Not Triggered
+Why reference to object is not initializing in List<T>()
+ASP.NET Core MVC RedirectToAction with error id code to show a message box
+How to add multiple route conf json in Ocelot?
+Approaching the limit on an implicit function via bisection
+Debugging not working with Blazor WASM app served though MVC app when ran through Docker-Compose
+"Problem in editing Excel XLSX files programatically, with DocumentFormat.OpenXml"
+How to delete a Git repository from C#?
+How properly to wrap OpenCV APIs that take cv::InputArray/cv::OutputArray/cv::InputOutputArray for P/Invoke (C#)
+SAP b1 production order Update issue with Multiple Batches
+Godot Mono with Facepunches Steamworks implementation throws shared object file error
+Why do I need to assign the result of a order by LINQ query to a variable to get the sorted list?
+"Async interface, sync-only implementation: Which of `Task.FromResult` or async-over-sync is the lesser evil?"
+how to make my character's jump feel more responsive
+ASP.NET Core 8.0 web app on Linux looking for System.Text.Json 9.0.0.0
+Refit client returns cached responses despite no-cache headers and HttpMessageHandler
+TLS issues with ActionMailer.Net
+Microsoft Graph 5.0 returns null for Me.Drive
+ArgumentException when calling MethodInfo.MakeGenericMethod
+EF Core scaffold - unique index with WHERE condition produces a 1:1 mapping instead of 1:n
+Error CS9293: Cannot use an extension parameter in this context
+"appsettings.json not read after deploying to Minikube (values become empty, DB connection fails)"
+Removing Unicode from API response
+How to get the IP-address of remote host in outgoing connection using C#/ASP.NET?
+"AWS Lambda TargetInvocationException : could not load file or assembly 'System.Data.SqlClient, Version=4.6.1.6'"
+How to configure ASP.NET MVC (.NET 4.8) app to work under /report location with Nginx?
+"QuestPatcher QMOD schema validation failed, I am unable to load my custom mod"
+How do I handle empty files in Blazor Server InputFile after cancelling?
+C# Remove Both Duplicate Values from Custom Object Based On Multiple Positive/Negative Values
+Right align Custom Caption Button - Syncfusion Dockingmanager
+Android BackTalk cannot enter an Entry field when placed within a ListView
+Advanced Search and Filtering
+Converting place/location into timezone
+Socket TCP connection through Radmin (can't connect) in Console Application
+How can I monitor process creation/termination in C# using winapi?
+How to get header names in CsvHelper version 19 or older?
+How to perform skip and take in Linq with joining multiple tables in optimized way
+Unable to Stop or Reset Local Durable Azure Function Execution (Orchestrator Keeps Resuming Previous State)
+XmlUnit Diff library - Comparing 2 XMLs ignoring object order
+Android .NET application intermittent/unpredictable file I/O
+What's the difference between the TMP Input Field Line Types `MultiLineSubmit` and `MultiLineNewline`?
+.NET 8 Blazor - Equally dynamically sized buttons in a table without JS
+Why is the the generic implementation of Vector.Log so much slower than the non-generic implementations for me?
+Newtonsoft for ISerializable classes with a reference loop - use GetObjectData for serialization and ordinary constructor for deserialization
+.NET Visa connection to instrument fails
+How to get the matching control out of the foreach loop?
+Project ideas for 14 y/o
+How do I convert DevWinUI.Shortcut.Keys to VirtualKey values for use with RegisterHotKey?
+How to inject a reference to a specific IHostedService into another (dependant) IHostedService?
+I have an encrypted text from Java's Bouncy Castle Library using AES/GCM which I am unable to decrypt using C# Bouncy Castle library AES/GCM
+VSTO Outlook Add-in: SDK-style project fails to generate .vsto and .dll.manifest files despite successful compilation
+My C# HMAC-SHA256 implementation matches only one online calculator - all others give different results
+"I ran all Identity install commands, but scaffolding files are not appearing. What am I missing?"
+Weird blurring / gradient mask effect in safe area on dotnet MAUI maccatalyst
+XML Docs did not load into the Nuget package
+WPF Modal Window renders completely white (blank) in Hybrid WinForms application under load
+MongoDB.NET Driver failing to create nested documents 3 levels deep
+What it the C#/.NET/NuGet equivalent of peer dependencies of npm?
+Devexpress report XRPictureBox only accepts System.Drawing.Image which is not compatible with Linux
+How to use the GUILayout methods within a reserved rectangle in an editor script?
+EF Core populating its navigation although it shouldn't
+Visual Studio 17.14.13 doesn't run MAUI Android apps
+MAUI WearOs phyiscal button pressed event not triggerd?
+Optimization of validation of similar properties
+XmlSerializer error deserializing to XElement in Blazor WebAssembly
+ShareFile API: How to Create Account-Wide Shares Without Explicit Recipients?
+Generated files not added to build in C# project generated by CMake
+Why does DevExpress Report only display one row despite multi-row data source?
+Swagger not showing v2 data in UI with no way of changing
+Using FixedUpdateNetwork In Shared Mode In Photon Fusion 2
+print preview: some printer properties don't seem to be previewed
+WPF: DropShadowEffect + Viewport2DVisual3D (Planerator/TiltEffect) causes deformation/offset during “tilt”
+handling versions of Microsoft.Extensions references in .NET multi target framework packages
+Failed to Build .NET 9 MAUI Blazor Hybrid APK (Worked in .NET 8)
+DragDrop Copy effects with PictureBoxes? Is it making an actual copy of the source file?
+Getting the id/name of the state triggered by a boolean parameter in Unity animator controller
+Unable to print barcode labels on my Dymo label writer 450 Twin Turbo using DYMO.Connect.SDK 1.4.4.21 using C#
+Is using #region acceptable to organize 30+ endpoints in a .NET Core Minimal API?
+what is the best practice to get the right compare of byte array?
+New NET9 MAUI project raises an error for iOS
+ASP.NET Core JWT token works on Windows but not on Mac
+Ambiguous library call for SDK style project
+Splitting string into chunks of given size but only splitting at newline characters
+unity android dependency resolver is stuck at 0%
+Unsubscribing from a _Leave event does not work
+How to manage Entity Framework migrations and databases when using Git version control?
+Cannot declare instance members in an extension block with an unnamed receiver parameter
+How to avoid a redundant temporary copy when using the collection spread element?
+Blazor Server + Identity: SignInManager.SignInAsync doesn't persist login (cookie not set)
+Why is my HTML form not submitting to my ASP.NET Core MVC POST action?
+How to filter a query with the values from a list in ef core
+How to get raw PCM data into array?
+How to write hyperlink custom field in a SharePoint list using GraphAPI
+Configure Visual Studio to decompile obfuscated code like Rider?
+Roles for Azure bearer token in integration tests
+.NET 8.0 Avalonia browser application stuck on splash screen
+Gaming.Input doesn't read my joysticks while Elite Dangerous is the focused Window but works perfectly with anything else
+MSBuild C# custom task throws MissingMethodException
+Writing an extension method to create a ZipArchiveEntry
+How to test if specific attribute exists in XML node?
+"Why does MoveToElement + Click not work, while IJavaScriptExecutor + Clik does?"
+"Thermal Printing using react JS, dotnet"
+How would I use N.EntityFramework.Extensions to insert into another table
+HotChocolate ISelection drops child collection JOINs in EF Core when projecting to a view model
+What is the method to combine multiple sheets when there are no common fields?
+"How to extract the original domain from wrapped links (SafeLinks, tracking URLs)"
+"Can I ""soft reload"" a Blazor page component without a full browser reload?"
+Compiling issues with roslyn
+How to unit test SQL Server User-Defined Table Types against C# classes to ensure property order and compatibility?
+Can't validate shopify header in webhook
+Using ILogger and Message Templates how does NLog decide date/time format for output?
+Customizing OpenAPI information when used in an Azure Function
+"What is free available libraries, packages or sdks out their to take 10m resolution imagery from sentinel 2 down to 5m resolution"
+How do I create connection string with App Registration/Service Principal for a Web API using EF Core app with SQL Server using Microsoft Entra MFA
+Why does the MudBlazor Tree View display the edit view on the 1st click but all subsequent clicks only change the URL & does not update the view
+asp-area in forms generate the wrong route
+"Blazorize's docs says IToastService will be registered for me, but at runtime it fails because no such service is registered"
+How can I copy a single file whose name includes wildcard characters without listing the entire directory?
+Add and Remove items from a collection declared as private readonly
+"Is it possible to ""gracefully"" stop a unit test run in Visual Studio?"
+Auto-sizing the Heading of a Word Document
+Unity animation and sound effects out of sync
+"How to create a route with parameters only, while still retaining predefined routes"
+CollectionView display messages backwards
+How to upgrade a .Net 4.8 project up to .NET 8.0?
+ReSharper - custom pattern - add newline
+.NET ReadFromJsonAsync<List<T>>() throws JsonException when API response contains wrapper object
+Fail to Run OnnxRuntime Session in C# with CUDA Device
+Query MongoDB using C#
+Check JWT accessToken issued by another service
+Entity Framework Core queries in an ASP.NET Core application targeting an Azure SQL database are running with wildly different runtimes
+Configuring MCP with Microsoft.Extensions.AI
+Getting Azure DevOps MCP server to work with a PersistentAgent in Azure AI Foundry with Microsoft Agent Framework
+Insert Dynamic files in sourcecode that will update before every build
+Dynamic checkBox with dynamically-databound Visibility never shows
+How do I mock DbSet.Add() for Entity Framework Core?
+Unity Script randomly calls nativeinputruntime and gets stuck
+WinUI 3 C# Create custom Button
+"Throw build time-error if a class library was referenced, but custom targets was not imported"
+Publish profiles are suddenly being ignored
+How to configure multiple security schemes in ASP.NET Core Swagger with NSwag API spec
+Blazor - StateHasChanged not updating after Radzen Button OnClick
+How can I read and parse a semicolon-separated file into objects in C# in a clean and readable way?
+How to fake a second function call using FakeItEasy?
+C# Process large upload script task reports success before httpClient is finished
+Random growth algorithm not working as intended
+The call is ambiguous between identical methods
+VSPackage fibers stack tracing
+IHost does not release log file after Dispose()
+WhenAll nested in WhenAny (or WhenAll with timeout)
+How to obtain HTML DOM from markdown?
+Is it possible to display the parameters from the JSON before I use JsonSerializer.Deserialize?
+Granular .NET process security control without AppDomain
+semgrep C#: how to make negative filter for chained statements?
+Photon Network Ptr issue while settings a networked string
+C# Multithreading Issue with Simultaneous Smart Card Printing on Multiple Evolis Primacy 2 Printers
+Can't select a TextMeshPro Input Field on ChromeOS builds
+How do I solve Bluetooth Service errors in inthehand library
+(JavaScript/TypeScript + npm) vs C# (WPF/WinForms) in Desktop Development
+.Net 8 dependency injection using reflection: service with generic method returning Task<>
+"Getting selected item of datagrid, which is an element of an observable collection"
+DataGrid won't appear on Avalonia dialog
+ASP.NET Core MVC: How to make simple page with IEnumerable<XML>
+Group delta expand members member@delta not giving email id display name
+C# 12 - How do I make sense of this behavior? Passing an array of non-nullable reference type to a parameter expecting nullable reference type array
+Calculate specific app's memory usage on C#
+BenchmarkDotNet: OutOfMemoryException when benchmarking parsing a JSON file
+Direct2D in WPF: what am I doing wrong?
+Implement an interface method with a type parameter
+ServiceBus triggered Azure Function with managed identity on IIS not working
+How to reliably obtain the Miracast sender's actual IP address on Windows Miracast?
+Initializing Mini Apps in C# WASM app with Avalonia.Browser
+How to enumerate MMDevice devices that are USB
+ASP.NET Core Web API ApiController request is null for POST but files parameter is available
+"How to make reusable linq statements, which can be included as part of a where, select and even order by clause"
+Unity Fusion Network Transform Jitter
+Getting CSharpCompilation error diagnostics despite seemingly having all the right settings
+How do I create a FileStream from a Raw IntPtr Handle? (DTwain)
+Kazakhstan time zone discrepancy on Linux and Windows
+Why can't I navigate to Iterator<TSource> with F12 in Visual Studio?
+Prevent filtering out certain rows in Blazor Syncfusion DataGrid
+Unity URP Crash: ArgumentException: RenderTextureDesc graphicsFormat must be a supported GraphicsFormat (R32_SFloat)
+"method to show notification in WPF project causes an ""unexpected token error"""
+Azure Load Balancer vs Application Gateway for Elasticsearch
+"Naming Conventions: Manager, System. Handler or Service?"
+How to remove .NET framework version from any .config file?
+System.ObjectDisposedException: Request has finished and HttpContext disposed when making requests in Task.WhenAll
+"Is it worthwhile thinking of an ""alias"" for the functional switch?"
+Error about a file not being there even when its there under the bin folder
+An exception was thrown while attempting to evaluate the LINQ query parameter expression
+WPF XAML Change Default Combobox Color
+XmlSerializer does not deserialize XmlAttributes with a Namespace-Prefix. Bug?
+ICommand: disable-enable button during long process run with Task.Run()
+How to simplify checking whether a reference variable is null?
+editorconfig rule to enforce that namespace is set in all C# files
+ASP.NET Core MVC form submission returns HTTP 405 Method Not Allowed when using attribute routing
+When to stop using await
+Custom attribute that copies the JsonIgnore attribute's functionality
+Using Nuget SDK inside IIS Project - Access Denied Error
+Using Spectre.Console.Cli with Generic Host
+How to handle generic type changing as you move up the call stack when using the result pattern
+dataGridView not loading List C#
+Trying to use multithreading to get around Unity LoadSceneAsync not being async
+Why did the project show a problem with SeedData Migration during run?
+"I need to work with legacy web forms apps, but VS22 doesn't like the percent syntax in .aspx pages. I've been ordered to not change the markup"
+Having issues launching Visual Studio 2019 and creating standalone .EXE in Visual Studio 2022 like in Visual Studio 2019
+SQL Server connection authentication in Azure DevOps pipeline for .NET seeding data .sln
+"How to hide App bar (ActionBar) in .NET9 ""Android Application""?"
+How do I correctly nest multiple partial class files under a Blazor component?
+Render command is not executing in plugin
+InventoryAllocations not populated in TallyConnector 2.2.0 but missing OtherFields in 3.0.3-alpha while using GetVouchersAsync
+Signalr sending requests from hub in .net but response never fires client side
+"ServicePointManager is obsolete in .NET 9 — how to configure SecurityProtocol (e.g., TLS 1.2/1.3) with HttpClient?"
+How to get rid of the box from the first item of GridView In WinUI3?
+".NET MAUI: ""Missing default constructor"" error for Page with DI despite DataTemplate and Registrations"
+Configuration.bind not setting values
+Neat way to get request in Minimal API endpoint filter
+"Does ValidationRule.Validate(object, CultureInfo, BindingExpressionBase) get called automatically if overridden?"
+"Why the project for server side presents in solutions of "".NET MAUI Blazor Hybrid and Web App"" type even in WebAssembly render mode case?"
+Wrong characters from PDF when extracting text using PDF Pig in c#
+CollectionView and selected item: Android background color
+XDCAM formatting SDK
+ARM64 application running as x64 on ARM64 machine
+"In Microsoft's ColorConsoleLogger example, how is the configuration updated?"
+invalid username/password logon denied using Oracle.ManagedDataAccess in Blazor Server App
+"Error with onblur, There is no argument given that corresponds to the required parameter 'e'"
+Exception in C# code when trying to call a stored procedure with encrypted param
+c# - How to download large files in .NET application?
+How to load a website (HTML) and click a button?
+Not routing specific route with Ocelot and return code 200
+How to setup a remote Powershell communication between devices using c# with Kerberos/Certificate?
+"How to change {, } behaviour?"
+.NET MAUI - Dependency Injection - Constructor is never called
+WPF Popup using Touch Input
+Scene References for Unity Chapter Loader SO
+How can I programmatically change a SpriteRenderer's material to URP's Sprite-Unlit-Default?
+"Sending mail using smtp-mail.outlook.com error ""Authentication unsuccessful, basic authentication is disabled"""
+'IServiceCollection' does not contain definition for 'AddApplicationInsightsTelemetryWorkerService'
+Does the EF Core 8.0.20 process correctly AsSplitQuery queries with conditions & paging that pull data from tables with one-to-many relationships?
+"In app update throwing error ""user cancelled"" when i click on update button in update prompt"
+My WPF app suddenly crashes: Exception Info: System.NotImplementedException
+Why does this LibraryImport fail to compile in .NET?
+Prompt launched from SYSTEM via CreateProcessAsUser exits immediately without showing UI or writing logs
+Problem with getting serial port names with c# on Linux
+"EF Core Table Per Hierarchy: Query with base type in child element ""Translation of member 'Parent' on entity type 'Base' failed"""
+My maui android app doesn't upscale properly on different devices
+Getting the name of the folder that contains the project itself rather than the bin/directory folder
+c# regex replace string within a specified string with spaces
+Bouncy Castle (C#) X509Name equivalent but not the same?
+Can I impersonate a gMSA (managed service account) with LogonUser/WindowsIdentity to test folder write access?
+Manually added Razor page doesn't render razor component
+How to stop Directory.EnumerateFiles() from silently adding U+FFFD for non-utf8 filenames?
+"C# Selenium using Kendo-dropdownlist, Actions (mouse) do not work. Space bar, arrows keys do work"
+How to get actual size of box collider?
+How to build C# code once and run C# tests in parallel on two runners?
+Text box value not getting cleared correctly
+Copy part of the drawing in the same DrawingSession
+.NET Framework 4.7 app fails to load dependency from .NET Standard library due to NuGet selecting different assemblies
+File does not have a stream with WriteToDirectory with .7zip
+MAUI C# Listview blank cells
+Upgrading from .NET framework 4.8 VB.NET project to .NET 10
+How to refresh a Zoho access token only when expired in a .NET Azure Timer Trigger (Isolated Process)?
+OIDC Authentication Fails on Public URL Behind Reverse Proxy IIS
+Deep linking in NET9 MAUI
+Writing Spill/Array Data to Excel using OpenXML in C# causes cell to become uneditable
+Modal Window: Tooltip does not appear until window is reactivated
+Accept enum parameter from HTTP header in controller action in ASP.NET Core
+Deploy MAUI app for Android on physical device but not on a emulator
+"""Query can return incomplete data"" warning should be resolved by convention"
+How to use MiniProfiler EF Core not in ASP.NET Core context?
+Selenium and c#
+"SqlBulkCopy is failing to save records with an error ""The given ColumnMapping does not match up with any column in the source or destination."""
+CA1873 Evaluation of this argument may be expensive and unnecessary if logging is disabled
+Microsoft Solver Foundation giving wild result for a simple problem
+How to Inject a .NET managed DLL from a web url into a Unity game
+How to fix mutable objects inside a copy of IReadOnly copy of a list
+How to replace a COM Interop with the ComWrapper Source Generator?
+Power off Xbox Series controller with C# via Bluetooth
+Error in Azure Functions project in a public class. Changing to a static class is not working
+Unable to create a 'DbContext' of type 'AppDbContext'. The exception 'Object reference not set to an instance of an object.' was thrown
+When and why should I use ConfigureAwait(false) in C# async/await?
+Polygon centroid calculation - centroid outside the polygon
+I start integration tests with `dotnet test`. They spawn IIS Express which fails ONLY on CI pipeline if I require code coverage
+Seeking Advice: Orchard Core vs. Umbraco vs. Custom Build for a Security-Sensitive Project
+How to use JSExport in two projects in the same web+C# app
+How can I disable these C# suggestions in Visual Studio?
+Why are items not written to console immediately after being processed?
+Blazor web app vs Blazor web assembly standalone App
+Python Debugging Behavior Different From C# Implementation of Python
+Deserialization of XML with multiple namespaces
+How to assert the number of SQL queries EF Core executes in integration tests?
+Blazor EditForm: Query parameters not binding to DateTime inputs on navigation
+Send email using OAuth and Microsoft personal email
+"Entity Framework Core equivalent of getting the int result similarly to the .ExecuteScalar(""SELECT dbo.ufn_xxx(...)"")?"
+E_UNEXPECTED(（8000FFFF) error while calling functions on a webview2 element
+"Should I write ""Task.Run()"" in the controller's called method?"
+ASP.NET Core file-based application with default serialization causing error
+CSOM code to connect to SharePoint Online via Azure Active Directory app throws 401 error
+Handling mutable models in MVVM
+Extract Bangla Text From Image
+Getting 400 Bad Request on HubConnection to Default mode Azure SignalR
+"How to implement a ""new"" indicator that highlights a change for x seconds with Rx.Net?"
+How to avoid heap allocation when calling interface methods on multiple struct types in a shared list
+Deep link error OnCreate for Android in NET9 MAUI
+"AddForce does not push, but teleports"
+"""`ElementReference` is not assignable to parameter type 'object?[]?"" error on `InvokeAsync` method"
+Creating a ServiceBase class for client apps
+How do I pre-populate Custom Attribute in Microsoft Entra External Id
+Create C# library with SWIG generated sources using CMake
+"Unity gameobject destroyed and returns ""null"" but still returns ""obj == null"" as false"
+"Opening a new window for logging, and keeping it open for rest of process"
+"In "".NET MAUI Blazor Hybrid and Web App""-type project, got ""An unhandled error has occurred"" in GUI but to error output anywhere"
+How to trigger nullability check in C#?
+How can I resolve issue about BindingExpression in WPF C#?
+Issue with UndoRecord.StartCustomRecord in VSTO add-in: Undo stack breaks after bullet/numbering
+BootstrapBlazor: Validation error inside a Table always appears on the first row
+Disable closing of Console Application Windows Terminal in C#
+"Azure Function App, add custom tag for App Insights with Acitivty.Current.SetTag"
+Coding a Nested JSON object using Newtonsoft.Json
+Which authentication approaches are suited with .NET MAUI Blazor Hybrid and Web App without SSR?
+Why does /Account/Login briefly render then disappear in a .NET 10 Blazor Web App using InteractiveServer and ASP.NET Identity?
+How to use .Include() in Entity Framework across classes without repetition
+How do you manage multiple if statements?
+Users receive duplicate emails when sending to multiple google groups
+Unity 6 keeps giving me error from cs.meta file
+PdfSharp's PdfDocument.AcroForm.Fields contains less text input fields than the PDF in Adobe
+Verify object value returns false when the value is changed in code using MOQ
+"ServiceBusOutput binding not working in .NET 8 isolated Azure Function, but manual send works"
+Do DLLs lose attributes on build
+Unity bluetooth OBD-II reader setup not working on K-Line
+Events (and behavior?) buttons won't show up on the player input object in my player
+"AI Ollama console application, pass an image to the LLM using KernelFunction"
+Can I use a [ThreadStatic] field with a static local function to avoid creating closures?
+Unity - mesh generation bug
+I can hear some crackling noise in my proximity chat
+Why is the build of my C# project producing the following output during compilation?
+How do I parse an object with a Dictionary from a yaml file?
+Is reading XML with LINQ-to-XML thread-safe?
+Can MCP chat clients handle simultaneous requests?
+Render deploy of ASP.NET Core Web API works but endpoints no
+Unity - mouse/touch click doesn't work while on-screen button is active
+JavaScript cannot connect to WebSocket hosted by Kestrel
+"Shorthand to ""reuse"" object obtained from List?"
+Microsoft.SemanticKernel + OpenAI .NET: ChatClient.CompleteChatAsync throws HTTP 500 (server_error) — how can I debug/fix this?
+WINUI Scale without fuzzy
+Misconverting A/B MiniMax to A/B Negamax
+How to get a number pad dialog in a Blazor Server web app
+Override default XML namespace for Authenticate/AuthenticateResponse DTOs in ServiceStack?
+Why (-1 - int.MinValue) does not cause integer overflow?
+Is there a way to get a ref struct property using reflection?
+How can I use the lockout feature in ASP.NET with the pre-compiled Identity package?
+Problem closing an ajaxToolkit:ModalPopupExtender
+Why do the field variables not change?
+How to use the [DefaultValue] attribute to ignore boolean = true properties in JSON serialization
+How to load multiple API responses in one object
+What’s the most efficient way to map large entity models to DTOs in ASP.NET Core without using AutoMapper?
+How can I provide a custom validation in an InputText that is generated through a foreach loop?
+"TimeSpan greater than ""days"" defined as ISO 8601 and subtracted/added to DateTime"
+Best Practice passing object to component blazor
+How to implement a seamless animation?
+Is it possible to log ApplicationBuilder configuration failure?
+Best practice method to dynamically log as program runs C#
+"I am trying to recall a specific variable, from an object, using a string, aka, how would I be able to effectively do, object.""string""?"
+.NET Maui FileSaver not reliably saving a file due to Android/iOS closing the application
+"ASP.NET Core 8 Code Generator error: ""Minimal hosting scenario! InvalidOperationException"""
+Dictionary inheritance vs Instanciated Dictionary vs Extension methods when working with Generic Dictionaries
+Trying to generate IBAN with Iban.net IbanBuilder
+HttpWebRequest works in WinForms but fails under IIS
+Handle many broadcast receivers
+WPF Command CanExecute is not called with the CommandParameter in DataTemplate
+.NET Framework SDK project: Launch arguments duplicated for x64 platform
+"DistinctBy, but preserve the last element of each group of duplicates"
+What does .NET DateTime Ticks represent when Kind is Unspecified?
+How can I override a property in a way that gives me static access to the property?
+Is the finish awaited process executed using multi thread or interrupt function in this scenario
+Why is my `Task.Delay` not waking on time if the system enters sleep or hibernation
+How to configure and distribute an Excel add-in created with Blazor?
+Is there a way to include different Build.props per solution?
+Continuous scrolling grid (Like Excel)
+iTextSharp rectangle drawn is shown incorrectly in a few pages
+How to deserialize JSON object with nesting
+"ASP.NET Core 8.0: CORS, UseStaticFiles and Azure app service"
+Entity Framework Core replaces 0 with Null - how can I prevent this behaviour?
+C# Socket handling - how to set the timeout
+AWSSDK .Net GetObjectAsync hung
+Deducing instance to handle an object in C#
+"Using CommunityToolkit.Camera, how can I save picture in a particular folder?"
+How a page knows when a flyout page summoned by the user gets closed
+"Enable the ""Undo Move"" context menu after File.Move"
+How to Preserve Both [Required] and Nullable Properties in Swashbuckle Schema Output?
+Receiving FOREIGN KEY constraint error when trying to update database in the EF Core
+How to access a JSON file in WWWROOT folder of Blazor application?
+Resolve key with dependency injection in AddJwtAuthentication in ASP.NET Core app
+Closing the app and then reopening still uses the same instance of Window in MAUI
+How to stretch the last column to fill the whole width?
+Is there any way to manipulate the content of the files in a deployed Blazor app (_content folder specifically)
+Databound ExpandoObject property won't update in dynamic XAML
+How to correctly add Arabic text to an AcroForm field in iText 7/9 (.NET) so it stays correct after flattening?
+JsonReaderException: The maximum configured depth of 64 has been exceeded. Cannot read next JSON object. Microsoft.AspNetCore.OpenApi
+Trouble with ASP.NET Core 8 & Angular project
+Where does an exception with an empty call stack come from?
+"How to bind ""DataGridComboBoxColumn.ItemsSource"" to Enum collections declared in different derived classes displayed by DataGrid rows?"
+iText PDF Persian text rendering issue — characters appear broken
+ASP.NET Core 8 Identity doesn't confirm email
+ASP.NET Core Web API : OpenAPI/Swagger Ui with custom authorization header
+Is it possible to stream the creation of a zip file to a frontend web page? (C#)
+Can System.Text.Json tolerate an unrecognized type discriminator during deserialization?
+PDF.js + iTextSharp: anonymization rectangles wrong on rotated (/Rotate) pages
+How to make a list of objects visible in Unity Inspector?
+"I need to access the ""canSeePlayer"" property in the playerController script from enemies script"
+c# semantic kernel mcp server connection
+Validate file content from malicious script
+Is it possible to bind ItemsControl to a nested property
+Resolving a circular/recursive dependency with dependency injection
+Should using TransactionScope be inside a try..catch or the other way around?
+"How to add custom pluralization of table names when using ""dotnet ef dbcontext scaffold"" command"
+Make a floating point origin in unity
+"Multiple [Authorize(Schemes = “A”)] [Authorize(Schemes = “B”)] attributes vs [Authorize(Schemes = ""A,B"")] - AND or OR logic?"
+Mouse to world position Monogame
+"Why the submenu buttons inside a VSIX Extension are always disabled and how to correctly enable them, on VS2026?"
+How to specify a field of default value to be always included individually in yaml definition for a C# OpenAPI service
+Jittery movement in tilebased Pokemon-like movement system
+How can I improve input validation in a C# console application?
+position of pointer on PointerMovedEvent in Avalonia UI changes only once
+Set correct default value for color properties
+Conditionally register collections of non-generic abstractions in Simple Injector
+Changing the default accept header in Scalar
+Epson TM-m30III don't print the £ symbol
+Why OnMouseDown() is still not working after I checked the script and the Collider and they are all fine and connected to the object?
+OpenApi 3.1 and AddOpenApi in ASP.NET Core application Int32 vs. String
+Can't connect to Service Bus Emulator from Functions even though it works through API server
+C# project with a package reference to a nuget with an exe assembly
+A C# question about adding a value to a dictionary
+"Convert.ToBase64String results in ""AccessViolationException"" over a byte array produced by SKBitmap.Encode"
+"Why is Animator.SetBool(string, bool)'s effect within a coroutine not consistently reflected in editor or animation behaviour?"
+How can I get Liquid Data Mapper to target .NET 8 and not .NET Framework 4.6.2?
+Black screen and error sound in Windows 11 Pro kiosk mode
+"C# Build System (MSBuilds, .csproj): Is there a difference between '#if __IOS__' and '#if IOS' or are they the same?"
+How to Serialize the Github ExchangeApi in C#
+How to iterate using PropertyInfo
+GetProcessesByName returns incorrect results
+How do I define a C# / ASP.NET MVC String class with a MaxLength that works with Entity Framework Core?
+Class resets to null after login in MudBlazor because page reloads – how can I persist the user until he logs out?
+Value passed to ManufacturerSerialNum property of ServiceCalls.TemplateObject is being ignored
+How to use OllamaSharp Embeddings to get Cosine Similarity
+How can a connection to an OPC UA Module be established?
+"EF Core migrations fail in .NET 10 with ""Telemetry is: Enabled"" JSON parsing error - telemetry disable not working"
+How do I prevent JSON deserializer converting a date value in a DataSet when the first row is NULL
+Why does this Razor code compile even though I reuse the same loop variable name in nested foreach
+"ILRepack build throws ""Type exists in both ..."" error"
+NLog.Web.AspNetCore not formatting object as JSON
+AvaloniaUI strange async application loading
+Dependabot not raising PR
+"""Cannot access a closed Stream"" when trying to return PDF from controller using iText"
+How would I clamp a quaternion angle for a door in a 3D Scene Unity C#?
+Why does the first response in my OpenAI Realtime C# session show cached token usage (cached_input_tokens) even though no prior context exists?
+Does the dynamic keyword box the value types?
+How do I get the hwnd of Word using PowerShell to show the comparison of two docs?
+How to enable logging in C# SignedXML (System.Security.Cryptography.Xml)
+Unable to create a 'DbContext' of type 'RuntimeType'
+"Minimal API: Dictionary<string, string> always null when sending data with IFormFile via multipart/form-data"
+Are variables provided in a primary constructor discarded when only used for initializing properties?
+Transferring the files to AWS sub folder using TransferUtility
+"C# dependency injection error: ""Some services are not able to be constructed"""
+While implementing custom stack I got type 'int' must be a reference type in order to use it as parameter 'T' in the generic type or method 'Stack<T>'
+How can I edit text inside Avalonia DataGrid cell and take the new text value of that cell to make a query?
+ASP.NET Core site can't find Default route on startup
+Every pptx made with OpenXml prompts a repair by PowerPoint
+Custom properties is not included in Serilog messages when other variables are included
+Why is my WPF DataGrid RowDetail ignoring SelectedItem but accepts ItemsSource?
+ImageSharp and overloads
+AutoMapper error: MapperConfiguration does not contain constructor that takes 1 arguments
+Azure Agent Retrieval (Azure AI Search) returns JSON references instead of LLM-generated answer
+"Is minifying of CSS classes names across the razor files, css files and c# files possible?"
+App .NET 9.0 MAUI+ Camera.MAUI.ZXing ver. 1.0.0. Barcode Reader is very slow and read a different values for the same barcode
+How to have a debug window that shows geometry and is fully responsive?
+PlayerPrefs won't update between simultaneous players
+IBM MQ 2059 (MQRC_Q_MGR_NOT_AVAILABLE) error in .NET using XMS with certificate-based SSL setup
+Why does the NetworkStream.ReadAsync call end the loop
+How do I replace a certain file in a directory with the old one if it gets downloaded again?
+Postgres 23505 duplicate key exception in EF Core AddOrUpdate (race condition on initial insert)
+How to make system proxy settings apply to HttpClient.GetAsync() without restarting Windows?
+Invalid status line exception trying to establish local gRPC connection with Grpc.Net.Client
+How to hide the raw string literal indentation line in VS2022?
+How can I find what is the real error raised in macOS in a MAUI project?
+Is there a better way to replace placeholders in DataTable (Reqnroll) with [StepArgumentTransformation]?
+"EF Core 9 migration fails on production database copy with ""Cannot release the application lock"" error"
+How to restrict generic type parameters to a set of classes?
+Generated Blazor components compile but render nothing when created by a Roslyn analyzer
+.NET MAUI App - How do you play music natively?
+Markdown Table Displays Correctly in Console but Misaligned in Mezon
+"How to expose ""private"" fields to a Service class while adhering to Single Responsibility Principle"
+WinUI 3 DataTemplateSelector always crashed when using AOT
+Dapr / Aspire PubSub not loading component yaml
+Variable Copies in Multi-Threading foreach loops question
+Is there any way to automatically detect adb port in bluestacks?
+"Docusign API RequestJWTUserTokenAsync - ""No such host is known. (https:443)"""
+Json Serialization - Work around for ExpandableObjectConverter
+C# EasyHook SOCKET Connect
+Inconsistent handling of unclosed quotes in header vs data rows (BadDataException vs silent column mismatch)
+How to read Boolean value from Stream as a TextReader asynchronously?
+Ninjascript Candle Detection
+Metalama method aspect not getting injected properties
+How can I get a list of colors from an array without randomness?
+How to handle multiple aggregations on the same Kafka event stream when each needs a different partitioning key?
+Is there a solution for deserialization problem in NRules in combination with LINQ?
+.NET Core Razor Page erroneously invoking OnGet when clicking an anchor tag in _Layout.cshtml
+EPPlus - How to create stacked column charts row-wise (example included)?
+.NET 9 MAUI Popup custom return raises an error
+In FusionCache how to change logging level depending on for how long Fail Safe is activated?
+Warning UseKestrel() port issue
+C# Detect if mouse is over any window in hierarchy
+Azure Blob storage failing to download in Maui app (debugging on Windows MAchine)
+Customize Autofac to implement strict scalar cardinality enforcement a la MEF
+DinkToPdf / wkhtmltopdf prints only 19 pages even with 64-bit DLL
+"Refactoring Azure Functions .dll files to external project makes it fail for durable functions, why"
+Cake Build in Visual Studio Code not working at all
+NUnit Testing with COM objects for VSTO Add-Ins: HRESULT: 0x80004002
+IOptionsMonitor not tracking changes
+Visual Studio documentation reduce IntelliSense list spacing
+.NET 10 Solution Template not applying Solution Folders on SLNX Solutions
+Implementing plugin architecture pattern in .NET MAUI Blazor Hybrid
+"Is there an issue with using SkiaSharp, WPF, and .NET Runtime Support (/clr:netcore) together?"
+Window jumps back to original position after drag
+Visual Studio - ASP.NET Core MVC / C# docker container app can't connect to the browser with 100% out of the box scaffolded code
+Is there any way to setup Azure Function/triggers programatically without the Function/Trigger attributes?
+Why is there a stackoverflow in Avalonia DataGrid?
+Unable to retrieve a list of shared items in OneDrive for a user
+How to transfer session data from SSR to Interactive mode in Blazor?
+Bind certificate to a port without calling into unmanaged code?
+OpenXmlPowerTools Regex not working as expected
+Blazor Server client side authentication with gRPC
+Implements generic WinRT interfaces use <AllowUnsafeBlocks>True</AllowUnsafeBlocks>. But where exactly do I place that setting?
+WPF InlineUIContainer displaying images incorrectly
+Avalonia DataGrid - Horizontal scrolling cuts off cells when RowHeight is less than 20
+How do I convert a derived class to base abstract generic class when returned from function?
+get or set nonexistent properties of Powershell object
+C#/XAML MVVM non-existent DataType for DataTemplate in namespace
+Debugging SignalR Redis backplane issues
+Validate and decrypt a JWE id_token with JwtSecurityTokenHandler ValidateToken with .NET Framework DotnetNuke
+"C#, .NET 8 and T4 to load assembly"
+CommunityToolkit Popup for iOS has margins
+"WinUI3 Listview scrolling to ""next portion"" on key press"
+How does TaskCompletionSource work when an exception occurs?
+Dependency issue in C++/CLI interface to use a C# library in GameMaker
+CollectionView using C# MAUI for Android Not Showing Anything
+Changing the version of an assembly reference is not allowed during debugging
+Send array of objects to .NET controller action
+ListView doesn't fire ItemSelected in iOS
+MassTransit JobConsumer never hit
+"EF Core CLI: ""Unable to create a 'DbContext' of type ''"" error when running migration from multi-project solution"
+await on object method call with nullable syntax throws exception
+Why does the postfix operator ! say it's not needed when compiling in Release Mode in Rider
+How to conditionally compose the EF from parts?
+I got exception after adding automatic configuration generation in C# project
+How to prevent main window from stealing focus from an addin form on keypress?
+Xceed DockingManager dropdownbutton not showing content
+Typesense filter_by: starts-with filter returns too few results and combined filters return 0
+Stored procedure result truncates at 2033 characters
+A DependencyProperty with a CoerceValueCallback is behaving weird
+Overloaded postincrement operator and ToString() not executing in the expected order
+ComponentSpace - SSO - ISamlServiceProvider.SamlState is empty during GetLocalSPConfiguration Intermittently
+WinUI 3 Class Library Dependency Injection
+LDAP search works via ldapsearch over VPN but fails in C# (System.DirectoryServices.Protocols) — connection/auth issue?
+Can't see cursor on steamdeck joystick
+RTSP stream on Wpf using Gstreamer
+How to correctly map POCO objects to InsertBinaryAsync ClickHouse
+SharePoint 2013 On-Premises to SharePoint Online Migration via C# CSOM: Fetching Historical File Versions via URL/REST returns 404 / Bad Request
+ASP.NET Swagger operationfilter security clearing does not remove padlock
+How to block default Public nuget repository nuget.org for dotnet builds
+C# MsgReader - Modified time must be zero for streams
+Is there a way to apply grid query filters before constructing the view in NonFactors.Grid.Mvc6?
+Blazor not showing spinner when page loads
+Do collection expressions like [] always create a new object?
+TCPListener returns error when it disconnects
+Upgrade Azure Search to Azure AI Search .NET SDK version 11 on .NET Core 3.1
+How can I adjust the scope of isolated CSS is ASP.NET Core MVC such that it applies to all elements on the page
+How to test if a specific event with specific args was one of many events raised?
+SharePoint CSOM finding the target of a redirect
+Mongo driver C# is always using global flag for regex
+Why is my Object not updating its relevant position to myHands?
+Passing arguments to a Worker Service from another application
+Trying to include input textboxes in a PDF file created with PuppeteerSharp
+Awaiting a TaskCompletionSource from two threads
+"Number of Sundays (Mondays, ...) in month?"
+Unity Action decouple classes
+"yarn graphql-codegen error "" require() of ES Module Y from Y not supported"""
+Mudblazor Components custom CSS not loading
+C# TSS Interacting with the TPM
+How to access class type property inside of generic method in C#
+IconImageSource and ToolbarItem not working as expected
+"Using YARP, System Web Adapters and AddAuthenticationStateSerialization to authenticate a Blazor application"
+Program created in Visual Studio
+Visual Studio debugger crashes when selecting IFormFile in Swagger UI
+"Can I get a RuleTile to consistently rotate its texture by 90°, 180° or 270°?"
+VS solution configurations
+AzureOpenAI deployment Issue
+Serialize and deserialize property with dynamically assigned property name based on a type given in an attribute
+Winforms panel not redrawing rectangles properly
+AutoCAD 2026.1.1: IAcSmEvents.OnChanged fires event code 30 instead of ACSM_DATABASE_OPENED (16)
+How to edit items inside an observable collection from a view
+Cannot see my API call on frontend console?
+Keycloak supported ASP.net app loops following authentication
+How to use optional chaining to shorten this C# code?
+ASP.NET Core MVC Identity is not confirming email account addresses on registration
+.NET Avalonia image rendering pure quality
+C# ExcelDataReader reading foreign characters incorrectly from CSV
+Could not load type 'Microsoft.AspNetCore.Http.Metadata.IApiEndpointMetadata'
+I can't figure out why the enemies are spawning outside the rooms
+.NET migrations with vulnerabilities
+Options to read file content from a Word document with restrictive Sensitivity level like Confidential
+"Roadmap for learning C++ required for game engine development (graphics, physics, memory management)?"
+How to compare 3d directions as equidistant on both diagonal and horizontal/vertical
+Prevent chunking in ASP.NET Core 6 Web API
+MongoDB .NET - Updating embedded document in list with filters based on Parent and Child
+Integrating native Android SDK into a MAUI application
+Why doesn't Roslyn CA1001 get triggered for an auto-implemented property's backing field?
+"after opening RemoteApp using AxMsRdpClient7NotSafeForScripting, the Input Method Editor (IME) of the RemoteApp window fails to run in exclusive mode"
+"How to programmatically call ""Shut down"", ""Restart"", ""Update and Shut down"", ""Update and restart"" from WinUI 3 C# app?"
+Persistent NullReferenceException on List Add (.Items.Add) after PlayFab Login
+How can I distinguish a player signed in anonymously from a player signed in with Apple Sign In?
+Is there a way to see all objects while debugging in Visual Studio?
+Why is EnterCriticalSection not timing out?
+How to hide cursor and show it on Shift+Escape?
+"MAUI: SQLite database ""removed"" after app closes in release mode"
+How to get the numeric value that does not end with `%`
+AES GCM Encryption error - CKR_MECHANISM_PARAM_INVALID
+How to run PowerShell script as admin with policy and scope
+How can I limit my code snippet to only show up in the intellisense ddl when typing the shortcut
+How do I fix the System.AccessViolationException?
+Cannot get a specific ErrorCode from Firebase.Auth
+How to trigger FT Optix ToggleButton's update?
+"Find, Extract and Save Embedded XML File in PDF"
+Razor Page not rendering
+Why isn't there a returnif keyword or something in c#?
+NLog 6.0.7 Multiple archives created in multi-process logging setup
+Visual Studio 2026 C# Code Analyzer CS1998 is missing
+Visual Studio Pro 2022 React TS & ASP.NET Core Template Not Working from Creation
+Why isn't client updating after its turn?
+Is there a tidy way to declare a variable that I need to assign to inside a lock()?
+Why does my parallel XML raw pointer parser work slower?
+Minimal Version 10 QR Code Generator in C# for Legacy .NET
+How do I upload a file from a game to a device in a Unity project?
+Why FileSystemInfo.Refresh doesn't update timestamps after file deletion
+How to filter out dependency telemetry for internal kubernetes calls in Application Insights?
+Microsoft Semantic Kernel Vectordata with Redis ensureCollectionExists can't find collection
+Export data from excel workbook to Memorystream
+How to build a mobile barcode scanner that retrieves product prices from a custom API (similar to Scan2Info)?
+"In a Blazor project, can I download a file without js interop?"
+How to bind List item inside DataTemplate
+InvokePattern.Invoke does not activate Access/VBA button when window is on secondary monitor
+Read/write to USB serial device while it's in use
+Re-registering a Prism region when a pin tab in TabControl
+Optimizing large file processing with 250k+ rows and 350+ validation rules
+"Database not updating, using C# and Windows forms"
+Can I embed a .NET console as a widget in a web page
+ASP.NET C# CheckBoxList items vanishing on postback
+Blazor virtualization for items with different sizes
+How to structure a multi-repository .NET web application
+How to call Windows Runtime Apis without setting the dotnet TargetFramework to net8-windows.X?
+Opening a modal based on Mudradio selection in Mudblazor
+Why do my pixel values change when loading loading multi-page Tiffs in C# using System.Drawing?
+WebApplicationBuilder: What triggers launchUrl to actually launch the browser?
+Creating an M3U file with Avalonia cross-platform (Windows and Android)
+Automatically tie a UnityEngine.Profiling profiler sample to every method in a class
+CAN-BUS j2534 project - problem with receiving data
+Access denied while deleting in .NET
+Cloudflare blocks direct API request when Google Chrome doesn't
+Can System.Text.Json.Serialization detect long reference cycles?
+Why is my script to move my character in Unity not working?
+Getting item type of a List<T> subclass with Cecil
+System.Windows.Forms's WebBrowser is garbage collected differently in .NET Framework and Core
+.NET 9 MAUI and Android: fonts are not displayed
+"C# expression tree, property convert string to int/long"
+Post build event return 9009 even though path is correct
+Free .NET Maui translator
+.NET MAUI project – XAML IntelliSense and code-behind stopped working after upgrading to Visual Studio Insider
+Google Cloud Run background worker cannot resolve Application Default Credentials for Pub/Sub (works locally)
+How to configure WolverineFx in a background worker project
+Implement ASP.NET Core style attribute based routing in ASP.NET MVC?
+Title: Fixing Shaking and Jumping in Custom LoopPanel with Inertia Scrolling and Snap-to-Item
+MassTransit scheduled redelivery with Kafka and Hangfire does not work
+How do I properly implement the logout behavior from the Blazor Identity template into my existing project?
+DbContext being auto added to DI container
+"WifiAdapter.ScanAsync() show different list to Windows ""Show available networks"""
+ASP.NET MVC: Anti-forgery token could not be decrypted after 10–15 minutes of idle time
+System.Dynamic.DynamicObject TryGetMember not working in Powershell
+Errors persist when rebuilding fixed .NET 9.0 Blazor web app (but not in Incognito)
+How to change the serialized format of time data?
+Error when using Harmony 2 with MelonLoader: 'Harmony' is a namespace but is used like a type
+System.CommandLine root command option handler fallback
+CapsuleCast sometimes does not work when driving on an inclined plane
+Working with Azure AD B2C using MS Graph API became a nightmare
+"A valid exception to ""Never touch managed resources in the finalizer""?"
+Microsoft Graph 5.0: Is there a way to tell if a file has been updated?
+UnauthorizedAccessException not being caught in FakeItEasy test
+Why does the round trip from creation of self-signed EC X509Certificate to PEM file to load fails in .NET 9?
+How to write data to a gip device (Xbox Series controller)?
+Code formatting issue after every change in the Razor file
+"How to configure logging to Azure App Insights / Azure Log Stream in ""new"" Azure Functions?"
+AppDomain.CurrentDomain.UnhandledException not working within System.CommandLine
+ASP.NET Core 8 - Configuration.GetConnectionString() returns null despite appsettings.json setup
+Binding a ViewModel to data from an API
+WPF ComboBox not updating height when items change
+How can I create a horizontal platform in Farseer Physics Engine that could only collide with a ball when the ball is above the platform?
+How can the client certificate be accessed in ASP.NET Core 10 Minimal API?
+Dynamic Forms in ADO.NET
+How to set window position on different monitor from main window
+Searching orders from bexio api using RestRequest
+Now Acumatica has removed FSARTRan (in 2025 R2)
+"When I use CvInvoke.Imread, a System.Reflection.ReflectionTypeLoadException happens"
+List<IFormFile> is null for large files. Reproducible at will
+CORS error when calling RefreshToken from frontend (No 'Access-Control-Allow-Origin' header)
+Using Directory.packages.props GlobalPackageReference only seems to work with ManagePackageVersionsCentrally
+.NET 8/9 SDKs installed but WPF project shows only .NET Framework 4.8 in Visual Studio
+Why is CancellationToken.None generating CS0426 The type name 'CancellationToken' does not exist in the type 'None'
+"Dapper QueryAsync calling SQL Server stored procedure is 3x slower than SSMS (SP ~6s, C# ~17–19s)"
+Azure Functions SQL trigger delete operation - how to get id of deleted record?
+.NET 8.0 always returns 403
+Grabbing User Lockout location in C#
+Serilog Tracing - Azure Monitor with Traces and mismatched spans
+Using Action events
+SWIG multiple inheritance problem when returning a C++ class wrapped as an interface
+Implementing voip in a MAUI application?
+C# form.cs window has been edited in Visual Studio but the changes doesn't show when I run the project
+Page with @attribute [Authorize] behaves unexpectedly with @rendermode InteractiveServer
+What is the Best external dll for AES-GCM encrypt/decrypt for C# .Net 4.8.1
+How to start developing HTTP server as a beginner for learning projects? and is it even a good idea?
+Paypal Payment API - call back on HTTP errors
+How to check if gameobject with Rigidbody and a Physic material doesn't move in Unity3d in C# in another script?
+Why doesn't cookie authentication work in my Blazor .NET 8 app?
+How to share values that are split from one property across multiple controls in WPF & C#
+Required attribute is not working for the body request at the method of API endpoint
+How to resolve a mismatch in binding an object in a ListView in MAUI
+LinqPad: add column when calling ToSpreadsheet()
+How to pass value to dynamic form
+"Nuget package ""GDAL"" - Unable to load DLL 'gdal_wrap' when in an addin"
+"Why can I create ""en-UN"" as a culture, when it does not exist"
+Looking for an idea for a project to work on while studying programming
+I can't see the contents of my objects in Visual Studio 2022 in debug mode
+How do you apply WPF Fluent theme (+ Application.ThemeMode theme-aware) to a control's Background?
+DrawText inside a foreach cycle with SkiaSharp
+OpenCvSharp4 in Debian 13 (bookworm) throws DllNotFoundException
+How to split long-single-line-strings into virtual lines while ensuring that the final result is still a single-long-line at runtime?
+Why getting 404 from SignalR?
+Rearrange xml attribute's value list (style) in C#
+How to cause the CA2254 warning in your own library?
+How to access XAML element from a different class code behind?
+Why C# ConcurrentDictionary has AddOrUpdate overload with addValueFactory method?
+Identify the real error in the execution of MAUI for MacCatalyst
+"C# Https call using HttpClient does work in Windows 7, but not in Windows 10"
+C# String to literal bytes
+"For Xunit 3, when using [assembly: CaptureConsole], does that work with parallel tests"
+Get Object Parameter in Hidden Situation
+Text to speech while highlighting current word
+Why does my ASP.NET Core seed method only add data when the admin user does not exist?
+How to generate APK using unity 6
+How do I find out the type of items in a generic type collection?
+C# .NET TcpClient.Connect and timeouts
+C# ELastic.Clients.Elasticsearch 9.2.1 - how to protect sensitive fields?
+PdfiumViewer in c# WPF application
+How can I get rid of this ASP.NET boilerplate?
+Why is casting to object first needed to satisfy the compiler but the compiler also says casting to object was unnecessary
+Problems with JWT Token. ASP.NET
+Adding new elements to DBSet via LINQ
+How can I refactor a widely-used C# class to support constructor dependency injection without breaking existing usages?
+Mathf.MoveTowards Does nothing
+How to return data annotations error message in one string?
+C# Winforms treeview .NET 10 new feature CompareOptions.NumericOrdering
+Remove un-numbered lines from vscode
+ComboBox SelectedValue cannot be changed from null
+Azure Function: Unable to Read JSON File After Deployment While Works in Local Environment
+Azure Function App puts ApplicationProperties of ServiceBusMessage into the body instead of its own ApplicationProperties property
+How to create a MudTable with a fixed header that expands to fit the size of the parent container
+BackgroundService on Clean Architecture
+".NET / EF Core / AutoMapper causing PostgreSQL ""invalid input syntax for type json"" error when saving entity"
+Using a class property in linq when using Entity Framework
+How do I make directional movement in my 3D Raylib game
+Configurable data transformation engine
+"Attempting to Implement a MenuBar, but cannot get Commands to register and execute on click"
+"Bearer error=""invalid_token"", error_description=""The signature key was not found"""
+How to upload files from a C# console app to Sharepoint?
+OpenXML TableRow bottom border hidden by next row
+"Could not load file or assembly 'MyProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified"
+.NET iOS: App sporadically crashes after NFC read when returning a large struct (Data). Changing it to a class fixes it — why?
+C# NET Core LINQ To Entities doubling subquery for sorting
+Blazored not displaying as expected
+Gets AggregateException on LINQ extension method using LINQKIT
+Task in C# is cancelling by itself
+LibVLCSharp VideoView overflows bounds in AvaloniaUI
+Generic interface inheritance
+"How can I automatically apply custom naming conventions for PK, FK, index, sequence and default column values in EF Core migrations?"
+Agent never move in the path of the navmesh surface when baking in script. how to make the agent move on the path and not in diagonal on the walls?
+"Get the method name for a route in an attribute, but without the specific text"
+Why doesn’t ActionResult<T> work in .NET Azure Functions isolated worker model?
+"How to intercept keys not defined in VSStd2K, such as Shift+Tab?"
+StackExchange.Redis Implementing ZINCRBY with XX flag
+Get System.Timers.Timer to fire on a WPF Window's thread using the Timer's SynchronizingObject
+I have controllers in ASP.NET Core and I need to inherit from the BaseController
+WPF Slider jumps back to old position when seeking in LibVLCSharp MediaPlayer
+"SDK ""Microsoft.NET.Sdk.Android"" not found"
+Angular app on Visual Studio 2022 with new build system (ESBuild)
+Tell C# compiler not to warn based on a debug constant whose value might change on the next run
+Why does Apache Ignite throw an exception in .NET 9+?
+How to make image white outside of contour in OpenCvSharp
+Why is my custom IPipelineBehavior not triggered in MediatR?
+I can't code without the feature of auto complete bt AI
+How to stop/cancel click activation of Windows notification?
+Are extension properties subject to being displayed in the debugger by default?
+"Command ""nuget push"" to private BaGetter server uploads a 0-byte package instead of actual content"
+ASP.NET Core MVC : get form text info to a controller
+How to catch AccessViolationException in .NET 8 and gracefully exit the application?
+Getting an INSERT statement conflicted with the FOREIGN KEY constraint when adding a parent and child record at same time using EF Core 7.0.20
+Mouse wheel scrolling on a Winforms panel stops when mouse pointer hovers over richtextbox on listview
+Unable to Access SD card in android application(unity) at runtime
+How to solve Windows .NET MAUI app publish errors?
+Blazor PDF export : recommendations for radzen dataGrids vs custom HTML/CSS?
+"Getting ""Headers are read-only, response has already started."" when calling SignInManager.PasswordSignInAsync using the latest version of Blazor"
+"Microsoft Teams Bot (Microsoft 365 Agent SDK) SSO does not show login popup after sign-out, always re-authenticates same account"
+Godot 4.4.1 C# Error 'no suitable method found to override'
+Serialize/deserialize a ReferenceLoop of ISerializable objects with Newtonsoft.JSON (Json.NET)
+Why is the authorize attribute pointing to account/login?
+Multi-version Revit add-in
+Why does xUnit consider that a JToken is equal to all the numbers?
+Generic interface with default implementations
+Generic output type depending on input parameter type
+Perform validation across multiple cells during Save in Batch Edit using Syncfusion Blazor Data Grid
+The NET10 MAUI app crashes in Release: InvalidCastException
+How can my Windows service application interact with a GUI application?
+Can't get two DbContexts to work in same ASP.NET Core solution with EF Core / SQL Server
+Looking for a better way to handle animation trigger calling in Unity using a Blend Tree and object instantiation
+.NET Firebase Send Push Notification Error
+What is an efficient way to aggregate paginated REST API responses in .NET without loading all pages sequentially?
+ScrollView on .NET 9 iOS doesn't work (text doesn't show)
+"Not able to bind the data in a servicebus triggered function, .NET 8 isolated model"
+How do I test Blazor Server from Playwright?
+How can I implement consistent typed error propagation in C# without scattering try/catch across layers?
+Task.Delay versus custom DispatcherTimer-based delay in WPF
+How can I pass a reference to an internal class upon construction of a public-facing subclass without violating nullabe safety?
+Why is a ConcurrentDictionary faster than a Dictionary in benchmark?
+Trying to Get Serial info to separate it from other
+How to reliably find out if an IEnumerable<T> is materialized?
+How can I automatically inject common services into all command/query handlers without manually modifying each constructor?
+How to force the Application.Run to wait for all async void handlers?
+Chaining multiple ContinueWith
+Is there a better way to simulate work in unit tests?
+Method-body equivalent of lambda expression
+"C# Maui passing a reference of 'this' down a code chain in order to use a DisplayAlert, does not display the alert, but awaits a result"
+EPSON LQ-350 - Control Continuous Printing via C# code to print line by line and prevent form feed
+How to snap player x coordinate to the x value of a game object such as a ladder
+UnsafeAccessor not updating private field when targeting a struct in .NET 8
+HttpClient.PostAsJsonAsync (C#) returns 400 - string field is required
+How can I modify a ParticleSystem.ShapeModule.texture programmatically?
+How to add the as-if navigation property defined by the external parameter?
+"How do I correct the error ""No constructor for type 'Int32' has 1 parameters."" that I received from a maui xaml file?"
+"Deserialization via Newtonsoft for classes with a reference loop, private constructors and private/internal properties setters"
+How to Force Dark Mode Maui App - Windows
+Registering a strategy
+How to mock ILogger and invoke via callback Console.Writeline to have invocations in test explorer?
+Resolving ServiceProvider DI Container and Prism Dialog registration
+Adding a file path to the local storage in the ViewModel MVVM NET MAUI
+C# SkiaSharp draws translucent pixels too dark
+"Upgrading Visual Studio extension from 2019 to 2026, how to replace text?"
+I need help fixing this crouching bug
+Different result by cast negative double to uint with .NET Framework 4.7.2 and .NET 9.0
+XML Digital Signature valid locally but rejected by remote server when running in Linux Docker container (.NET 5/WCF)
+"MRU structure with fixed number of elements, automatically adapting to LINQ queries"
+Allow anonymous access to resource owned by someone else
+"Interpolate the SqlParameter[] arguments with ""EXEC {storedProcedure}"" dynamically"
+I cannot scroll vertically in a data grid in a .NET MAUI unless I resize my screen first
+Nullable warning when upgrading to extension-members syntax
+How do you add a choicefield dropdown to the form builder connectors settings section in sitefinity using FormsConnectorDefinitionsExtender
+Fixing error CS0579 when creating a C# library
+How to make C# code more readable and maintainable when using Dapper and raw SQL queries in C#?
+How to globally override the default value of a property in Avalonia?
+"Mapster: Does Adapt<T>() use custom mappings defined in IRegister, or do I need to use IMapper?"
+Create specific delegate from compatible generalized delegate?
+OAuth 2.0 error for Google Drive 127.0.0.1 refused to connect
+Decrypt JWE from OpenID Connect /userinfo endpoint .NET framework
+Why task cancellation does not work in my code?
+How to Add Custom Properties to App Insights Request Telemetry
+How do I rename NSwag generated properties that clash with other types?
+A list object gets the last five years of an object
+How to get response errors from webforms WebMethod in production?
+How to avoid unnecessary evaluations in LINQ queries using OrderBy followed by multiple ThenBy clauses
+Debug SessionState using SQL Server connection error
+MS Graph to add event into shared calendar using C#
+Deserialize an XML with multiple namespaces
+How to get base url from RestSharp interceptor?
+How to fix ERR_INVALID_URL_SCHEME when initializing C# in WebAssembly in node.js?
+"What is the csproj property ""GenerateAppxPackageOnBuild"" for? Do I need it in my NuGet class library package?"
+How to freeze a player so that he does not move to one side
+Force RedirectToPage() to include query parameters with empty values?
+Popup return with CommunityToolkit.Maui 12.1.x issue
+Can't get TextBlock to fill the ComboBoxItem in Avalonia
+Deserialization backward compatibility when type of property has changed
+.NET 8 background service not running post RestAPI deployment in IIS
+How to remedy a persistent security certificate error in an Excel Add-In project
+Distributed Cache (redis) InstanceName in options of AddStackExchangeRedisCache does not prefix keys
+.gitignore for .NET MAUI and WinForms projects
+C# Native AoT - How to get pointer to Managed class to pass as parameter to Com Object
+Autofac: ObjectDisposedException when resolving dependencies from factory delegate in ASP.NET Web API
+panel scroll slow paint thumb moving not properly
+WinForms (.NET 8): How to open a Form or UserControl from a property in a UserControl (Designer support)
+Component is not rendering after StateHasChanged call
+How do I create a custom MouseButtonEventArgs in WPF?
+Finding the source of: A task's exception(s) were not observed either by waiting on the task or accessing its exception property
+Specify a nested generic type `Mock<IOptions<T>>` with a C# ID string
+How to access DbSet properties at runtime
+D3D11 CORRUPTION:Is it normal for duplicate-but-identical DX11 states to cause corruption if one copy is released?
+PreEmptive Protection Dotfuscator Can not build when not setting true for autoGenerateIfMissing
+LinqToSql float stored procedure param generates string that is too long for double value of 0.820035
+RestSharp stops working in installed version of software
+C#/.NET - VSCode workspace incorrectly marking using directives as unnecessary
+Add external service in Aspire
+UWP Page leads to Crash on Windows 10 Mobile but works fine on Desktop
+Prefab type mismatch
+How to securely implement JWT authentication in a .NET health monitoring app using MySQL?
+Blazor Server LDAP Authentication Fails with “In order to perform this operation a successful bind must be completed”
+How to create token using A128CBC_HS256 encryption in c#
+Firebase Release Monitoring Not Updating for Android in .NET MAUI (net9.0)
+Central Package Management not working as expected for transitive packages
+C# WinForms Panel cutting off way too much of controls inside it for no reason
+Blazor Using Input Control for Date or DateTime
+"How to remove ""Inheritance Hierarchy"", ""Syntax"", and ""See Also"" sections in SHFB? I need user-style documentation"

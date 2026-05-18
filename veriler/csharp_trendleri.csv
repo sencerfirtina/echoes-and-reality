@@ -1,0 +1,1035 @@
+﻿Makale_Basligi
+State Machines in .NET: Modelling Uber's Trip Lifecycle with EF Core
+"redb.Route — Apache Camel for .NET: 22 transports, 30+ EIP patterns, compiled DSL"
+ASP .NET Core Bootstrap toast
+I built a zero-dependency C# Vector Database that saturates DDR5 RAM bandwidth
+I Built a VS Code Extension That Brings the Visual Studio Experience to .NET Developers
+"14 months solo-build, a travel planning site, share your real itineraries with the world (and hide your secret spots from strangers)"
+MCP (Model Context Protocol) for .NET Devs — What It Is and Why You'll Be Using It Soon
+"Game Dev Digest — Issue #331 - AI Opinions, Grass System, How Tos, and more"
+C# got left behind in the AI Agent hype. So I fixed it! AgentDevKit
+Structured Output in .NET Agents
+.NET Design Patterns Deep Dive: What Still Matters in 2026
+License to Fail
+I wrote a .NET library for syscalls and process injection
+"How I Render 100,000 Unity Objects With One Draw Call (38ms to 0.4ms)"
+Using Channel in C# to Control SQS Message Processing with LocalStack
+Automatically deleting blobs in Azure Blob Storage
+Another simple TCP chat in C#? Why not
+"Building a Website Contact Scraper API in .NET 10: Architecture, Crawling, and Fighting Cloudflare"
+"Speech, search, and Stable Diffusion — calling HuggingFace from C#"
+I Built a Native Windows Music Player with WinUI 3 — Here's What I Learned
+Tools and Dependency Injection in Microsoft Agent Framework
+Day 1 learning C#: variables and data types
+Creating a super-efficient Inverted String algorithm in C#
+The Asymmetry of Change: Why Your Tests Are Looking the Wrong Way
+Why I built Parlotype: a privacy-first voice-to-English desktop app on .NET 10
+C# Networking Deep Dive With io_uring part 2 - Bridge the Async Model
+RAG with EF Core and pgvector
+"Real-time Driver Location Tracking in .NET: Redis GEO, State Buffer and SignalR"
+"How I, knowing only IF, vibecoded CivicSurvival: a 158K-line mod for Cities: Skylines II, a RAG server, and 300 analyzers in 3 months"
+Modernize Legacy .NET Without a Full Rewrite: A Practical Roadmap
+Dynamic Agent Context with AIContextProvider
+Introducing Kiwi DI: Simplifying Dependency Injection in .NET Ecosystems
+Multi-Agent Forensics: Rescuing SAS Zombie Assault TD from the Flash Graveyard
+Why I stopped using exceptions for control flow in my .NET 8 APIs
+Ensinando a calcular SENOS em LINGUAGEM C sem bibliotecas
+Linear Search vs Binary Search (and Why It Actually Matters)
+"Collections in C#: List, Dictionary, Queue, Stack"
+Controlling Token Growth with Chat Reducers
+"C# JVM Guide: JDK, CLR & Java Interop for .NET"
+C# သင်ခန်းစာ - ၇
+C# သင်ခန်းစာ - ၈
+C# သင်ခန်းစာ - ၆
+C# သင်ခန်းစာ - ၄
+C# သင်ခန်းစာ - ၅
+I built ConfigWay — a runtime config editor for ASP.NET Core (my first open source project)
+Clean Architecture in .NET 10 — The Big Picture
+A Semantic Kernel Alternative for .NET — When and Why You'd Reach for One
+Why I Stopped Using MediatR and Built CQRS From Scratch in .NET 10
+Building WeaveLLM: Why .NET Deserves a Better then LangChain
+Chapter 12: Inference - Generating New Text
+I spent a year building Apache Camel for .NET. Here's the honest state of it.
+State Management and Chat History
+"Game Dev Digest — Issue #329 - Game Design, Tools, AI, Programming and more"
+Debugging Production and Performance Issues in .NET — A Practical Guide
+Building an Interactive Cohort Analysis Chart in WPF and What Happens When You Ask AI to Do It Instead
+Chapter 11: The Full GPT - Assembling the Model
+Numix Dark Cursor Installer for Windows — Open Source Tool
+10 .NET Open Source Libraries Every Developer Should Know in 2026
+I Got Tired of Hand-Rolling Expression Trees. So I Built QuerySpec.
+What I Learned Building a Production-Style Shopping List App with Angular and ASP.NET Core (CQRS)
+How to Use Java JARs and .NET DLLs Across Platforms
+I built a native C# DataFrame engine to rival Python Polars (it's actually faster on some things)
+How to Pass Data Between Controllers in ASP.NET Core
+C# Networking Deep Dive With io_uring (part 1/5) - Toe Dipping
+Building Modern Apps with Blazor and .NET MAUI — What Actually Works in 2026
+I built a NuGet middleware to catch N+1 problems and slow queries in ASP.NET Core
+Chapter 9: Single-Head Attention - Tokens Looking at Each Other
+C#: 𝗧𝗵𝗲 𝗦𝗽𝗲𝗰𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗣𝗮𝘁𝘁𝗲𝗿𝗻
+Async/Await in Production: The Bug That Only Appeared Under Load
+"🪴 𝗣𝗮𝘁𝘁𝗲𝗿𝗻 𝗺𝗮𝘁𝗰𝗵𝗶𝗻𝗴 𝗶𝗻 𝗖# — 𝗰𝗹𝗲𝗮𝗻 𝗰𝗼𝗱𝗲 𝘄𝗶𝘁𝗵 𝗶𝘀, 𝘀𝘄𝗶𝘁𝗰𝗵, 𝗮𝗻𝗱 𝘄𝗵𝗲𝗻 👇"
+Keyboard shortcuts: 847 combinations to memorize. Mouse gestures: just wiggle.
+How to Switch the Algorithms at Runtime with Strategy Pattern in C#
+Chapter 8: RMS Normalisation and Residual Connections
+Deadlock-Free by Construction: How Typhon Eliminates Deadlocks Instead of Detecting Them
+Cómo manejar fallos transitorios en .NET con Polly y ResiliencePipelineBuilder
+Background Services in .NET — IHostedService and BackgroundService Explained
+Mastering Dependency Injection in .NET
+Anatomy of a Shared Memory Bridge: How .NET Calls Java In-Process
+Chapter 7: The Training Loop and Adam Optimiser
+Decoupling with Chain of Responsibility Pattern in C#
+"Chapter 6: Embeddings, the Forward Pass, and the Loss Function"
+"CLAUDE.md for C# and .NET: 13 Rules That Make AI Write Modern, Idiomatic Production Code"
+Global Exception Handling in ASP.NET Core — The Complete Guide
+"introduction to C: Why the ""Latin"" of programming Languages still Matters🚀"
+Chapter 5: Linear Transformation and Softmax
+"Post-Mortem: How a ""Performance"" PR Introduced 28 New Regressions"
+Why .NET interviews feel harder than they should
+Rethinking MVVM Architecture: Clarifying Layer Responsibilities
+Chapter 4: The Bigram Model - Simplest Possible Language Model
+PATCH-ing a resource with nullable properties
+Stop Handing Over Your Entire Wallet: DTOs in .NET Explained
+"Building a Cloud-Native Event Ticketing System with DDD, Event-Driven Architecture & CQRS in .NET 8"
+AI integrations: Rely or verify? Checking Semantic Kernel
+Calling Stored Procedures in Entity Framework and Choosing the Right ORM Tool
+Day 1/90: C# setup and .NET environment - C# Engineering
+How to change TabControl strip background color in owner-draw mode without hiding tabs
+Building QuizTest — A WPF Quiz Application for Educational Institutions
+"Kubernetes Probes + .NET: Liveness, Readiness and Startup in Production"
+How Blazor fits into the .NET ecosystem and what does it mean for businesses looking into it?
+Chapter 3: The Tokenizer - Text to Numbers and Back
+"Built for Myself, Free for You — CineLibrary, Open Source"
+Chapter 2: Backward - Automatic Gradient Computation
+Building a C# Agent with Microsoft Agent Framework and Ollama
+CQRS and the Mediator Pattern in .NET with MediatR
+Chapter 1: The Value Class - Recording the Forward Pass
+Protecting .NET String Values by Hiding Them in Machine Code DLLs
+Dapper vs. Entity Framework Core: An In-Depth Comparison
+Cozy Jam Spring 2026 Retrospective
+Patterns for Routing in ASP.NET Minimal APIs
+EF Core: La explosión cartesiana — Hiciste todo bien y aun así el query es un desastre
+"Clean Architecture in .NET — A Practical, Real-World Guide"
+Building Scalable Backends with DDD & Domain Events .NET C#
+I Built a Production AI Layer Inside a Legacy ASP.NET Core App — and It Broke in Ways Tutorials Never Mention
+C# သင်ခန်းစာ - ၃
+Why Excel Interop Is a Bad Idea for ASP.NET Applications
+Why Is Everyone Rushing for VMware to AWS Migration? Top 7 Reasons Explained
+"Game Dev Digest — Issue #327 - Retro Graphics, Render Graph, Spring Sale and more"
+What Happens Behind the Scenes When You Call an API in .NET
+Abstract Factory Pattern in C# – Step-by-Step Tutorial
+Big O Notation explained
+Porting a SwiftUI App to Avalonia: How does Cross-Platform .NET hold up
+What does your .NET SaaS architecture look like in 2025?
+Gargalo em Banco de Dados: Mensageria e Paginação
+"EF Core: N+1 — Una query en dev, mil queries en producción"
+Paginação em APIs REST com C# e EF Core: Guia Prático
+"Game Dev Digest — Issue #330 - Unity AI, Game Art, and more"
+"Is ""Learn C the Hard Way"" suitable for complete beginners?"
+New open source Mumble Manager project...
+Chat vs. Streaming: Don't Keep Your Users Waiting
+Working on Azirah: Don’t Let Her See You: Lessons from My Game Development Journey
+This Concurrency Bug Stayed Hidden for a Year
+"Muonroi Building Block: an open-core .NET foundation for rule engines, decision tables, and multi-tenancy"
+Creating a Programming Language as an Amateur. What Is It Like?
+Source Generator-Based CQRS Library in C#: A Review of the Mevora Library
+Everyone Using DbContext Concurrently Is Making This Mistake
+Preventing duplicate requests with Idempotency
+"I built a pixel-perfect, printer-independent report designer with Avalonia UI"
+I Deployed a .NET 8 URL Shortener for Free — Here's Every Problem I Hit
+BALISTIC v6.0 — NASA SRTM Terrain Masking: Blast Zones Now Blocked by Real Mountains
+CQRS Without MediatR: Hand-Rolled Command and Query Handlers in .NET
+I made my first NuGet Package
+"ACR is designed as a printer-independent report rendering service, not just a library."
+I stopped rebuilding the same .NET backend every project (here’s what changed)
+Why useEffect Confuses Every C# Developer (And How to Finally Think About It)
+Threading vs Tasks vs Parallelism — The Complete .NET Concurrency Guide
+Adding a 17-stage promotion exam system to my hanafuda game in one session
+"Game Dev Digest — Issue #328 - Inside the Tech And Art, and more"
+How to Extract PDF Coordinates for Signature Placement in C# (Without Uploading Your Files)
+"Game Dev Digest — Issue #326 - UI Toolkit, C#, and more"
+OpenApiWeaver: Generate Type-Safe C# Clients from OpenAPI at Compile Time with Source Generators
+The illusion of Entity Framework
+The State of OCR in .NET (2026): From Text Extraction to Real Pipelines
+Never stop learning
+Free Open Source IdentityServer for .NET 10: Getting Started with IdentityServer10
+How to Add Token Swaps to C# .NET Backends
+I've Been Writing C# for Years. Here's What Nobody Told Me About React.
+IAsyncEnumerable Explained — Async Streams in .NET
+C# သင်ခန်းစာ - ၁
+C# သင်ခန်းစာ - ၂
+Microsecond Latency in a Managed Language: The Performance Philosophy Behind Typhon
+Implementing Chrome-Style Tab Tear-off in WinUI 3
+"Record Types in C# — Immutability, Equality, and When to Use Them"
+ACadSharp.Image: Render DXF and DWG to images in .NET without AutoCAD
+"I built an open-source nuclear & ballistic simulator — 176 weapons, real blast physics, 3D globe"
+Beyond Localhost: Implementing Production-Grade Entra ID Auth in .NET Aspire
+SqlDependency in .NET – Query Notifications and Real-Time Data Change Reactions
+I built a browser-based GUI for managing appsettings.json in .NET — now on NuGet
+"Write, Run, Debug — REslava.Result three-layer observability story"
+Why you should abstract EF's DBContext
+Cookie based authentication & authorization in ASP.NET Core explained
+What Game Engines Know About Data That Databases Forgot
+SecretVault: One Interface to Rule All Your Cloud Secrets in .NET 9
+I built a package manager to simplify Linux
+Implementing the Retry Pattern Using Polly in .NET Applications
+"LangGraph vs Microsoft Agent Framework: Design Your State First, or Discover It Later"
+Practical Combat of MAUI Embedded Web Architecture (2)PicoServer Routing Mechanism and API Design
+Building a Multi-Channel Notification Service in .NET 8
+Structuring Reusable Search Screens in Razor Pages
+Practical Combat of MAUI Embedded Web Architecture (10) App Web Shell Architecture: Building a Cross-Platform Local Application Platform
+Practical Combat of MAUI Embedded Web Architecture (7) PicoServer + WebSocket: Building Real-Time Device Communication and Control Systems
+Practical Combat of MAUI Embedded Web Architecture (9) PicoServer + PWA Offline System: Building a True Local Web App
+Practical Combat of MAUI Embedded Web Architecture (8) Plug-in API Architecture: Automatic Controller Discovery and Modular Expansion
+Practical Combat of MAUI Embedded Web Architecture (4) PicoServer Static File Hosting and Integration with Vue/React Frontends
+Practical Combat of MAUI Embedded Web Architecture (3)Building a Scalable PicoServer REST API Framework
+How I release a Blazor app to 8 distribution channels
+How I built a 20MB Native C# alternative to a 100MB+ Electron app
+What % of your code was written by AI?
+Multiplayer Challenges
+The Multiplayer Leap
+Building a Production-Ready ASP.NET Core Identity System with MySQL
+The power of the Game Loop
+"Game Dev Digest — Issue #325 - UI, Worflows, Patterns and more"
+Using sessions in asp.net anyone have any insight?
+Run Java from C#: 5 Methods with Code Examples
+Why I Over-Engineered a ULID Library for .NET
+DataAccess: Entity Framework
+We Almost Shipped a Security Hole. Here's How React Context and .NET 10 Razor Pages Saved Us
+Stop Writing the Same Null Checks Over and Over Again. There Is a Better Way.
+How to Merge PDFs in .NET Without Microsoft Office (Avoid Common Issues)
+"We Benchmarked SMS (Simple Multiplatform Script) Against C++, C#, and Kotlin. Here's What Happened."
+Refactoring a Simple C# Method Step by Step
+🚀 Simplifying Bulk Operations with Dapper in .NET
+I wrote a .NET assertion library to understand how they work
+RDLC Without BC: When the Feedback Loop Is Longer Than the Workday
+Row-Level Security in Embedded Reporting: The Patterns That Actually Work for .NET SaaS
+Practical Combat of MAUI Embedded Web Architecture (6) PicoServer Web Admin Permission System Design and Authentication Architecture
+Fake Developer Dashboard That Roasts You While You Work 💀
+How to Communicate with Silicon Labs EFR32 NCP from C# / .NET using BGAPI
+I shipped a polished hanafuda card game in 2 days with Claude and Godot
+Trupe: Implementando Supervisor
+Building Secure PDF Automation in .NET: The Trade-offs Nobody Talks About
+"I built a pixel-perfect, printer-independent report designer with Avalonia UI"
+Clean Architecture con c# (Trabajo en progreso 🚧👷🏽)
+"If you have a DI container, you don't need inheritance"
+How I Fixed Supabase Rate Limiting in Production
+[LeapMotion + UniRx] Moving a Camera with Hand Gestures: Two-Hand Edition
+Extracting Structured Data from Images Using AI: Why GPT-4o Beats Traditional OCR for Real-World Documents
+"How I use the same Blazor code for WASM, Windows, Linux, macOS, iOS, Android without a single #if"
+"Design Patterns in C# (Factory, Singleton, Repository, Observer)"
+"Building a Legal Tech Automation System: Syncing Clio, Lawmatics, Zoom & Box Using .NET Hangfire"
+Chapter 10: Multi-Head Attention and the MLP Block
+Ports & Adapters: cómo aislar tu núcleo de todo lo que puede cambiar
+"[C#] Zero-Dependency, High-Performance, Cross-Platform Web Glue Library: PicoServer Value Discovery and Selection Guide"
+[LeapMotion + UniRx] Moving a Camera with Hand Gestures
+🚀 Big update drop for The Coffee Timer! ☕
+QuantumSuperposition and the Type Parameter at the End of the Universe
+Getting Started with Azure Bot Framework — Build Your First Bot in C#
+S&Box game engine: Inspecting grains of sand
+回测的真相与陷阱：为什么「测了十年」不等于「靠谱」
+A programming language for AI on top of C# and Roslyn
+Why I Built an AI Agent Framework in .NET Instead of Python
+The Rule Pattern in C#
+3 LINQ Mistakes That Hurt Backend API Performance in .NET
+Screenshot API for ASP.NET Core: Screenshots and PDFs from C# Without Puppeteer
+JNBridgePro vs IKVM vs Javonet: Java/.NET Bridge Comparison (2026)
+Best .NET PDF Libraries in 2026: Free vs Paid (What Actually Works)
+How I Built GPU-Accelerated Frosted Glass and Acrylic Blur for .NET MAUI (And Why Every Other Library Gets It Wrong)
+Display project Attributes (C#)
+O poder oculto do sealed no C#
+GenHTTP vs ASP.NET Minimal APIs: The C# Benchmark Showdown Nobody Expected
+You're Probably Using async/await Wrong (And It's Costing You)
+"Minimal APIs in .NET Are Not a Toy, Start Treating Them That Way"
+Anti-Corruption Layer in .NET: Protecting Your Domain from External APIs
+Criei um gerenciador de pacotes para simplificar o Linux.
+Trupe: Implementing Supervisor
+Redis INCR: O comando atômico que você deveria conhecer
+Dez tecnologias essenciais em .NET
+Mapping Windows Virtual Keys to actual characters in .NET
+"I Got Tired of XML Doc Comments, So I Built My Own Visual Studio Extension"
+Interface definition has never been so important!
+QuickResult: A Lightweight Result Monad with Full LINQ Query Syntax (Zero Dependencies)
+Build a School Management System in .NET 10 & Blazor — Sprint 1: Identity & User Management
+Zero to First Agent
+NuGet Central Package Management: como criei uma dotnet tool pra limpar o lixo que ninguém limpa
+Fixing AAD Authentication and SSL Issues in IIS — Why We Migrated from System.Data.SqlClient to Microsoft.Data.SqlClient
+Paledev Dark Theme — A Palenight-inspired theme for Visual Studio 2026
+🚀 I've been quietly building new features into The Coffee Timer ☕ — my Pomodoro productivity app — and I'm excited to share what's new!
+How I Fixed a 20-Second API Response Time Using Redis
+AWS Lambda in C# with Datadog Integration
+Introducing RunOnce: A Frictionless Tool for Running Disposable Scripts
+"Game Dev Digest — Issue #323 - Unity Studio, Unity 6.4, AI, and more"
+"Asynchronous Programming στην C#: Θεμελιώδεις Αρχές, Κανόνες και Βαθιά Κατανόηση"
+Why I Built a Privacy-First AI Assistant for Visual Studio 2022 (Goodbye Cloud-Only Copilots!)
+Java + .NET Integration Broke? Here's Your Fix-It Checklist
+How to Find and Highlight Text in Word Documents Using C# (String Search & Regex)
+"Why is the .NET Community so 'Quiet' compared to Go, Rust, or TypeScript?"
+.NET Reflection Performance: CSV Export Benchmarks (Part 2)
+How We Plan to Use C# 14 Interceptors to Eliminate Reflection in Ivy
+Railway-Oriented Programming in C# — without LanguageExt
+EF Core: AsNoTracking() vs AsNoTrackingWithIdentityResolution() 🔍
+Building a GPT From Scratch in C# - Introduction
+Chapter 0: Project Setup
+Why Microsoft Office Interop Fails for PDF Generation in .NET (And What to Use Instead)
+What Your .NET Exceptions Are Telling Attackers (And How to Stop It)
+I built automatic filtering for WPF DataGrid because I was tired of doing it manually
+36. C#(Lists in C#)
+Microsoft Agent Framework: Introduction
+Standardize Your ASP.NET Core API with One Line of Code
+SOLID Principles you won't forget again
+Helper Classes vs Extension Methods
+C# Lowering: What Happens During Compilation (Part 1)
+A Simple Clean Architecture Structure for ASP.NET Core Projects
+"I Built a Chrome Extension in Blazor WASM, Rewrote It in JavaScript, and I'm Going Back to Blazor"
+Are User-Defined Literals Necessary in C#?
+Why C# Keeps Opening Its Syntax (And Why It Matters)
+JWT Refresh Token Rotation in .NET — Why Your Auth is Probably Broken
+C# Tip: 2 ways to generate realistic data using Bogus
+"AI, Hope, and Healing: Can We Build Our Own Personalized mRNA Cancer Vaccine Pipeline?"
+"GitHub Actions for .NET: Build, Test, and Deploy Your API"
+We Built Multi-Tenancy Into a Blazor App. Here's Every Layer Preventing Data Leaks.
+C# to Go: A .NET Developer's Translation Map
+"The Timeless Marriage: GoF Visitor, LINQ Expression Trees, and Why 30-Year-Old Patterns Still Ship Code"
+Building an Enterprise-Grade File Organizer with .NET and Avalonia UI
+How to Send SMS in South Africa Using a Simple REST API (C# Example)
+How I Built a Production-Ready Multi-Tenant SaaS Boilerplate with .NET 10
+MCP server for C# development with real NuGet reflection
+"I built a lightweight Windows internet radio player with C#, WebView2"
+33. C# (Loop Performance)
+100 C# Tips I Wish I Knew Earlier (Part 1)
+.NET Interview questions: Key concepts explained
+Getting Started with ASP.NET Core Web API - A Beginner's Guide
+"AI in Software Development: A Mirror, Not a Magic Wand"
+.NET Reflection Performance: Enum Attribute Benchmarks (Part 1)
+How Dependency Injection Works Internally in .NET
+"Production-Ready AI: Observability, Testing, and Cost Control for LLM Applications"
+Middleware στο ASP.NET Core (C#)
+How to Get Accurate Recording Duration from Unity's Microphone
+Printing Images on an ESC/POS Thermal Printer in .NET MAUI
+Health Checks in ASP.NET Core: Beyond the Basic /health Endpoint
+🐞Bug Resistant Development: Fail Fast – Part 3 (Compile Time Safety)
+Squeezing Microseconds: A Practical Guide to Java/.NET Performance Tuning
+The Value of Value Objects
+I built a tool that turns prompts into native .NET desktop apps — live-compiled
+31. C# (continue)
+The Middleware Pipeline in ASP.NET Core — How It Really Works
+"I built a Visual Studio extension where AI programs using real OOP tools (Roslyn tree, debugger, UI automation)"
+Build vs Buy: The Real Cost of Adding Reports to Your .NET SaaS Product
+Why .NET Deserves Serious Consideration for Your Next Backend Project
+How to Highlight Duplicates in Excel: A Developer-Friendly Guide
+Building Your First Web API with ASP.NET Core Part 4: Putting It All Together & Beyond
+Building Your First Web API with ASP.NET Core Part 1: Getting Started with REST
+"JNBridgePro v12.1: .NET 10, JDK 25, and AI-Assisted Configuration Are Here"
+Multi-Agent Systems: Orchestrating Azure AI Agents with Semantic Kernel
+Building a Health Data Chat Agent with Claude and the Microsoft Agent Framework
+"Satori GC: High Throughput, Low Latency, and a Small Memory Footprint"
+MAUI Embedded Web Architecture Practice (1) Running PicoServer Local Web Service in MAUI Applications
+QuantumSuperposition: a .NET library for when one value isn’t enough
+MAUI + PicoServer: Practical Implementation of Embedded Web Architecture
+4 Essential LLM Tasks in .NET 10 Using GitHub Models 🚀
+Don't use IA only to code faster
+Debugging Payment Webhook Failures in ASP.NET Core
+"Building Conversational AI: Memory Patterns, Context Management, and Conversation Design"
+"Reliable AI Outputs: Function Calling, JSON Mode, and Structured Generation in C#"
+32. C# (Nested Loop)
+Building a Multi-Terminal Restaurant POS with C# .NET — Architecture & Lessons
+You inherited a .NET codebase with zero tests. Now what?
+"Messaging in .NET: Queues, Topics, and Why You Need Them"
+"Building Your First Web API with ASP.NET Core Part 2: Controllers, Models & Your First Endpoint"
+"How to Build a Cross-Platform Barcode, MRZ, and Document Scanner with .NET MAUI Blazor"
+Usando DynamoDB com Brighter V10
+EF Core 10 Performance Issue
+Building Terminal UIs in .NET: How SharpConsoleUI Complements Terminal.Gui
+Stop Using Switch Statements: Keyed Services in .NET - A Practical Approach
+Best C# PDF Library in 2026? A Real-World .NET Comparison
+Building Simply.ClipboardMonitor: A clipboard inspection tool
+Closures no .NET: As Alocações Invisíveis que Estão Matando sua Performance
+Pattern Matching vs Manual Casting in C#
+.NET Programming Habits I Wish I’d Started Sooner
+29. C# (foreach Loop)
+ASP.NET Core MVC Explained — Step-by-Step with Real Code & Best Practices
+Stop using magic strings in your Firestore .NET queries
+Exploring Distributed Coordination in .NET (Clustron DKV)
+Working with Data in C#: Arrays
+C#: Does a Static Constructor Always Run First?
+9 Things That Silently Kill Your .NET Build Time (and How to Fix Each One)
+28. C# (Multidimensional Arrays)
+CancellationToken στο .NET
+Execution Strategy στο Entity Framework Core
+100 C# Tips I Wish I Knew Earlier (Part 1)
+IAsyncEnumerable<T> in C#: Streaming Data Without Loading Everything into Memory
+Extract Text from PDF Files Using C#
+Async/Await no .NET 10: Eliminando o Overhead da State Machine
+"How Claude Code's entire source code leaked, and it wasn't a hack"
+I Benchmarked 3 Ways to Log in .NET : One Allocates Nothing
+FluentValidation σε Clean Architecture
+Brave new C#
+26. C# (Loop Performance)
+Making good/ proper line queries in c#?
+Bridge vs REST vs gRPC: How to Choose Your Java/.NET Communication Method
+Clean Unit Testing in .NET: Practical xUnit and Moq Tips
+Dependency Injection στο .NET
+Why .NET 10's AI-First Architecture Changes How We Build Software
+Building Production RAG Systems in .NET 10: The Complete Guide to Embeddings
+RoslynLens: Give Your AI Assistant Semantic Eyes on .NET Code
+How to take screenshots and generate PDFs in C# and .NET
+Η χρήση του MediatR στην αρχιτεκτονική εφαρμογών Αναγκαιότητα ή τεχνολογική μοντερνιά;
+Just learned the Concept of Delegates in C#
+AsTracking vs AsNoTracking στο Entity Framework Core Πλήρης Ανάλυση με Παραδείγματα
+Using DynamoDB with Brighter V10
+"Async / Await, Task και Thread Pool στο C# Μια πλήρης αλλά απλή εξήγηση"
+Building the Fastest .NET Object Mapper
+Why You Can’t Write to the Response in ASP.NET Core (And How to Fix It)
+I Solved 800+ LeetCode Problems in C# - Here's What I Built
+What Obfuscation solutions exist for Unity?
+Manual Threads vs. Task.Factory: Optimizing Long-Running Workers In .NET development
+Extension Methods in C#
+"Power Your Azure AI Agents: Function Calling, Code Interpreter, and File Search"
+Fixing HTML Table Rowspan Issues in PDFs with IronPDF and C#
+"Value Types vs Reference Types, Struct vs Class, and Boxing & Unboxing — The Complete C# Guide"
+How to Export Excel to PDF in .NET (Fast & Accurate Method)
+Claude Opus 4.6 vs. GPT 5.4
+24. C# (continue)
+Implementing OpenTelemetry with Serilog in a .NET Application [Practical Guide]
+"CLI: A Infraestrutura que Ninguém Vê, Mas Todo Mundo Usa"
+Testing is the most important piece in software engineering
+Swashbuckle Is Dead. Here's How to Migrate to Scalar in .NET 10.
+C# Keeps Getting Better: My Favourite Modern Language Features
+NinjaScript Development: What Traders Need to Know Before Hiring a Developer
+Bridging the Gap: Database Connectivity in C# (ADO.NET) vs. Java (JDBC)
+Your ASP.NET API Already Speaks MCP - It Just Doesn't Know It Yet
+Lambda Expressions in C#
+Supercharge Your APIs: ASP.NET Core + C# 14 Features You Must Know in 2026
+Pushing skills to a new level
+23. C# (break)
+Generic Repository στο Entity Framework Core: Σύγχρονες και Ασύγχρονες Λειτουργίες
+.NET 11 Preview for .NET MAUI: Simplify XAML with Inline C# Expressions
+"Building a Clean Master-Detail App with Blazor Server, MudBlazor, and EF Core"
+The Core Knowledge Every Senior C#/.NET Developer Must Master in 2026
+Your /Models folder is lying to you
+25 Dicas de performance com .NET 10
+22. C# (do-while Loop)
+MCP for .NET: AI Agents That Can Actually Do Things
+20. C# (Infinite Loops)
+"Building a Ballistic Fire Control Simulator with Python, C# and Redis"
+21. C# (while Loop 2)
+19. C# (while Loop)
+Ternary & Conditional Expressions στην C#
+Delegates and Events in C#
+Bringing shadcn/ui to Blazor — Why I Built Blazor Blueprint
+OpenXML SDK vs Spire.Doc: Which One Should You Use for Word Processing in C#?
+ASP.NET Core startup validation part 4
+18. C# (Loops)
+Why Casting Double to Decimal Won't Save Your Financial Data 💸 (A Bug Hunt Story)
+工业级量化开源软件 QuantConnect/LEAN 功能介绍
+C# Deserves Better. So We Built It.
+Native AOT in .NET 10: Everything for C# Developers
+"Introducing DotNetPy: Python Interop for Modern .NET, Reimagined"
+How to implement “CreatedAt” and “UpdatedAt” timestamps in Entity Framework Core?
+How to Solve Unity Cutscene and UI Skip — ChainRacePattern
+Interfaces and Abstract Classes in C#
+Base64 - matemática e C#
+Inline arrays no c# - alocando arrays na stack
+Φόρτωση Δεδομένων στο Entity Framework Core
+17. C# (Char)
+669 bytes for a fire alert. We compressed it to 8. Here's how.
+"Organizando Projetos .NET com o Central Package Management, Directory.Build e EditorConfig"
+Comparing WebForms Core with Microsoft Classic WebForms: Revolution vs. Tradition
+"Game Dev Digest — Issue #318 - RenderTexture Drawing, Tools, UI, and more"
+.NET Learning Notes: Custom In-Memory Provider(1) - Registration and Discovery
+Using C# Record types with MongoDB
+14. C# (Project B: The Gatekeeper)
+15. C# (Project C: BMI Health Checker)
+🧱 Lecture 12: Structured Logging & Monitoring
+25. C# (Nested Loop)
+"PVS-Studio 7.41: MISRA C 2023, enhanced Unreal Engine integration, new logging system, and much more"
+"Encapsulation, Inheritance, and Polymorphism in C#"
+"Pure.DI: DI without container, without .NET type reflection, and with compile-time validation"
+How I Built a .NET 8 Clean Architecture SaaS Boilerplate (And What I Learned)
+Certificate Pinning Pitfalls: Why Rotation Breaks Apps
+Managing database schema changes in .NET From theory to FluentMigrator
+Integrating Scalar API Documentation in ASP.NET Core
+Convert TXT to PDF Using C#
+On a Quest to Make my Own Party Game
+C# Memory Management: Using Span and Memory for Zero-Allocation
+How to Convert Word to PDF in C# Without Microsoft Office (Fast & Server-Safe)
+C# Speech Recording: A Detailed Guide to Implementing Voice Recording with the NAudio Library
+Why Can't User Types Have Literals in C#?
+Async/Await por Debaixo do Capô: Entendendo I/O Assíncrono no .NET
+"EF Core: tu query funciona, tus pruebas pasan… y estás leyendo 50,000 filas para devolver 3"
+Azure Blob Storage in .NET Core Web API v8
+CodeBehind 4.6 Released; Upgrade to .NET 10
+"Constructors, Destructors and this in C#"
+O Legado de Anders: Uma Crônica Exaustiva da Evolução da Linguagem C# e seu Impacto no Desenvolvimento de Software
+Shadow Logging via Events - Complete Decoupling of Business Logic and Logging in DI Environment
+Installing .NET 10 on Linux (Pop!_OS) — The Real Journey 🚀
+تفاوت متد‌های Write و WriteLine در Console سی‌شارپ
+.NET Core: Custom middleware for authentication using JWT and Cookie
+"Game Dev Digest — Issue #317 - Game Design, Profiling, Tools, and more"
+What is C# (c-sharp)?
+27. C# (Arrays)
+Deploy .NET 8 App to Azure Kubernetes Service (AKS)
+STOP PUTTING LOGIC IN YOUR BUTTONS: A BEGINNER'S GUIDE TO SEPARATING CONCERNS IN C#
+Rate my palindrome checker algorithm
+Resize PDF Page Sizes in C#
+Struct vs Record vs Class — Choosing the Right Type in Modern C# (.NET 9/10 Edition)
+Building Production-Grade RAG in .NET : Language Is Not a Barrier
+Extract Structured Data from Car Listings Using AI in .NET 10
+OWASP Top 10 2025—from code to supply chain: Expanding boundaries of security
+Deserializing Polymorphic JSON in .NET Without Losing Type Safety
+3 TypeScript Features That Make C# Developers Jealous
+"Shipping a GUI Without the .NET Runtime: 2 Months with MewUI, a Cross-Platform UI Framework"
+Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.
+Implementing Certificate Pinning in .NET: A Step-by-Step Guide
+SOLID Principles with C#
+"Game Dev Digest — Issue #321 - Fundamentals, Design Choices, Rules, Tools and more"
+"Implementing a ""Conjure-to-Climb"" Mechanic in Unity & C#"
+"My origin story, from a chat with Claude"
+Getting Started with PostgreSQL in .NET: From Zero to Production
+Como consertei a câmera de um port de PC usando a API do Windows (Unity IL2CPP Modding)
+Seu código C# funciona? Parabéns. Agora vamos falar sobre produção.
+"Game Dev Digest — Issue #316 - VFX Grass, Portals, C# Coding, and more"
+What are the Key Differences Between C# vs F#?
+SOLID in C# Part 1: Single Responsibility
+ApiDeck: A Faster Way to Explore ASP.NET Core APIs
+"I Built a Lightweight Rule Engine for JS, C#, and Dart — Here's How It Works"
+Clean Code: Otimizando a Comparação de Listas no C#
+Integrando Sentry com .NET
+Understanding Expression Trees in C# Through a Practical Example
+CSharp-Basics
+.NET: CopyToAsync vs WriteAsync: The Benchmark You Didn’t Know You Needed
+.NET Learning Notes: DelegatingHandler and Harmony (HTTPMataki logging library)
+PicoServer Progressive Usage Guide (VB.NET Version)
+PicoServer - Lightweight Cross-Platform Web Request Glue Library
+Migrating from Semantic Kernel to Microsoft Agent Framework: A C# Developer's Guide
+Building a Local AI Research Agent in C# — From Zero to Autonomous Research
+C#: Add Header and Footer in Word Documents
+PicoServer Progressive Usage Guide (C# Version)
+"IDisposable, Finalizers, and the Dispose Pattern — The Complete Guide for .NET Developers"
+Código síncrono e assíncrono. Qual a diferença entre eles e como pode afetar as requisições?
+Blindando Aplicações no .NET 10: Um Guia Completo sobre Polly e Resiliência
+Stop Paying the REST Tax: How to Actually Call Java from C# at Production Scale
+Side project idea II
+"AI Agents in Semantic Kernel: ChatCompletionAgent, AgentGroupChat, and Orchestration"
+High-Performance Bulk Operations for Dapper and ADO.NET
+"Production RAG with Semantic Kernel: Patterns, Chunking, and Retrieval Strategies"
+Async/Await in C# — A Deep Dive Into How Asynchronous Programming Really Works
+LeftJoin and RightJoin in EF Core 10
+Building a Multi-Provider AI Chat Application with .NET 10 - A Complete Guide
+Trusting PayPal Webhooks the .NET Way
+How to Run a Java JAR from C#: 5 Methods Benchmarked
+"Semantic Kernel Memory: Vector Stores, Embeddings, and Semantic Search"
+Breaking the Memory Wall in .NET: The Buffer–Model Architecture
+"Game Dev Digest — Issue #320 - HDRP News, Publishing, Game Dev Skills and more"
+Semantic Kernel Plugins Deep Dive: From Native Functions to MCP Integration
+Dependency Injection Basics in C#
+Why I Chose CRTP for My C# Result Pattern Library
+"Game Dev Digest — Issue #315 - Debugging Shaders, Physics, and more"
+Strategy & Factory Pattern στην C# Μια ορθολογιστική και SOLID προσέγγιση
+"🐞Bug Resistant Development: Fail Fast – Part 2 (💾Data Validation Attributes – Min, Range, etc.)"
+Implementing Tell and Ask in Trupe — Actor Model library in .NET
+Implementando Tell e Ask no Trupe — Biblioteca de Modelo de Atores em .NET
+"SOLID Principles in C# — A Practical, Real‑World Guide for .NET Developers"
+.NET in Practice – Modeling Time with NodaTime
+Introducing the 'Debugalizers' Visual Studio extension!
+Semantic Kernel from First Principles: Understanding the Architecture
+"CQRS in .NET: Deep Analysis, Benefits, and Trade-Offs"
+"Clean Architecture in .NET: Real-World Pros, Cons and Trade-offs"
+16. C# (Switch Statement)
+Convert Excel to DataTable in C#
+Design Patterns: Facade
+🚀 Desenvolvimento Full-Stack Moderno: TanStack Router + .NET
+What I Learned Building My First Clean Architecture Project in .NET
+Anemic Entities vs Behavior-Rich Entities Από το Anti-Pattern σε σωστό Domain Model (.NET Core / C#)
+"Deploying Agent Framework to Production: Azure AI Foundry, Observability, and Scaling"
+I Got Tired of Wiring Up Notifications From Scratch — So I Built a Library
+Dependency Injection Lifetime for DbContext in .NET: Choosing the Right Scope
+Design Patterns Explained in C# & nopCommerce
+C# 14: The Update That Finally Respects Your Time
+From GC Jitter to Stable Low-Latency: High-Performance Optimization with Span and Memory in ShenDesk
+Primeros pasos con Microsoft Agent Framework: construyendo un chatbot de soporte con C#
+Building a NinjaTrader 8 Indicator: What Actually Went Wrong
+Jeringa: Custom C# Attributes for Easy Dependency Injection
+Model Context Protocol in .NET: Building and Consuming Universal AI Tools
+Agent Framework Workflows: Beyond Chat — Orchestrating Complex AI Tasks
+Introducing the 'Couchbase Explorer' Visual Studio extension!
+Build Domain-driven HTTP services
+Understanding Garbage Collection (GC) in .NET — How It Works and When It Matters
+13. C# (Project A : The Method Calculator)
+Side project idea I
+Calling .NET from Java: Why Your REST Bridge Is Costing You More Than You Think
+lazygit-style TUI for NuGet
+Day -1 of Learning C#
+C# vs Java: A Practical Comparison for Modern Developers
+12. C# (Exceptions)
+11. C# (Parsing)
+"Game Dev Digest — Issue #319 - 2D Guides, Game Ideas/Concepts, Optimizing, and more"
+What the 'sealed' Keyword Means in C# — And When You Should Use It
+How I built an full-cache ORM
+Your Swagger Doc Is More Than Documentation — It's a Test Suite Waiting to Happen
+Starting My C# and .NET Journey — Looking for Advice
+"Designing Error Flows: Exceptions, Success Flags, or Discriminated Unions?"
+"Game Dev Digest — Issue #314 - Design, Marketing, Game play and more"
+Introducing the 'Git Ranger' Visual Studio extension!
+Embedded Trial Keys in .NET: Ship Evaluation Versions Without a Server
+.NET Learning Notes: Custom In-Memory Provider(5) - Include & ThenInclude — Navigation Loading and Fix-Up
+.NET Learning Notes: Custom In-Memory Provider(4) - ReadPath - From IQueryable to Result Execution
+Trace Whether Your .NET `HttpClient` Calls Are Quantum-Safe (PQC) 🚦
+Azure AI Agent Service Part 3: Multi-Agent Orchestration with Semantic Kernel for .NET
+Azure AI Agent Service Part 5: Deploying Multi-Agent Systems to Azure AI Foundry
+Virtually bootstrapping a virtual OS.
+"Azure AI Agent Service Part 4: Production Patterns—State Management, Sessions, and Observability"
+Generative AI in C#: Building Provider-Agnostic LLM Applications with Microsoft.Extensions.AI
+"Difference Between 'const' and 'readonly' in C# — The Definitive, Practical Guide"
+Printing Shipping Labels in C#: When Every Carrier Has Their Own Standard
+Clean Architecture in .NET 10: The Setup (And When It's Overkill)
+🐞Bug Resistant Development: Fail Fast – Part 1 (RequireComponent & OnValidate)
+I built a free HTML to PDF library for .NET because existing options frustrated me
+.NET Learning Notes: Custom In-Memory Provider(3) - Storage Write Model and Key-Based Retrieval
+Unit of Work στην C#: Η ιστορία της συνέπειας και της καθαρότητας στη διαχείριση δεδομένων
+"Surprise: You Can ""Intercept"" the C# lock Statement"
+Azure AI Agent Service: Your First Production-Ready AI Agent in C#
+"Class, Object, Property and Methods in C#"
+Introducing the Visual Studio MCP Server!
+Sharper than ever: the Stainless C# SDK generator is now generally available
+How to Handle Duplicate Webhook Events in ASP.NET Core (Idempotency Guide)
+Convert PowerPoint (PPT/PPTX) to PDF with C#
+Microsoft Agent Framework: The Future of .NET AI Agents Has Arrived
+EF Core HasQueryFilter II
+"Building Modern Realtime .NET Apps: SignalR, R3, AsyncR3, SignalsDotnet, and Redis"
+Handle data set pagination with `PagedListResult`
+"When IDbContextFactory enters the chat, and what it actually fixes."
+"IQueryable vs IEnumerable in C# — The Practical, No‑Nonsense Guide"
+"Dotnet vs Java in 2026: One for the Brain, One for the Backbone."
+C# Becomes the Programming Language of 2025: 7 C# Tips to Boost Development Efficiency
+`XmlFluentValidator`: Code-First XML Validation That Stays Close to Your Rules
+"Add Headers, Footers, and Page Numbers to PDFs in C#"
+C# dynamic is a trap door: stop the leaks before they spread (Must read for Dapper users)
+ASP.NET Core warmup EF Core
+Build a Document Search Engine in C# Without Python
+Semantic Search in C# Without Python
+"Adeus, Swagger UI ? Uma alternativa elegante com Redoc"
+"Hello Betfair: The Same Strategy in F#, C#, VB.NET, and an AI Prompt (bfexplorer)"
+Interface vs Abstract Class in C# — What’s the Difference and When Should You Use Each?
+Exploring the New Features of C# 12: A Detailed Guide with Examples
+How to Insert Special Characters and Symbols in Word Documents Programmatically with C#
+"Writing an ""operating system""?"
+"FirstOrDefault vs SingleOrDefault in C# — The Complete, Practical Guide"
+Sentiment Analysis in C# - Without Python or External APIs
+Your LINQ Filters Are Scattered Everywhere — Here's How to Fix It
+Game Dev Digest — Issue #313 - Procedural Generation and more
+IndexNow: Struggle with implementation (C#)
+Playwright Codegen
+Why Your C# AI Agents Will Fail in Production (And How to Fix It)
+Building SEO Automation in .NET with SERankingSharp
+GitHub Copilot in Visual Studio 2026 – Working Without Agent Skills
+🛠️ Do `.SLN` para `.SLNX` no .NET: O que Mudou e Por quê
+Multi armed bandit exercise 2.5 with C#
+C# Kernels in the Browser: High-Performance GPU Computing with Blazor and WebGPU
+Why Your AI Agent Will Fail Without Containerization (And How to Fix It)
+Can’t Install .NET 10 on Ubuntu via apt? Here’s a Workaround That Actually Works
+Converting RTF to PDF in C#
+Back to Basics: What Every C# Developer Should Know (But Often Forgets)
+Sutton & Barto Gridworld example in C#
+Automating Word Templates: Replacing Text with HTML Programmatically
+"Scaling AI Agents: Mastering Elasticity, State, and Throughput with C#"
+☕ Just launched The Coffee Timer - my personal productivity project 🚀
+100 C# Concepts in 100 Minutes
+Designing Instant Impact: How I Used Shader & URP to Craft the Rhythm of a Dash Attack
+"Rewriting My First NUnit API Tests: Cleaner, Faster, Better"
+Building Your First AI Agent in C# with Microsoft Agent Framework
+Scaling AI Inference: Why Your Next .NET Microservice Needs Kubernetes and ONNX
+"The Real Difference Between Add, TryAdd, and TryAddEnumerable in .NET"
+OpenAI Codex - Using it for Code Review
+09. C# (Non-void Methods)
+4 tabs File Manager for Windows 10/11+ (prototype)
+10. C# (Static Typing vs Dynamic Typing)
+From Monolith to Micro-Brain: Architecting Scalable AI Inference in .NET
+Stop Writing Unreadable Regex - Build Patterns the Fluent Way in C#
+C# 14 - Null Conditional Assignment in .NET10
+"Game Dev Digest — Issue #312 - New Year, New Ways, and more"
+Building Cryptographic Audit Trails for cTrader cBots - A Sidecar Approach
+.NET: Exceptions vs Result Pattern - Performance Benchmark
+Why Your Next AI Agent Should Be a Microservice (And How to Build It with C# & Docker)
+Dependency Injection in ASP.NET Core Why it exists? and what problem it actually solves?
+Type-Safe Collections in C#: How NonEmptyList Eliminates Runtime Exceptions
+Ever wondered how Cheat Engine works?
+"Part 2 - Performance & Concurrency Essentials in C#: Memory, Async, and High-Performance Primitives"
+"Part 3 - Production-Ready C#: Resource Management, Testing & Telemetry, Security & Reliability"
+Stop Treating AI Agents Like Monoliths: A Guide to Cloud-Native Containerization with C#
+Introducing the Visual Studio Toolbox!
+A Reflection from a CS Student and Aspiring Junior Developer
+08. C# (Methods)
+Nexora Launcher — Prototype Release (WPF / .NET 8)
+Result Pattern vs Exception Flow in .NET
+Code Smells in .NET? Use These Visual Studio Metrics to Refactor Smartly
+C#: Find and Replace Text in Word Documents
+07. C# (Scope & Code Blocks)
+06. C# (if / else Conditionals)
+SDK-style Projects for your Visual Studio Extensions!
+"Unit Tests, Integration Tests & End-to-End Tests"
+Bulk Operations in EF Core 10: Beyond SaveChanges()
+Idempotence in Software Engineering: A Comprehensive Guide
+Extensible Visitor Pattern in C#
+How to Create a Vertical Table at One Side of a Word Document Programmatically
+Methods and Parameter Usage in C#
+High-performance backend scripting for .NET
+Don’t Overlook the Basics: Understanding Type in C#
+Read Excel in C# with Simple Code
+04. C# (bool and Comparison Operators )
+05. C# (AND / OR Logical Operators & Short-Circuit)
+The Evolution of C# and TypeScript: Insights from Anders Hejlsberg
+C# 14 extension blocks
+Making Invalid States Unrepresentable: The Billion-Dollar Mistake That Wasn't
+How to check if AutoMapper misses any mapping
+03. C# (Operators)
+02. C# (Naming variables)
+ASP.NET Core Custom Logger — Save Logs to Database (SQL)
+Clean Architecture in .NET 10: Why Your Code Turns Into Spaghetti (And How to Prevent It)
+Clean Architecture in .NET 10: The Domain Layer — Entities That Actually Have Behavior
+01. C# (Variables)
+Going Back to C# Fundamentals — A Deliberate Reset
+Clean Architecture in .NET 10: The Domain Layer — Entities That Actually Have Behavior
+Clean Architecture in .NET 10: Why Your Code Turns Into Spaghetti (And How to Prevent It)
+Clean Architecture in .NET 10: The Application Layer — CQRS Without the Ceremony
+Clean Architecture in .NET 10: The Setup (And When It's Overkill)
+Atomic Transaction Patterns C#
+State Management in WebForms Core 2 (Razor Pages Example)
+From Animation to Game Feel: My RPG Battle System Development Log
+Dapper Micro-ORM Explained
+Split Excel Worksheets into Multiple Files in C#
+Entity Framework's Love Affair with ID Keys: Why Composite Keys Can Be a Pain
+"🛤️ Beginner-Friendly Guide 'Minimum Cost Path with Edge Reversals' - LeetCode 3650 (C++, Python, JavaScript)"
+Performance: Structs e Cópias (Defensivas)
+C# Console menus with Actions
+Convert Markdown to PDF in C#
+ASP .NET Core IDisplayMetadataProvider
+How to implement the Observer Pattern in Unity (and why UnityEvents limit you)
+"Game Dev Digest — Issue #311 - Better Performance, and more"
+ArrayPool
+Built an MCP server for .NET developers working with AI
+What's new in PVS-Studio in 2025?
+How to convert PDF to SVG in C# (Tutorial)
+CodeBehind 4.4 Released
+How to Access Built-in and Custom Word Properties in C#
+Introduction to Microsoft Agent Framework (Part 2 - Exposing Agents)
+AsyncR3 & RabbitMQ
+C# Type Conversions
+The New Field Keyword Improves Properties in C# 14
+How to Parse PDF Files Using C#: Techniques for Reliable Data Extraction
+[BlindSpot] Log 02. C# Socket Optimization : Zero-Allocation & GC Free
+How I Built My First .NET Package (and Got 500+ Downloads)
+The $0 Localization Stack for Solo .NET Developers
+Why I Built Yet Another Mediator (And Why You Might Care)
+C# String Operations
+Having Issues Installing Visual Studio Extensions on ARM Devices? Do this
+Using GitHub Models with the Microsoft Agent Framework
+Todo lo que necesitas saber para publicar NuGets
+Result Pattern in C#
+Memory-Safe Secrets in .NET Configuration
+Chain of Responsibility pattern
+C#.NET - day 10
+License Protection vs. Code Obfuscation: What .NET Developers Actually Need
+Porting Mistreevous to C#: A High-Performance Behavior Tree Library for Modern .NET
+Why study Java or C#
+"C# Loops (for, foreach, while, do-while)"
+Stop Mixing Up Your RDP Sessions: Auto-Label Remote Desktop Windows
+"Game Dev Digest — Issue #310 - Level Design, Indie Marketing, Keeping It Simple, and more"
+🚀 Simplify Your C# Collections with the Spread Operator (..)
+C#.NET - day 09
+How to Merge Cells in Excel in C#
+The Blazor Closure Bug That Made All My Time Slots 24:00 🕛 🕛
+How not to use Static classes in C#
+Redis Implementing Pub Sub and Streams in NET 10
+Porque estudar Java ou C#
+Dabis Content Manager
+Adding Page Numbers to PDF Documents Using C#
+System.CommandLine with Dependency Injection: A Complete Solution
+C#.NET - day 08
+Adding Digital Signatures to PDF Documents via C#
+How to Convert Markdown to HTML Using C#
+Deferred Execution: The Essence of LINQ in C#
+Designed a Complete Hiring Platform But Can't Code - Help Me Build it open source.
+Meet Microsoft Agent Framework — Your .NET Agent Toolkit
+License Transfer & Deactivation in C#: Handling Dead Computers and Hardware Failures
+LINQ Performance Optimization: 5 Patterns Every C# Developer Should Know
+Minimal API Validation in .NET 10
+Mastering Word Document Automation in C#: Integrating Checkbox and Picture Content Controls
+C#.NET - day 07
+"A Lightweight, Plugin-Oriented ETL Engine for Data Synchronization Built on Akka.NET"
+The Unsafe Illusion: Benchmarking C# Pointers vs. Safe Arrays in Unity
+Handling PayPal API Authentication the .NET Way
+How to: NuGet local feeds
+Checkbox Aria TagHelper
+Inside the .NET Engine
+How to Generate and Customize Word Charts Using C#
+Adapter Pattern Explained with Real Examples
+"Dockerizing Your Web API with SQL Server, Dapper, and FluentMigrator"
+Perpetual vs Subscription Licenses: Which Business Model Wins in 2026?
+Catching .NET Vulnerabilities Early: A Hands-On Guide with Puma Scan
+"I got tired of setting up the same .NET architecture every project for 31 times, so I built a clean starter template kit"
+C#.NET - day 06
+Offline License Activation with QR Codes: Serving Air-Gapped Environments in C#
+How to Add Watermarks to PDF Documents Using C#
+"Introducing OpenTransit: A Free, Open-Source Fork of MassTransit v8"
+"Game Dev Digest — Issue #309 - Unity 6.3 LTS, Plus More"
+Understanding API Authentication in C# : Mastering
+WinUI 3: Bloquear doble clic en el TitleBar
+Stop Scattering Your Business Logic: Meet Masterly.BusinessRules for .NET
+"Server-Sent Events in .NET 10: Finally, a Native Solution"
+AsyncR3 (Async reactive extensions for .NET)
+C#.NET - day 05
+Trial License Implementation Patterns in C#: A Technical Deep Dive
+"Part 1 - Core Foundations for Enterprise C#: OOP & SOLID, Clean Architecture, and Type Semantics"
+Cache Purge on Cloudflare for C# Applications
+Unit testing : How to Mock Public Methods in C# with NSubstitute
+C#.NET - day 03
+Building for Europe? Meet Bielik (Open-Source LLM Made in Poland).
+C#.NET - day 04
+Decompiling the New C# 14 field Keyword
+Enterprise DAL Final: Automated User Auditing and Architectural Retrospective
+From 3+ Days to 3.8 Hours: Scaling a .NET CSV Importer for SQL Server
+Channels in C#
+C#.NET - day 02
+Convert RTF Documents to Images in C#
+How to Prevent Software Piracy in C# Desktop Apps: A Complete Guide
+☕ Just launched Coffee Pomodoro - my personal productivity project 🚀
+Building AI-Ready Applications with Model Context Protocol in C#
+C#.NET - day 01
+Trying to understand SOLID Principles with C#
+🚀 Boost Your EF Core Performance with AsNoTracking()
+C# Smart Enums: escape magic number hell
+Starting My Journey into C# .NET
+C# Smart Enums: advanced
+C# Smart Enums: optimized
+Build AI Agents with Microsoft Agent Framework in C#
+"Game Dev Digest — Issue #308 - Unity Roadmap, Tips, and more"
+Clean Up Your C# Loops: Flattening Nested Collections with LINQ SelectMany
+What’s New in .NET 10 (LTS) — Why It Matters for Developers & Businesses
+uRocket - Reactor Networking in C# with io_uring
+How to Build an API with Controllers
+Building Self-Referential Agents with .NET 10 & Aspire (Part 1)
+Complete Guide to PDF Generation in C#
+From Client Request to 24 .NET Microservices: My Solo Migration Journey
+Are primary constructors good?
+Creating Dynamic Pivot Tables and Charts with C#
+🚀 Physics Engine Progress Update I’ve made solid progress on my physics engine!
+"Optimizing .NET 8 API Consumption at Scale: A Technical Deep Dive into Concurrency, Batching, and Resilient Retry Mechanisms"
+🚀 Event-Driven Excellence: Integrating Kafka with Avro in a .NET Hosted Service
+Integrating Campaign Monitor Smart Emails (Transactional) — Minimal Guide
+Top 10 errors found in C# projects in 2025
+"How to Build a WinForms Document Scanner in .NET: TWAIN, Webcam & PDF Export"
+Razor Pages vs MVC: Quando escolher e por quê
+Stop Using IOptions Wrong in .NET!
+🧾 Console.Write(): Explorando todas as possibilidades!
+How I Create PDF Reports from SQL Server in C# Using IronPDF (Beginner Guide)
+What in the world is a DLL?!: Understanding DLLs
+What Is Memory and Why You Should Learn How It Works
+Beyond ASP.NET: Lightweight Alternatives for C# Web Development
+Delete Paragraphs in Word Documents using C#
+Why I Changed My Mind About Exceptions
+Angular PDF Libraries: Free & Paid Tools (In-Depth Developer Guide)
+I Just Published My New Book: Blazor 10 Coding Standards & Best Practices
+"Mastering C# Tuples: Syntax, Use Cases, and Tips"
+C# Minimal API: A Practical Way to Keep Endpoints Clean
+Pattern Matching in C#: The Starters Guide
+C# Guide: Build Dynamic Word Files with Rich Formatting and Data
+Modern C# Development: Custom Exceptions Made Simple
+CurlDotNet: Bringing curl's Power to .NET
+CurlDotNet is Live on NuGet! Copy-Paste curl Commands 🚀 Directly into C#
+Blazor AutoComplete That Actually Scales: From 10 Items to 100K (with AI Superpowers)
+Preparing for the IETF RateLimit Header Standard in .NET
+"RoomSharp v0.4.3: Production-grade migrations, safe-by-default concurrency, and new companion packages"
+"C# PPTX Generation: Build Dynamic, Data-Driven Presentations"
+C# Minimal API: Output Caching
+Why learning to build your own ORM is worth it (even if you use EF Core or Dapper)
+"PVS-Studio 7.40: support for Visual Studio 2026, Qt Creator 18, .NET 10, updated C# diagnostic rules, and more"
+C# Minimal API: Response Caching
+"Game Dev Digest — Issue #306 - Steam Pages, Profiling, and more"
+Stop Paying OpenAI: Free Local AI in .NET with Ollama
+Solving Advent of Code Day 7: Splitting Tachyon Beams
+# CurlDotNet: Bringing curl's Power to .NET
+.NET 10: The Performance Beast That's Redefining Modern Application Development
+"Angular Signals, But Better Now for .NET"
+"Cloud App Journey: Ep. 5 — Cloud Security: Protecting APIs, Credentials, and Data on Azure"
+Domina el uso de paquetes NuGet en .NET
+Multiple Enumerations in LINQ Expressions
+Using Mockaroo and Entity framework to Seed Sample Data for .NET Applications
+C# Word Table Extraction Made Simple
+"Porting Zod to C#: ZodSharp – A Zero-Allocation, High-Performance Schema Validation Library for .NET"
+Progressive Learning: AI Deployment Strategies from Basic to Advanced
+.NET Performance Optimization: Fixing a 15-Second E-Commerce Page Load
+ASP.NET CORE - How to using IAuthorizationRequirementData
+ASP.NET Core - Fundamentals - Error Handling
+ISO 4217 Currency Reference for .NET — Strongly Typed and Production-Ready
+Why I Built My Own Windows Installer in C#
+🧩 Updated AppDbContext.cs (Full Version)
+The AI Data Center Revolution: What It Means for C# Developers in Q4 2025
+"How to Create, Read, or Update Excel Documents in C#"
+Building a web-based code runner for Python & C#
+Accounting Suite (Enterprise Edition)
+Intro to The Network Programming Series
+Stop Writing a Kafka Consumer for Every Topic – Make It Generic in .NET
+Enhancing your .NET API with query language
+🧠 Managed vs Unmanaged Code — Explained for Beginners
+🧱 Lesson 6  - Redis Caching for Performance Optimization
+How to Generate PDFs via API in C# (using TemplateMaster)
+Aspire: The Cloud-Native Framework That Finally Makes Distributed .NET Development Easy
+Understanding Federated Learning: Best Practices for Implementing Privacy-Preserving AI in C# Projects
+Migration from .NET 4.7 to .NET 10
+"SafeMapX — A New Universal Pattern to Eliminate Null Checks, Ternaries & String Plumbing in C#"
+Blazor vs React: A .NET Developer's Honest Comparison
+Legal Research is Changing: How AI Makes Your C# Applications Smarter
+Slicing Through Code: How I Built Fruit Ninja
+🧱 Lesson 5  - Working with PostgreSQL (Multi-Database Setup)
+Soporte multilenguaje en WinUI 3
+Learning .NET from Beginner to Advanced Level's
+dotnet run in .NET 10: Single-File C# Is Finally Here
+Starting My Journey on DEV as a Backend Developer
+How to Structure a .NET Solution That Actually Scales: Clean Architecture Guide
+.𝗡𝗘𝗧 𝟭𝟬 𝗠𝗮𝗸𝗲𝘀 𝗟𝗘𝗙𝗧 & 𝗥𝗜𝗚𝗛𝗧 𝗝𝗼𝗶𝗻𝘀 𝗘𝗮𝘀𝗶𝗲𝗿 𝗧𝗵𝗮𝗻 𝗘𝘃𝗲𝗿!
+Why I Bet My Engineering Career on .NET 9 (And Left Legacy PHP Behind)
+Checking osu! and exploring features of static analyzers
+C# Performance Optimization: Using Span<T> and stackalloc to Eliminate Allocations
+"Game Dev Digest — Issue #304 - Optimization, and more"
+Blazor in .NET 10: What's New and Why It Finally Feels Complete
+Building a Secure DAL: Composable Multi-Tenancy Filtering with C# and Linq2Db
+"A Complete Introduction to C# — The Modern, Powerful, Multi-Paradigm Language for Developers"
+🚀 Entity Framework Core 10: The JSON & Complex Types Revolution Is Here!
+How to Tune Your C# AI Model for Maximum Efficiency: A Step-by-Step Guide
+Achieve Prisma-like Developer Experience in EF Core! Introduction to Linqraft
+Understanding the `as` and `is` Keywords in C#
+Methods and Functions in C#
+HierarchyId in SQL Server and EF Core 8 - Modeling Hierarchical Data
+🚀 How to Build Dynamic LINQ Queries Easily with WhereDynamic in .NET8+
+Repository Pattern vs Direct EF Core: The Great Debate
+Footer TagHelper
+ASP .NET Core model as json
+C# Type System
+Named Configuration Binding in .NET Using the Modern Options Pattern
+C# Record Type
+Building a Simple Cron Scheduler in .NET with Cronos
+Testing HttpClient in .NET without Moq or NSubstitute
+Game Dev Digest — Issue #305 - Game Design and more
+The Shift to Synthetic Data Markets: How to Prepare Your C# Applications for 2026
+Drawing and Writing in MonoGame
+Understanding the Brighter Pipeline
+7 Best Resources to Learn C# — From My Coding Journey to Yours
+Serilog: Get the last log file
+Entendendo o Pipeline do Brighter
+10 Common .NET Logging Mistakes and How to Avoid Them for Maintainable Apps
+🛠️ The Art of State Management: Deciphering the DbContext Lifecycle in EF Core
+nderstanding Reverse Proxy with .NET & SignalR (With Source Code + ZIP)
+Adding Watermarks to Word with C#: Text & Image
+💾 Serialization in Unity — The Invisible System Saving Your Data
+ASP.NET Core Dependency Injection From Scopes & Lifetimes to .NET 9 Source Generators
+🧱 Lesson 2E  - Implementing Controllers (API Layer)
+Gerenciamento Feature Flag em Azure Functions
+Do not let your code turn into sausage that goes beyond screen
+🧱 Lesson 2D -Implementing Application Services (Service Layer and DTOs).
+"A No-Nonsense C# Async, Threading & Concurrency Guide"
+A C# File I/O Quick Reference For professionals
+SimpleW
+🧱 Lesson 2C - Implementing Repository Interfaces (Domain & Infrastructure Layers).
+TypedSql: Turning the C# Type System into a High-Performance SQL Query Engine
+Building Composable RLS: Enterprise Data Security on Autopilot
+Building with Capabilities: The Core API
+Power Patterns: Where Capability Composition Shines
+Merge Multiple Images into a Single PDF in C#
+Mocked data for learning
+Common LINQ Methods with Examples in .NET Core
+Introducing EasyMessages: Stop Wasting Time on Message Wording in .NET (Alpha Release)
+"🏛️ Uniface Forms Explained for C# Developers: The Original ""WinForms"""
+Using MongoDB with Brighter V10
+How to use C# to digitally sign a Word document?
+Usando MongoDB com Brighter V10
+Back to Unity baby!
+ASP .NET Core modals
+Modern C# Development: User Defined Increment and decrement
+I'm building an open-source AI ATC for flight sims (and looking for like-minded devs)
+The Essential Interfaces Every C# Developer Should Know
+5 Low-Code Platforms to Boost Your C# Development in 2025
+Build Your Local AI with C# and .NET
+Applying Object Relational Mapping (ORM) on a C# .NET application
+I don't understand why my Minimal API doesn't bring up swagger
+¿Tienes todos los patitos en línea?
+"Game Dev Digest — Issue #302 - Learning Resources, Online, Physics, and more"
+Merging Multiple File Types into One PDF in C#
+The Two Halves of Program.cs in .NET
+Config-Aware Rules in .NET — The Power Feature of Cocoar.Configuration (Part 2)
+What's New in .NET 10 and C# 14
+C# Async/Await in .NET 10: The Complete Technical Guide for 2025
+How to Generate Styled PDF Tables in C#
+C# TextReader Tutorial: Read Text Files Easily with Real Examples
+CancellationToken: The Complete Technical Guide for .NET Developers
+Tutorial: Building a .NET 9 Console App with Hangfire and Channels
+C# for the Web: How Microsoft is Reshaping Modern Web Development
+Exploring the new .slnx Visual Studio Solutions Format
+🏷️ C# Attributes and Reflection: The Metadata System
+C# Collections Quick Reference
+Exploring Extension Blocks in .NET 10
+Neo and NBitcoin blockchain projects vs. static analyzer. Who wins?
+New File-Based Apps in .NET 10: You Can Now Run C# in Just 1 File!
+C#: Add Page Numbers to a PDF Document
+CurlDotNet: Bringing curl Superpowers to Every Corner of the .NET 10 / C# Stack
+RoomSharp: Source-Generated Data Layer for Modern .NET
+Streams in C#
+Curl in .Net 10 and C#
+"How to Package .NET Software: Choosing Between DLLs, SDKs, and NuGet Packages"
+Building a Real-Time Day Planner in WPF: From Static Design to Dynamic Data
+Python Inside .NET
+Jordium.Snowflake.NET — A Fast and Lightweight Distributed ID Generator for .NET
+Implementing the Inbox Pattern with Brighter V10 using Kafka and PostgreSQL
+How to Use curl in .NET 10 (C#)
+Implementando o Padrão Inbox com Brighter V10 usando Kafka e PostgreSQL
+Demystifying Excel Page Counts in C#: A Practical Guide
+Real-Time Streaming in .NET SignalR — Live Data Like Trading Apps
+My first Windows App
+The .NET News daily newsletter for C# developers
+𝗖𝗮𝗻 𝗬𝗼𝘂 𝗦𝗽𝗼𝘁 𝘁𝗵𝗲 𝗝𝗪𝗧 𝗠𝗶𝘀𝘁𝗮𝗸𝗲?
+Task vs ValueTask in C#
+Variables in C#
+BotticelliBundle: Simplified Deployment of Chatbots using Docker
+Beginner’s Guide to .NET Development
+🎥 SQL Server Partitioning video just dropped!
+Hello MonoGame
+Dev Log 37 - Consolidated Update
+Trupe: Implementing Actor Model in .NET
+Trupe: Implementando o Modelo de Atores no .NET
+C# by Example – Great for Programmers Switching from Other Languages
+"C# PDF Manipulation Guide: Automate Text, Images, and Page Management"
+"Game Dev Digest — Issue #303 - Profiling, Level Design,, Terrain, and more"
+Secrets in .NET: Why Strings Are Not Safe (and What to Do Instead)
+Strategic Pagination Patterns for .NET APIs
+"ByteAether.Ulid 1.3.2: .NET 10 Support, C# 14's Field, and Engineering Zero-Overhead IDs"
+Understanding Span<T> in C#
+"Game Dev Digest — Issue #301- UI, C#, Graphics Programming, and more"
+Dia 3: 🧩 Principio Abierto/Cerrado (Open/Closed Principle) en C#
+How to Insert Page Breaks in Excel?
+C# 14 nima yangiliklar?
+Saving Game Data in Unity — Part 3: ScriptableObjects
+Migrating from MediatR to LiteBus
+C# Basics - What are the types of access modifiers in C#?
+Xperience Community: Essentials
+💳 Building a Lightweight PayPal Payment Gateway Service in C#
+What you need to know about Extension Members in C#
+"CanKit early preview: capability discovery, a ready-to-run CAN demo"
+Understanding IEnumerable in C#: The Foundation of LINQ
+"C# Strings Explained: Methods, Formatting, and Manipulation"
+New Features in .NET 10 and C# 14
+𝗢𝗻𝗹𝘆 𝟭 𝗢𝘂𝘁 𝗼𝗳 𝟱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 𝗦𝗽𝗼𝘁 𝗧𝗵𝗶𝘀 𝗕𝘂𝗴 𝗜𝗻𝘀𝘁𝗮𝗻𝘁𝗹𝘆 — 𝗖𝗮𝗻 𝗬𝗼𝘂?
+"Brighter V10: Um Lançamento Importante com CloudEvents, Novos Provedores e Resiliência Aprimorada"
+Building a Secure Stripe Checkout Integration with ASP.NET Core and Webhook Handling
+Mastering the Options Pattern in .NET — Strongly Typed Configuration Made Simple
+What's new in .NET 10
+C#: Read or Remove Document Properties from Excel
+Migration Guide: Upgrading from Brighter V9 to V10
+Getting Started With Queryable Encryption With the MongoDB EF Core Provider
+Guia de Migração: Atualizando do Brighter V9 para V10
+Extract Tables from Word Documents in C#
+Mastering ILogger in .NET Core — Complete Logging Guide for Developers
+ASP .NET Core Project details
+Comparing C# AI Libraries: Which One Boosts Dev Productivity Most?
+MLOps Best Practices: Streamlining AI Deployments in C# for 2025
+Sleek & Modern WPF: Build a Real-Time Word Counter Dashboard (C# Tutorial)
