@@ -31,7 +31,7 @@ Modeli kendi makinenizde test etmek için aşağıdaki adımları izleyebilirsin
    ```bash
    git clone [TODO: GITHUB_REPO_LINKI_BURAYA]
 
-```
+   ```
 
 2. Gerekli kütüphaneleri yükleyin:
 ```bash
@@ -53,4 +53,4 @@ nltk.download('stopwords')
 
 ---
 
-*Bu proje [TODO: İSMİNİ BURAYA YAZ], Ankara Üniversitesi Bilgisayar Mühendisliği akademik sunumu için geliştirilmiştir.*
+*Bu proje Sencer Fırtına tarafından geliştirilmiştir.*
