@@ -29,13 +29,13 @@ Modeli kendi makinenizde test etmek için aşağıdaki adımları izleyebilirsin
 
 1. Depoyu klonlayın:
    ```bash
-   git clone [TODO: GITHUB_REPO_LINKI_BURAYA]
+   git clone "https://github.com/sencerfirtina/echoes-and-reality"
 
 ```
 
-2. Gerekli kütüphaneleri yükleyin:
+2. Proje bağımlılıklarını tek seferde yüklemek için terminalde şu komutu çalıştırın:
 ```bash
-pip install pandas numpy scikit-learn nltk requests selenium
+pip install -r requirements.txt
 
 ```
 
@@ -49,8 +49,11 @@ nltk.download('stopwords')
 ```
 
 
-4. Yeni bir başlığı analiz etmek için `benzerlik_analizi.py` veya `yapay_zeka_modeli.py` dosyalarını çalıştırın.
+4. Projenin etkileşimli web arayüzünü (Streamlit) ayağa kaldırmak için:
+```bash
+   python -m streamlit run app.py
 
+```
 ---
 
-*Bu proje [TODO: İSMİNİ BURAYA YAZ], Ankara Üniversitesi Bilgisayar Mühendisliği akademik sunumu için geliştirilmiştir.*
+*Bu proje Sencer Fırtına ve Celal Mert Türkay tarafından geliştirilmiştir.*
