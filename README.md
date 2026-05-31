@@ -31,7 +31,7 @@ Modeli kendi makinenizde test etmek için aşağıdaki adımları izleyebilirsin
    ```bash
    git clone "https://github.com/sencerfirtina/echoes-and-reality"
 
-```
+   ```
 
 2. Proje bağımlılıklarını tek seferde yüklemek için terminalde şu komutu çalıştırın:
 ```bash
